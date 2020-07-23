@@ -1,0 +1,5231 @@
+uniprot_id	entrez_id	class	subclass
+O00206	7099	Catalytic receptor	OCR
+O00220	8797	Catalytic receptor	OCR
+O00300	4982	Catalytic receptor	OCR
+O00451	2675	Catalytic receptor	OCR
+O14763	8795	Catalytic receptor	OCR
+O14798	8794	Catalytic receptor	OCR
+O14836	23495	Catalytic receptor	OCR
+O15455	7098	Catalytic receptor	OCR
+O60602	7100	Catalytic receptor	OCR
+O60603	7097	Catalytic receptor	OCR
+O60609	2676	Catalytic receptor	OCR
+O75509	27242	Catalytic receptor	OCR
+O75578	8515	Catalytic receptor	OCR
+O95407	8771	Catalytic receptor	OCR
+O95786	23586	Catalytic receptor	OCR
+P01589	3559	Catalytic receptor	OCR
+P05106	3690	Catalytic receptor	OCR
+P05107	3689	Catalytic receptor	OCR
+P05556	3688	Catalytic receptor	OCR
+P06756	3685	Catalytic receptor	OCR
+P08138	4804	Catalytic receptor	OCR
+P08514	3674	Catalytic receptor	OCR
+P08648	3678	Catalytic receptor	OCR
+P08887	3570	Catalytic receptor	OCR
+P10912	2690	Catalytic receptor	OCR
+P11215	3684	Catalytic receptor	OCR
+P13612	3676	Catalytic receptor	OCR
+P14778	3554	Catalytic receptor	OCR
+P14784	3560	Catalytic receptor	OCR
+P15260	3459	Catalytic receptor	OCR
+P15509	1438	Catalytic receptor	OCR
+P16066	4881	Catalytic receptor	OCR
+P16144	3691	Catalytic receptor	OCR
+P16471	5618	Catalytic receptor	OCR
+P16871	3575	Catalytic receptor	OCR
+P17181	3454	Catalytic receptor	OCR
+P17301	3673	Catalytic receptor	OCR
+P17342	4883	Catalytic receptor	OCR
+P18084	3693	Catalytic receptor	OCR
+P18564	3694	Catalytic receptor	OCR
+P19235	2057	Catalytic receptor	OCR
+P19438	7132	Catalytic receptor	OCR
+P20333	7133	Catalytic receptor	OCR
+P20594	4882	Catalytic receptor	OCR
+P20701	3683	Catalytic receptor	OCR
+P20702	3687	Catalytic receptor	OCR
+P23229	3655	Catalytic receptor	OCR
+P24394	3566	Catalytic receptor	OCR
+P25092	2984	Catalytic receptor	OCR
+P25445	355	Catalytic receptor	OCR
+P25942	958	Catalytic receptor	OCR
+P26006	3675	Catalytic receptor	OCR
+P26010	3695	Catalytic receptor	OCR
+P26012	3696	Catalytic receptor	OCR
+P26951	3563	Catalytic receptor	OCR
+P26992	1271	Catalytic receptor	OCR
+P27930	7850	Catalytic receptor	OCR
+P28908	943	Catalytic receptor	OCR
+P31785	3561	Catalytic receptor	OCR
+P32927	1439	Catalytic receptor	OCR
+P33076	4261	Catalytic receptor	OCR
+P33402	2977	Catalytic receptor	OCR
+P36941	4055	Catalytic receptor	OCR
+P38484	3460	Catalytic receptor	OCR
+P38570	3682	Catalytic receptor	OCR
+P40189	3572	Catalytic receptor	OCR
+P40238	4352	Catalytic receptor	OCR
+P42701	3594	Catalytic receptor	OCR
+P42702	3977	Catalytic receptor	OCR
+P43489	7293	Catalytic receptor	OCR
+P48357	3953	Catalytic receptor	OCR
+P48551	3455	Catalytic receptor	OCR
+P51841	2986	Catalytic receptor	OCR
+P53708	8516	Catalytic receptor	OCR
+P56159	2674	Catalytic receptor	OCR
+P56199	3672	Catalytic receptor	OCR
+P59044	171389	Catalytic receptor	OCR
+P59045	204801	Catalytic receptor	OCR
+P59046	91662	Catalytic receptor	OCR
+P59047	126206	Catalytic receptor	OCR
+P78552	3597	Catalytic receptor	OCR
+Q01113	3581	Catalytic receptor	OCR
+Q01344	3568	Catalytic receptor	OCR
+Q01638	9173	Catalytic receptor	OCR
+Q02108	2982	Catalytic receptor	OCR
+Q02153	2983	Catalytic receptor	OCR
+Q02223	608	Catalytic receptor	OCR
+Q02846	3000	Catalytic receptor	OCR
+Q03167	7049	Catalytic receptor	OCR
+Q07011	3604	Catalytic receptor	OCR
+Q08334	3588	Catalytic receptor	OCR
+Q13261	3601	Catalytic receptor	OCR
+Q13349	3681	Catalytic receptor	OCR
+Q13478	8809	Catalytic receptor	OCR
+Q13651	3587	Catalytic receptor	OCR
+Q13683	3679	Catalytic receptor	OCR
+Q13797	3680	Catalytic receptor	OCR
+Q14626	3590	Catalytic receptor	OCR
+Q14627	3598	Catalytic receptor	OCR
+Q15399	7096	Catalytic receptor	OCR
+Q5VWK5	149233	Catalytic receptor	OCR
+Q6IA17	59307	Catalytic receptor	OCR
+Q6UWB1	9466	Catalytic receptor	OCR
+Q6UXL0	53833	Catalytic receptor	OCR
+Q6UXV0	389400	Catalytic receptor	OCR
+Q7RTR0	338321	Catalytic receptor	OCR
+Q7RTR2	197358	Catalytic receptor	OCR
+Q86UT6	79671	Catalytic receptor	OCR
+Q86W24	338323	Catalytic receptor	OCR
+Q86W25	126204	Catalytic receptor	OCR
+Q86W26	338322	Catalytic receptor	OCR
+Q86W28	126205	Catalytic receptor	OCR
+Q86WI3	84166	Catalytic receptor	OCR
+Q8IU57	163702	Catalytic receptor	OCR
+Q8N6P7	58985	Catalytic receptor	OCR
+Q8NAC3	84818	Catalytic receptor	OCR
+Q8NFM7	54756	Catalytic receptor	OCR
+Q8NFR9	132014	Catalytic receptor	OCR
+Q8NI17	133396	Catalytic receptor	OCR
+Q8WX94	199713	Catalytic receptor	OCR
+Q92956	8764	Catalytic receptor	OCR
+Q93038	8718	Catalytic receptor	OCR
+Q969J5	116379	Catalytic receptor	OCR
+Q969Z4	84957	Catalytic receptor	OCR
+Q96C10	79132	Catalytic receptor	OCR
+Q96F46	23765	Catalytic receptor	OCR
+Q96MN2	147945	Catalytic receptor	OCR
+Q96P20	114548	Catalytic receptor	OCR
+Q96RJ3	115650	Catalytic receptor	OCR
+Q99062	1441	Catalytic receptor	OCR
+Q99650	9180	Catalytic receptor	OCR
+Q99665	3595	Catalytic receptor	OCR
+Q9BXR5	81793	Catalytic receptor	OCR
+Q9BYX4	64135	Catalytic receptor	OCR
+Q9C000	22861	Catalytic receptor	OCR
+Q9GZZ7	64096	Catalytic receptor	OCR
+Q9HAV5	60401	Catalytic receptor	OCR
+Q9HB29	8808	Catalytic receptor	OCR
+Q9HBE5	50615	Catalytic receptor	OCR
+Q9HC29	64127	Catalytic receptor	OCR
+Q9HC73	64109	Catalytic receptor	OCR
+Q9NP84	51330	Catalytic receptor	OCR
+Q9NPP4	58484	Catalytic receptor	OCR
+Q9NR96	54106	Catalytic receptor	OCR
+Q9NR97	51311	Catalytic receptor	OCR
+Q9NRM6	55540	Catalytic receptor	OCR
+Q9NS68	55504	Catalytic receptor	OCR
+Q9NX02	55655	Catalytic receptor	OCR
+Q9NYK1	51284	Catalytic receptor	OCR
+Q9UBN6	8793	Catalytic receptor	OCR
+Q9UHF4	53832	Catalytic receptor	OCR
+Q9UKX5	22801	Catalytic receptor	OCR
+Q9UNE0	10913	Catalytic receptor	OCR
+Q9Y239	10392	Catalytic receptor	OCR
+Q9Y2C9	10333	Catalytic receptor	OCR
+Q9Y5U5	8784	Catalytic receptor	OCR
+Q9Y6Q6	8792	Catalytic receptor	OCR
+P00519	25	Catalytic receptor	RTK
+P42684	27	Catalytic receptor	RTK
+Q9UM73	238	Catalytic receptor	RTK
+P30530	558	Catalytic receptor	RTK
+P51451	640	Catalytic receptor	RTK
+P51813	660	Catalytic receptor	RTK
+Q06187	695	Catalytic receptor	RTK
+Q08345	780	Catalytic receptor	RTK
+P07333	1436	Catalytic receptor	RTK
+P41240	1445	Catalytic receptor	RTK
+P00533	1956	Catalytic receptor	RTK
+P29317	1969	Catalytic receptor	RTK
+P21709	2041	Catalytic receptor	RTK
+P29320	2042	Catalytic receptor	RTK
+P54764	2043	Catalytic receptor	RTK
+P54756	2044	Catalytic receptor	RTK
+Q15375	2045	Catalytic receptor	RTK
+P29322	2046	Catalytic receptor	RTK
+P54762	2047	Catalytic receptor	RTK
+P29323	2048	Catalytic receptor	RTK
+P54753	2049	Catalytic receptor	RTK
+P54760	2050	Catalytic receptor	RTK
+O15197	2051	Catalytic receptor	RTK
+P04626	2064	Catalytic receptor	RTK
+P21860	2065	Catalytic receptor	RTK
+Q15303	2066	Catalytic receptor	RTK
+Q14289	2185	Catalytic receptor	RTK
+P16591	2241	Catalytic receptor	RTK
+P07332	2242	Catalytic receptor	RTK
+P11362	2260	Catalytic receptor	RTK
+P22607	2261	Catalytic receptor	RTK
+P21802	2263	Catalytic receptor	RTK
+P22455	2264	Catalytic receptor	RTK
+P09769	2268	Catalytic receptor	RTK
+P17948	2321	Catalytic receptor	RTK
+P36888	2322	Catalytic receptor	RTK
+P35916	2324	Catalytic receptor	RTK
+P42685	2444	Catalytic receptor	RTK
+P06241	2534	Catalytic receptor	RTK
+P08631	3055	Catalytic receptor	RTK
+P08069	3480	Catalytic receptor	RTK
+P06213	3643	Catalytic receptor	RTK
+P14616	3645	Catalytic receptor	RTK
+Q08881	3702	Catalytic receptor	RTK
+P23458	3716	Catalytic receptor	RTK
+O60674	3717	Catalytic receptor	RTK
+P52333	3718	Catalytic receptor	RTK
+P35968	3791	Catalytic receptor	RTK
+P10721	3815	Catalytic receptor	RTK
+P06239	3932	Catalytic receptor	RTK
+P29376	4058	Catalytic receptor	RTK
+P07948	4067	Catalytic receptor	RTK
+P42679	4145	Catalytic receptor	RTK
+P08581	4233	Catalytic receptor	RTK
+Q04912	4486	Catalytic receptor	RTK
+O15146	4593	Catalytic receptor	RTK
+P04629	4914	Catalytic receptor	RTK
+Q16620	4915	Catalytic receptor	RTK
+Q16288	4916	Catalytic receptor	RTK
+Q01973	4919	Catalytic receptor	RTK
+Q01974	4920	Catalytic receptor	RTK
+Q16832	4921	Catalytic receptor	RTK
+P16234	5156	Catalytic receptor	RTK
+P09619	5159	Catalytic receptor	RTK
+Q05397	5747	Catalytic receptor	RTK
+Q13882	5753	Catalytic receptor	RTK
+Q13308	5754	Catalytic receptor	RTK
+P07949	5979	Catalytic receptor	RTK
+P08922	6098	Catalytic receptor	RTK
+P34925	6259	Catalytic receptor	RTK
+P12931	6714	Catalytic receptor	RTK
+Q9H3Y6	6725	Catalytic receptor	RTK
+P43405	6850	Catalytic receptor	RTK
+P42680	7006	Catalytic receptor	RTK
+Q02763	7010	Catalytic receptor	RTK
+P35590	7075	Catalytic receptor	RTK
+P42681	7294	Catalytic receptor	RTK
+P29597	7297	Catalytic receptor	RTK
+Q06418	7301	Catalytic receptor	RTK
+P07947	7525	Catalytic receptor	RTK
+P43403	7535	Catalytic receptor	RTK
+Q13470	8711	Catalytic receptor	RTK
+Q6ZMQ8	9625	Catalytic receptor	RTK
+Q07912	10188	Catalytic receptor	RTK
+Q12866	10461	Catalytic receptor	RTK
+Q8IWU2	22853	Catalytic receptor	RTK
+Q6J9G0	55359	Catalytic receptor	RTK
+Q8IWB6	56155	Catalytic receptor	RTK
+Q5JZY3	284656	Catalytic receptor	RTK
+Q9UF33	285220	Catalytic receptor	RTK
+Q04771	90	Catalytic receptor	STK
+P36896	91	Catalytic receptor	STK
+P27037	92	Catalytic receptor	STK
+Q13705	93	Catalytic receptor	STK
+P37023	94	Catalytic receptor	STK
+P25098	156	Catalytic receptor	STK
+P35626	157	Catalytic receptor	STK
+P31749	207	Catalytic receptor	STK
+P31751	208	Catalytic receptor	STK
+Q16671	269	Catalytic receptor	STK
+P10398	369	Catalytic receptor	STK
+Q13315	472	Catalytic receptor	STK
+Q13535	545	Catalytic receptor	STK
+P11274	613	Catalytic receptor	STK
+P36894	657	Catalytic receptor	STK
+O00238	658	Catalytic receptor	STK
+Q13873	659	Catalytic receptor	STK
+P15056	673	Catalytic receptor	STK
+Q58F21	676	Catalytic receptor	STK
+O43683	699	Catalytic receptor	STK
+O60566	701	Catalytic receptor	STK
+Q16566	814	Catalytic receptor	STK
+Q9UQM7	815	Catalytic receptor	STK
+Q13554	816	Catalytic receptor	STK
+Q13557	817	Catalytic receptor	STK
+Q13555	818	Catalytic receptor	STK
+P06493	983	Catalytic receptor	STK
+P21127	984	Catalytic receptor	STK
+P24941	1017	Catalytic receptor	STK
+Q00526	1018	Catalytic receptor	STK
+P11802	1019	Catalytic receptor	STK
+Q00535	1020	Catalytic receptor	STK
+Q00534	1021	Catalytic receptor	STK
+P50613	1022	Catalytic receptor	STK
+P49336	1024	Catalytic receptor	STK
+P50750	1025	Catalytic receptor	STK
+O14757	1111	Catalytic receptor	STK
+O15111	1147	Catalytic receptor	STK
+P49759	1195	Catalytic receptor	STK
+P49760	1196	Catalytic receptor	STK
+P49761	1198	Catalytic receptor	STK
+Q9H4B4	1263	Catalytic receptor	STK
+P41279	1326	Catalytic receptor	STK
+Q16539	1432	Catalytic receptor	STK
+P48729	1452	Catalytic receptor	STK
+P48730	1453	Catalytic receptor	STK
+P49674	1454	Catalytic receptor	STK
+P78368	1455	Catalytic receptor	STK
+Q9Y6M4	1456	Catalytic receptor	STK
+P68400	1457	Catalytic receptor	STK
+P19784	1459	Catalytic receptor	STK
+P53355	1612	Catalytic receptor	STK
+O43293	1613	Catalytic receptor	STK
+Q09013	1760	Catalytic receptor	STK
+Q13627	1859	Catalytic receptor	STK
+Q7KZI7	2011	Catalytic receptor	STK
+O75460	2081	Catalytic receptor	STK
+P42345	2475	Catalytic receptor	STK
+O14976	2580	Catalytic receptor	STK
+P32298	2868	Catalytic receptor	STK
+P34947	2869	Catalytic receptor	STK
+P43250	2870	Catalytic receptor	STK
+Q9HBH9	2872	Catalytic receptor	STK
+P49840	2931	Catalytic receptor	STK
+P49841	2932	Catalytic receptor	STK
+O14920	3551	Catalytic receptor	STK
+Q13418	3611	Catalytic receptor	STK
+P51617	3654	Catalytic receptor	STK
+O43187	3656	Catalytic receptor	STK
+P53667	3984	Catalytic receptor	STK
+P53671	3985	Catalytic receptor	STK
+P20794	4117	Catalytic receptor	STK
+Q9P0L2	4139	Catalytic receptor	STK
+P27448	4140	Catalytic receptor	STK
+Q13233	4214	Catalytic receptor	STK
+Q99759	4215	Catalytic receptor	STK
+Q9Y6R4	4216	Catalytic receptor	STK
+Q99683	4217	Catalytic receptor	STK
+P80192	4293	Catalytic receptor	STK
+Q02779	4294	Catalytic receptor	STK
+Q16584	4296	Catalytic receptor	STK
+P00540	4342	Catalytic receptor	STK
+Q15746	4638	Catalytic receptor	STK
+Q96PY6	4750	Catalytic receptor	STK
+P51955	4751	Catalytic receptor	STK
+P51956	4752	Catalytic receptor	STK
+Q13153	5058	Catalytic receptor	STK
+Q13177	5062	Catalytic receptor	STK
+O75914	5063	Catalytic receptor	STK
+Q00536	5127	Catalytic receptor	STK
+Q00537	5128	Catalytic receptor	STK
+Q07002	5129	Catalytic receptor	STK
+Q15118	5163	Catalytic receptor	STK
+Q15119	5164	Catalytic receptor	STK
+Q15120	5165	Catalytic receptor	STK
+Q16654	5166	Catalytic receptor	STK
+O15530	5170	Catalytic receptor	STK
+O94921	5218	Catalytic receptor	STK
+Q16816	5260	Catalytic receptor	STK
+P15735	5261	Catalytic receptor	STK
+P11309	5292	Catalytic receptor	STK
+P53350	5347	Catalytic receptor	STK
+Q13131	5562	Catalytic receptor	STK
+P54646	5563	Catalytic receptor	STK
+P17612	5566	Catalytic receptor	STK
+P22694	5567	Catalytic receptor	STK
+P22612	5568	Catalytic receptor	STK
+P17252	5578	Catalytic receptor	STK
+P05771	5579	Catalytic receptor	STK
+Q05655	5580	Catalytic receptor	STK
+Q02156	5581	Catalytic receptor	STK
+P05129	5582	Catalytic receptor	STK
+P24723	5583	Catalytic receptor	STK
+P41743	5584	Catalytic receptor	STK
+Q16512	5585	Catalytic receptor	STK
+Q16513	5586	Catalytic receptor	STK
+Q15139	5587	Catalytic receptor	STK
+Q04759	5588	Catalytic receptor	STK
+Q05513	5590	Catalytic receptor	STK
+P78527	5591	Catalytic receptor	STK
+Q13976	5592	Catalytic receptor	STK
+Q13237	5593	Catalytic receptor	STK
+P28482	5594	Catalytic receptor	STK
+P27361	5595	Catalytic receptor	STK
+P31152	5596	Catalytic receptor	STK
+Q16659	5597	Catalytic receptor	STK
+Q13164	5598	Catalytic receptor	STK
+P45983	5599	Catalytic receptor	STK
+Q15759	5600	Catalytic receptor	STK
+P45984	5601	Catalytic receptor	STK
+P53779	5602	Catalytic receptor	STK
+O15264	5603	Catalytic receptor	STK
+Q02750	5604	Catalytic receptor	STK
+P36507	5605	Catalytic receptor	STK
+P46734	5606	Catalytic receptor	STK
+Q13163	5607	Catalytic receptor	STK
+P52564	5608	Catalytic receptor	STK
+O14733	5609	Catalytic receptor	STK
+P19525	5610	Catalytic receptor	STK
+P51817	5613	Catalytic receptor	STK
+P11801	5681	Catalytic receptor	STK
+Q12851	5871	Catalytic receptor	STK
+Q9UQ07	5891	Catalytic receptor	STK
+P04049	5894	Catalytic receptor	STK
+Q15835	6011	Catalytic receptor	STK
+Q05823	6041	Catalytic receptor	STK
+P25440	6046	Catalytic receptor	STK
+Q13464	6093	Catalytic receptor	STK
+Q15418	6195	Catalytic receptor	STK
+Q15349	6196	Catalytic receptor	STK
+P51812	6197	Catalytic receptor	STK
+P23443	6198	Catalytic receptor	STK
+Q9UBS0	6199	Catalytic receptor	STK
+P53778	6300	Catalytic receptor	STK
+P45985	6416	Catalytic receptor	STK
+O00141	6446	Catalytic receptor	STK
+Q96SB4	6732	Catalytic receptor	STK
+P78362	6733	Catalytic receptor	STK
+P51957	6787	Catalytic receptor	STK
+Q13188	6788	Catalytic receptor	STK
+Q13043	6789	Catalytic receptor	STK
+O14965	6790	Catalytic receptor	STK
+O76039	6792	Catalytic receptor	STK
+O94804	6793	Catalytic receptor	STK
+Q15831	6794	Catalytic receptor	STK
+Q9UQB9	6795	Catalytic receptor	STK
+P21675	6872	Catalytic receptor	STK
+O43318	6885	Catalytic receptor	STK
+Q15569	7016	Catalytic receptor	STK
+P36897	7046	Catalytic receptor	STK
+P37173	7048	Catalytic receptor	STK
+O75962	7204	Catalytic receptor	STK
+P33981	7272	Catalytic receptor	STK
+Q8WZ42	7273	Catalytic receptor	STK
+Q99986	7443	Catalytic receptor	STK
+Q86Y07	7444	Catalytic receptor	STK
+P30291	7465	Catalytic receptor	STK
+Q12852	7786	Catalytic receptor	STK
+Q16644	7867	Catalytic receptor	STK
+Q15059	8019	Catalytic receptor	STK
+Q9Y4A5	8295	Catalytic receptor	STK
+O00311	8317	Catalytic receptor	STK
+O75385	8408	Catalytic receptor	STK
+Q9Y6E0	8428	Catalytic receptor	STK
+O43781	8444	Catalytic receptor	STK
+Q92630	8445	Catalytic receptor	STK
+Q5VT25	8476	Catalytic receptor	STK
+Q8IVH8	8491	Catalytic receptor	STK
+Q14012	8536	Catalytic receptor	STK
+Q8IW41	8550	Catalytic receptor	STK
+Q15131	8558	Catalytic receptor	STK
+Q9BUB5	8569	Catalytic receptor	STK
+O14936	8573	Catalytic receptor	STK
+O75716	8576	Catalytic receptor	STK
+Q14004	8621	Catalytic receptor	STK
+Q13546	8737	Catalytic receptor	STK
+O43353	8767	Catalytic receptor	STK
+O14730	8780	Catalytic receptor	STK
+Q9NR20	8798	Catalytic receptor	STK
+Q00532	8814	Catalytic receptor	STK
+Q8IVT5	8844	Catalytic receptor	STK
+P49842	8859	Catalytic receptor	STK
+Q13523	8899	Catalytic receptor	STK
+O75676	8986	Catalytic receptor	STK
+O60229	8997	Catalytic receptor	STK
+Q92772	8999	Catalytic receptor	STK
+Q99558	9020	Catalytic receptor	STK
+Q8IWQ3	9024	Catalytic receptor	STK
+O95382	9064	Catalytic receptor	STK
+Q99640	9088	Catalytic receptor	STK
+O95835	9113	Catalytic receptor	STK
+Q9Y463	9149	Catalytic receptor	STK
+O43283	9175	Catalytic receptor	STK
+O15075	9201	Catalytic receptor	STK
+Q96GD4	9212	Catalytic receptor	STK
+O75582	9252	Catalytic receptor	STK
+P49137	9261	Catalytic receptor	STK
+O94768	9262	Catalytic receptor	STK
+Q9UEE5	9263	Catalytic receptor	STK
+Q9UL54	9344	Catalytic receptor	STK
+O95819	9448	Catalytic receptor	STK
+Q9NZJ5	9451	Catalytic receptor	STK
+O75116	9475	Catalytic receptor	STK
+Q9Y5S2	9578	Catalytic receptor	STK
+Q14164	9641	Catalytic receptor	STK
+Q8IYT8	9706	Catalytic receptor	STK
+Q9H2G2	9748	Catalytic receptor	STK
+Q14680	9833	Catalytic receptor	STK
+Q9UKI8	9874	Catalytic receptor	STK
+O60285	9891	Catalytic receptor	STK
+O95747	9943	Catalytic receptor	STK
+Q9Y243	10000	Catalytic receptor	STK
+Q9HBY8	10110	Catalytic receptor	STK
+Q9H422	10114	Catalytic receptor	STK
+Q96RU8	10221	Catalytic receptor	STK
+Q15772	10290	Catalytic receptor	STK
+O14874	10295	Catalytic receptor	STK
+O96013	10298	Catalytic receptor	STK
+Q96S53	10420	Catalytic receptor	STK
+O00506	10494	Catalytic receptor	STK
+Q76MJ5	10595	Catalytic receptor	STK
+Q96RR4	10645	Catalytic receptor	STK
+O00444	10733	Catalytic receptor	STK
+Q9Y2U5	10746	Catalytic receptor	STK
+Q9NYY3	10769	Catalytic receptor	STK
+Q9HC98	10783	Catalytic receptor	STK
+Q14296	10922	Catalytic receptor	STK
+Q86UE8	11011	Catalytic receptor	STK
+Q9Y572	11035	Catalytic receptor	STK
+Q9P1W9	11040	Catalytic receptor	STK
+O14578	11113	Catalytic receptor	STK
+Q9Y4K4	11183	Catalytic receptor	STK
+Q92918	11184	Catalytic receptor	STK
+O96017	11200	Catalytic receptor	STK
+Q9Y616	11213	Catalytic receptor	STK
+Q15208	11329	Catalytic receptor	STK
+Q2M2I8	22848	Catalytic receptor	STK
+Q9UPZ9	22858	Catalytic receptor	STK
+Q9Y2H9	22983	Catalytic receptor	STK
+Q9Y2H1	23012	Catalytic receptor	STK
+O60307	23031	Catalytic receptor	STK
+Q9UKE5	23043	Catalytic receptor	STK
+Q96Q15	23049	Catalytic receptor	STK
+Q9BWU1	23097	Catalytic receptor	STK
+Q6P0Q8	23139	Catalytic receptor	STK
+Q96RG2	23178	Catalytic receptor	STK
+Q9H0K1	23235	Catalytic receptor	STK
+Q9Y2K2	23387	Catalytic receptor	STK
+O60885	23476	Catalytic receptor	STK
+Q8IZL9	23552	Catalytic receptor	STK
+Q9UIK4	23604	Catalytic receptor	STK
+Q96PF2	23617	Catalytic receptor	STK
+Q96BR1	23678	Catalytic receptor	STK
+O94806	23683	Catalytic receptor	STK
+Q6XUX3	25778	Catalytic receptor	STK
+Q9BZL6	25865	Catalytic receptor	STK
+Q6PHR2	25989	Catalytic receptor	STK
+Q9UJY1	26353	Catalytic receptor	STK
+Q9NRM7	26524	Catalytic receptor	STK
+Q9UPE1	26576	Catalytic receptor	STK
+Q96S38	26750	Catalytic receptor	STK
+Q9BQI3	27102	Catalytic receptor	STK
+Q9NRP7	27148	Catalytic receptor	STK
+Q9UK32	27330	Catalytic receptor	STK
+Q9UEW8	27347	Catalytic receptor	STK
+Q92519	28951	Catalytic receptor	STK
+Q9H2X6	28996	Catalytic receptor	STK
+Q9UHD2	29110	Catalytic receptor	STK
+O00418	29904	Catalytic receptor	STK
+Q6P5Z2	29941	Catalytic receptor	STK
+Q9UHY1	29959	Catalytic receptor	STK
+P57058	30811	Catalytic receptor	STK
+Q8N4C8	50488	Catalytic receptor	STK
+Q59H18	51086	Catalytic receptor	STK
+Q9NWZ3	51135	Catalytic receptor	STK
+Q8IV63	51231	Catalytic receptor	STK
+Q8IVW4	51265	Catalytic receptor	STK
+Q9H2K8	51347	Catalytic receptor	STK
+Q9UBE8	51701	Catalytic receptor	STK
+Q9NYV4	51755	Catalytic receptor	STK
+Q9P289	51765	Catalytic receptor	STK
+Q9NYL2	51776	Catalytic receptor	STK
+Q8NEV4	53904	Catalytic receptor	STK
+Q9HCP0	53944	Catalytic receptor	STK
+Q96QT4	54822	Catalytic receptor	STK
+Q9NRH2	54861	Catalytic receptor	STK
+Q7Z7A4	54899	Catalytic receptor	STK
+Q96C45	54986	Catalytic receptor	STK
+Q9NY57	55351	Catalytic receptor	STK
+Q9C0K7	55437	Catalytic receptor	STK
+Q6DT37	55561	Catalytic receptor	STK
+Q9NSY1	55589	Catalytic receptor	STK
+Q6P3W7	55681	Catalytic receptor	STK
+Q9BVS4	55781	Catalytic receptor	STK
+Q96KB5	55872	Catalytic receptor	STK
+Q9BXU1	56164	Catalytic receptor	STK
+Q9NQU5	56924	Catalytic receptor	STK
+Q8NI60	56997	Catalytic receptor	STK
+Q8IU85	57118	Catalytic receptor	STK
+Q86TW2	57143	Catalytic receptor	STK
+Q9P286	57144	Catalytic receptor	STK
+Q8IZE3	57147	Catalytic receptor	STK
+Q96NX5	57172	Catalytic receptor	STK
+Q9HAZ1	57396	Catalytic receptor	STK
+Q96KG9	57410	Catalytic receptor	STK
+Q96L96	57538	Catalytic receptor	STK
+Q7L7X3	57551	Catalytic receptor	STK
+Q96RU7	57761	Catalytic receptor	STK
+Q96L34	57787	Catalytic receptor	STK
+Q9BXM7	65018	Catalytic receptor	STK
+Q96Q40	65061	Catalytic receptor	STK
+Q9H4A3	65125	Catalytic receptor	STK
+Q96J92	65266	Catalytic receptor	STK
+Q9BYP7	65267	Catalytic receptor	STK
+Q9Y3S1	65268	Catalytic receptor	STK
+Q9BYT3	65975	Catalytic receptor	STK
+Q8NCB2	79012	Catalytic receptor	STK
+Q38SD2	79705	Catalytic receptor	STK
+Q9H792	79834	Catalytic receptor	STK
+Q8NG66	79858	Catalytic receptor	STK
+Q96D53	79934	Catalytic receptor	STK
+Q56UN5	80122	Catalytic receptor	STK
+Q96QP1	80216	Catalytic receptor	STK
+Q96PN8	81629	Catalytic receptor	STK
+Q9H093	81788	Catalytic receptor	STK
+Q9Y6S9	83694	Catalytic receptor	STK
+Q9BRS2	83732	Catalytic receptor	STK
+Q8TF76	83903	Catalytic receptor	STK
+Q8N2I9	83931	Catalytic receptor	STK
+Q9BXA7	83942	Catalytic receptor	STK
+Q9BXA6	83983	Catalytic receptor	STK
+Q5VST9	84033	Catalytic receptor	STK
+Q9H5K3	84197	Catalytic receptor	STK
+Q8N5S9	84254	Catalytic receptor	STK
+Q8TDC3	84446	Catalytic receptor	STK
+Q5TCX8	84451	Catalytic receptor	STK
+Q5TCY1	84630	Catalytic receptor	STK
+Q96GX5	84930	Catalytic receptor	STK
+Q9H1R3	85366	Catalytic receptor	STK
+Q9C098	85443	Catalytic receptor	STK
+Q96QS6	85481	Catalytic receptor	STK
+Q7Z695	90956	Catalytic receptor	STK
+Q504Y2	91461	Catalytic receptor	STK
+Q8TD19	91754	Catalytic receptor	STK
+Q32MK0	91807	Catalytic receptor	STK
+Q7RTN6	92335	Catalytic receptor	STK
+Q8TEA7	93627	Catalytic receptor	STK
+Q96S44	112858	Catalytic receptor	STK
+Q86TB3	115701	Catalytic receptor	STK
+Q5S007	120892	Catalytic receptor	STK
+Q8N752	122011	Catalytic receptor	STK
+Q8TAS1	127933	Catalytic receptor	STK
+Q8NER5	130399	Catalytic receptor	STK
+Q8TAX0	130497	Catalytic receptor	STK
+Q8WTQ7	131890	Catalytic receptor	STK
+Q8IZX4	138474	Catalytic receptor	STK
+Q6P2M8	139728	Catalytic receptor	STK
+Q8WXR4	140469	Catalytic receptor	STK
+Q8TDX7	140609	Catalytic receptor	STK
+Q9BX84	140803	Catalytic receptor	STK
+Q8TDR2	140901	Catalytic receptor	STK
+Q6IQ55	146057	Catalytic receptor	STK
+Q8NE63	147746	Catalytic receptor	STK
+Q8N165	149420	Catalytic receptor	STK
+P57059	150094	Catalytic receptor	STK
+Q6ZWH5	152110	Catalytic receptor	STK
+Q86YV5	157285	Catalytic receptor	STK
+Q8N568	166614	Catalytic receptor	STK
+Q8IY84	167359	Catalytic receptor	STK
+Q8NE28	169436	Catalytic receptor	STK
+Q8NB16	197259	Catalytic receptor	STK
+Q8WU08	202374	Catalytic receptor	STK
+Q3MIX3	203054	Catalytic receptor	STK
+Q7Z2Y5	203447	Catalytic receptor	STK
+Q86Z02	204851	Catalytic receptor	STK
+Q8TD08	225689	Catalytic receptor	STK
+Q8NFD2	255239	Catalytic receptor	STK
+Q86UX6	282974	Catalytic receptor	STK
+Q6VAB6	283455	Catalytic receptor	STK
+Q6SA08	283629	Catalytic receptor	STK
+Q86SG6	284086	Catalytic receptor	STK
+Q86YV6	340156	Catalytic receptor	STK
+Q9NSY0	340371	Catalytic receptor	STK
+Q6P3R8	341676	Catalytic receptor	STK
+Q5MAI5	344387	Catalytic receptor	STK
+O15021	375449	Catalytic receptor	STK
+Q52WX2	388228	Catalytic receptor	STK
+Q6ZN16	389840	Catalytic receptor	STK
+Q86V86	415116	Catalytic receptor	STK
+Q9P2K8	440275	Catalytic receptor	STK
+P0C263	646643	Catalytic receptor	STK
+Q9UQ88	728642	Catalytic receptor	STK
+P0C264	100130827	Catalytic receptor	STK
+Q13496	4534	Enzyme	MTMR
+O95248	6305	Enzyme	MTMR
+Q13613	8776	Enzyme	MTMR
+Q13615	8897	Enzyme	MTMR
+Q13614	8898	Enzyme	MTMR
+Q9Y217	9107	Enzyme	MTMR
+Q9Y216	9108	Enzyme	MTMR
+Q9NYA4	9110	Enzyme	MTMR
+A4FU01	10903	Enzyme	MTMR
+Q9Y2M0	22909	Enzyme	MTMR
+Q9C0I1	54545	Enzyme	MTMR
+Q9NXD2	54893	Enzyme	MTMR
+Q96EF0	55613	Enzyme	MTMR
+Q8NCE2	64419	Enzyme	MTMR
+Q96QG7	66036	Enzyme	MTMR
+Q86WG5	81846	Enzyme	MTMR
+A6NK06	730249	Enzyme	OE
+B2RXH2	390245	Enzyme	OE
+O00408	5138	Enzyme	OE
+O00519	2166	Enzyme	OE
+O00635	10475	Enzyme	OE
+O00763	32	Enzyme	OE
+O14494	8611	Enzyme	OE
+O14495	8613	Enzyme	OE
+O14684	9536	Enzyme	OE
+O14686	8085	Enzyme	OE
+O14732	3613	Enzyme	OE
+O14744	10419	Enzyme	OE
+O14929	8520	Enzyme	OE
+O14939	5338	Enzyme	OE
+O14986	8395	Enzyme	OE
+O15047	9739	Enzyme	OE
+O15054	23135	Enzyme	OE
+O15056	8871	Enzyme	OE
+O15121	8560	Enzyme	OE
+O15164	8805	Enzyme	OE
+O15229	8564	Enzyme	OE
+O15269	10558	Enzyme	OE
+O15270	9517	Enzyme	OE
+O15296	247	Enzyme	OE
+O15327	8821	Enzyme	OE
+O15357	3636	Enzyme	OE
+O15379	8841	Enzyme	OE
+O15382	587	Enzyme	OE
+O15496	8399	Enzyme	OE
+O15516	9575	Enzyme	OE
+O15527	4968	Enzyme	OE
+O15528	1594	Enzyme	OE
+O15550	7403	Enzyme	OE
+O43174	1592	Enzyme	OE
+O43306	112	Enzyme	OE
+O43426	8867	Enzyme	OE
+O43451	8972	Enzyme	OE
+O43463	6839	Enzyme	OE
+O43570	771	Enzyme	OE
+O43688	8612	Enzyme	OE
+O43741	5565	Enzyme	OE
+O43924	5147	Enzyme	OE
+O60266	109	Enzyme	OE
+O60331	23396	Enzyme	OE
+O60341	23028	Enzyme	OE
+O60503	115	Enzyme	OE
+O60658	5151	Enzyme	OE
+O60678	10196	Enzyme	OE
+O60733	8398	Enzyme	OE
+O60760	27306	Enzyme	OE
+O60906	6610	Enzyme	OE
+O75038	9651	Enzyme	OE
+O75151	5253	Enzyme	OE
+O75164	9682	Enzyme	OE
+O75223	79017	Enzyme	OE
+O75342	242	Enzyme	OE
+O75449	11104	Enzyme	OE
+O75530	8726	Enzyme	OE
+O75874	3417	Enzyme	OE
+O75881	9420	Enzyme	OE
+O75884	10741	Enzyme	OE
+O75907	8694	Enzyme	OE
+O76074	8654	Enzyme	OE
+O76083	5152	Enzyme	OE
+O94760	23576	Enzyme	OE
+O94925	2744	Enzyme	OE
+O94953	23030	Enzyme	OE
+O95251	11143	Enzyme	OE
+O95263	8622	Enzyme	OE
+O95398	10411	Enzyme	OE
+O95470	8879	Enzyme	OE
+O95497	8876	Enzyme	OE
+O95622	111	Enzyme	OE
+O95696	23774	Enzyme	OE
+O95749	9453	Enzyme	OE
+O95822	23417	Enzyme	OE
+O95865	23564	Enzyme	OE
+P00374	1719	Enzyme	OE
+P00390	2936	Enzyme	OE
+P00439	5053	Enzyme	OE
+P00491	4860	Enzyme	OE
+P00813	100	Enzyme	OE
+P00915	759	Enzyme	OE
+P01111	4893	Enzyme	OE
+P01112	3265	Enzyme	OE
+P01116	3845	Enzyme	OE
+P04035	3156	Enzyme	OE
+P04040	847	Enzyme	OE
+P04054	5319	Enzyme	OE
+P04062	2629	Enzyme	OE
+P04746	279	Enzyme	OE
+P04798	1543	Enzyme	OE
+P04818	7298	Enzyme	OE
+P04839	1536	Enzyme	OE
+P05089	383	Enzyme	OE
+P05091	217	Enzyme	OE
+P05093	1586	Enzyme	OE
+P05108	1583	Enzyme	OE
+P05164	4353	Enzyme	OE
+P05165	5095	Enzyme	OE
+P05166	5096	Enzyme	OE
+P05177	1544	Enzyme	OE
+P05181	1571	Enzyme	OE
+P06276	590	Enzyme	OE
+P07098	8513	Enzyme	OE
+P07101	7054	Enzyme	OE
+P07202	7173	Enzyme	OE
+P08684	1576	Enzyme	OE
+P08686	1589	Enzyme	OE
+P09172	1621	Enzyme	OE
+P09601	3162	Enzyme	OE
+P09874	142	Enzyme	OE
+P09917	240	Enzyme	OE
+P0C024	283927	Enzyme	OE
+P0C1S8	494551	Enzyme	OE
+P0C7U1	653308	Enzyme	OE
+P0C869	8681	Enzyme	OE
+P0C869	100137049	Enzyme	OE
+P10253	2548	Enzyme	OE
+P10632	1558	Enzyme	OE
+P10635	1565	Enzyme	OE
+P10644	5573	Enzyme	OE
+P11086	5409	Enzyme	OE
+P11387	7150	Enzyme	OE
+P11388	7153	Enzyme	OE
+P11498	5091	Enzyme	OE
+P11509	1548	Enzyme	OE
+P11511	1588	Enzyme	OE
+P11712	1559	Enzyme	OE
+P11926	4953	Enzyme	OE
+P12268	3615	Enzyme	OE
+P13584	1580	Enzyme	OE
+P13861	5576	Enzyme	OE
+P14324	2224	Enzyme	OE
+P14555	5320	Enzyme	OE
+P14618	5315	Enzyme	OE
+P14679	7299	Enzyme	OE
+P14902	3620	Enzyme	OE
+P15121	231	Enzyme	OE
+P15428	3248	Enzyme	OE
+P15538	1584	Enzyme	OE
+P16050	246	Enzyme	OE
+P16152	873	Enzyme	OE
+P16233	5406	Enzyme	OE
+P16499	5145	Enzyme	OE
+P16885	5336	Enzyme	OE
+P17405	6609	Enzyme	OE
+P17707	262	Enzyme	OE
+P17735	6898	Enzyme	OE
+P17752	7166	Enzyme	OE
+P18054	239	Enzyme	OE
+P18545	5148	Enzyme	OE
+P19099	1585	Enzyme	OE
+P19113	3067	Enzyme	OE
+P19174	5335	Enzyme	OE
+P19474	6737	Enzyme	OE
+P20711	1644	Enzyme	OE
+P20813	1555	Enzyme	OE
+P20815	1577	Enzyme	OE
+P20839	3614	Enzyme	OE
+P20853	1549	Enzyme	OE
+P21397	4128	Enzyme	OE
+P21589	4907	Enzyme	OE
+P21964	1312	Enzyme	OE
+P21980	7052	Enzyme	OE
+P22102	2618	Enzyme	OE
+P22303	43	Enzyme	OE
+P22309	54658	Enzyme	OE
+P22680	1581	Enzyme	OE
+P22748	762	Enzyme	OE
+P23141	1066	Enzyme	OE
+P23219	5742	Enzyme	OE
+P23526	191	Enzyme	OE
+P23677	3706	Enzyme	OE
+P23921	6240	Enzyme	OE
+P24462	1551	Enzyme	OE
+P24462	100861540	Enzyme	OE
+P24557	6916	Enzyme	OE
+P24752	38	Enzyme	OE
+P24903	1572	Enzyme	OE
+P25325	4357	Enzyme	OE
+P26358	1786	Enzyme	OE
+P26439	3284	Enzyme	OE
+P27169	5444	Enzyme	OE
+P27338	4129	Enzyme	OE
+P27544	10715	Enzyme	OE
+P27815	5141	Enzyme	OE
+P27987	3707	Enzyme	OE
+P28039	313	Enzyme	OE
+P28329	1103	Enzyme	OE
+P28845	3290	Enzyme	OE
+P29218	3612	Enzyme	OE
+P29375	5927	Enzyme	OE
+P29474	4846	Enzyme	OE
+P29475	4842	Enzyme	OE
+P30519	3163	Enzyme	OE
+P30613	5313	Enzyme	OE
+P31213	6716	Enzyme	OE
+P31321	5575	Enzyme	OE
+P31323	5577	Enzyme	OE
+P31350	6241	Enzyme	OE
+P32019	3633	Enzyme	OE
+P32754	3242	Enzyme	OE
+P32929	1491	Enzyme	OE
+P33260	1562	Enzyme	OE
+P33261	1557	Enzyme	OE
+P34059	2588	Enzyme	OE
+P34913	2053	Enzyme	OE
+P35228	4843	Enzyme	OE
+P35270	6697	Enzyme	OE
+P35354	5743	Enzyme	OE
+P35520	102724560	Enzyme	OE
+P35520	875	Enzyme	OE
+P35557	2645	Enzyme	OE
+P35913	5158	Enzyme	OE
+P37268	2222	Enzyme	OE
+P38435	2677	Enzyme	OE
+P39877	5322	Enzyme	OE
+P40145	114	Enzyme	OE
+P41222	5730	Enzyme	OE
+P41229	8242	Enzyme	OE
+P42330	8644	Enzyme	OE
+P42356	5297	Enzyme	OE
+P43166	766	Enzyme	OE
+P47712	5321	Enzyme	OE
+P47989	7498	Enzyme	OE
+P48426	5305	Enzyme	OE
+P48449	4047	Enzyme	OE
+P48735	3418	Enzyme	OE
+P48775	6999	Enzyme	OE
+P49189	223	Enzyme	OE
+P49327	2194	Enzyme	OE
+P49354	2339	Enzyme	OE
+P49356	100529261	Enzyme	OE
+P49356	2342	Enzyme	OE
+P49441	3628	Enzyme	OE
+P49895	1733	Enzyme	OE
+P49902	22978	Enzyme	OE
+P49961	953	Enzyme	OE
+P50440	2628	Enzyme	OE
+P51159	5873	Enzyme	OE
+P51160	5146	Enzyme	OE
+P51178	5333	Enzyme	OE
+P51589	1573	Enzyme	OE
+P51649	7915	Enzyme	OE
+P51828	113	Enzyme	OE
+P53602	4597	Enzyme	OE
+P54619	5571	Enzyme	OE
+P54750	5136	Enzyme	OE
+P54868	3158	Enzyme	OE
+P55073	1735	Enzyme	OE
+P55263	132	Enzyme	OE
+P55345	3275	Enzyme	OE
+P56524	9759	Enzyme	OE
+P62937	5478	Enzyme	OE
+P62942	2280	Enzyme	OE
+P67870	1460	Enzyme	OE
+P78329	8529	Enzyme	OE
+P78356	8396	Enzyme	OE
+P78540	384	Enzyme	OE
+P80404	18	Enzyme	OE
+P98187	11283	Enzyme	OE
+Q00722	5330	Enzyme	OE
+Q01064	5153	Enzyme	OE
+Q01581	3157	Enzyme	OE
+Q01968	4952	Enzyme	OE
+Q01970	5331	Enzyme	OE
+Q02083	27163	Enzyme	OE
+Q02127	1723	Enzyme	OE
+Q02318	1593	Enzyme	OE
+Q02928	1579	Enzyme	OE
+Q03164	4297	Enzyme	OE
+Q03426	4598	Enzyme	OE
+Q05329	2572	Enzyme	OE
+Q05469	3991	Enzyme	OE
+Q06136	2531	Enzyme	OE
+Q06203	5471	Enzyme	OE
+Q07343	5142	Enzyme	OE
+Q07973	1591	Enzyme	OE
+Q08462	108	Enzyme	OE
+Q08477	4051	Enzyme	OE
+Q08493	5143	Enzyme	OE
+Q08499	5144	Enzyme	OE
+Q08828	107	Enzyme	OE
+Q12792	5756	Enzyme	OE
+Q13029	7799	Enzyme	OE
+Q13085	31	Enzyme	OE
+Q13093	7941	Enzyme	OE
+Q13263	10155	Enzyme	OE
+Q13370	5140	Enzyme	OE
+Q13393	5337	Enzyme	OE
+Q13510	427	Enzyme	OE
+Q13547	3065	Enzyme	OE
+Q13822	5168	Enzyme	OE
+Q13907	3422	Enzyme	OE
+Q13946	5150	Enzyme	OE
+Q13956	5149	Enzyme	OE
+Q14123	5137	Enzyme	OE
+Q14432	5139	Enzyme	OE
+Q14534	6713	Enzyme	OE
+Q14642	3632	Enzyme	OE
+Q14693	23175	Enzyme	OE
+Q15047	9869	Enzyme	OE
+Q15126	10654	Enzyme	OE
+Q15147	5332	Enzyme	OE
+Q15165	5445	Enzyme	OE
+Q15166	5446	Enzyme	OE
+Q15185	10728	Enzyme	OE
+Q15596	10499	Enzyme	OE
+Q15652	221037	Enzyme	OE
+Q15735	27124	Enzyme	OE
+Q15788	8648	Enzyme	OE
+Q15910	2146	Enzyme	OE
+Q16647	5740	Enzyme	OE
+Q16678	1545	Enzyme	OE
+Q16696	1553	Enzyme	OE
+Q16739	7357	Enzyme	OE
+Q16773	883	Enzyme	OE
+Q16790	768	Enzyme	OE
+Q16850	1595	Enzyme	OE
+Q16853	8639	Enzyme	OE
+Q16873	4056	Enzyme	OE
+Q16875	5209	Enzyme	OE
+Q3MJ16	123745	Enzyme	OE
+Q3SYC2	80168	Enzyme	OE
+Q4FZB7	51111	Enzyme	OE
+Q4G0S4	339761	Enzyme	OE
+Q4KWH8	23007	Enzyme	OE
+Q5QJU3	340485	Enzyme	OE
+Q5TCH4	284541	Enzyme	OE
+Q68DD2	255189	Enzyme	OE
+Q6B0I6	55693	Enzyme	OE
+Q6GMR7	158584	Enzyme	OE
+Q6IBS0	11344	Enzyme	OE
+Q6IQ20	222236	Enzyme	OE
+Q6NT55	126410	Enzyme	OE
+Q6NYC1	23210	Enzyme	OE
+Q6P2P2	90826	Enzyme	OE
+Q6PHW0	389434	Enzyme	OE
+Q6PL18	29028	Enzyme	OE
+Q6QHC5	123099	Enzyme	OE
+Q6UW02	57404	Enzyme	OE
+Q6V0L0	340665	Enzyme	OE
+Q6VVX0	120227	Enzyme	OE
+Q6ZMG9	253782	Enzyme	OE
+Q6ZMT4	80853	Enzyme	OE
+Q6ZQW0	169355	Enzyme	OE
+Q6ZWL3	285440	Enzyme	OE
+Q7LBC6	51780	Enzyme	OE
+Q7LG56	50484	Enzyme	OE
+Q7Z449	113612	Enzyme	OE
+Q86U10	374569	Enzyme	OE
+Q86VZ5	259230	Enzyme	OE
+Q86W10	199974	Enzyme	OE
+Q86X55	10498	Enzyme	OE
+Q86XK2	80204	Enzyme	OE
+Q86XP0	283748	Enzyme	OE
+Q86Y97	84787	Enzyme	OE
+Q86YW0	89869	Enzyme	OE
+Q8IU89	204219	Enzyme	OE
+Q8IWU9	121278	Enzyme	OE
+Q8IWX5	130367	Enzyme	OE
+Q8IXJ6	22933	Enzyme	OE
+Q8IZD2	55904	Enzyme	OE
+Q8N118	260293	Enzyme	OE
+Q8N1Q1	377677	Enzyme	OE
+Q8N2K0	26090	Enzyme	OE
+Q8N371	79831	Enzyme	OE
+Q8N3E9	113026	Enzyme	OE
+Q8N5B7	91012	Enzyme	OE
+Q8N6T7	51548	Enzyme	OE
+Q8NB78	221656	Enzyme	OE
+Q8NCG7	221955	Enzyme	OE
+Q8NEZ4	58508	Enzyme	OE
+Q8NFM4	196883	Enzyme	OE
+Q8NFR3	165679	Enzyme	OE
+Q8NHM5	84678	Enzyme	OE
+Q8NHU3	166929	Enzyme	OE
+Q8TAV3	54905	Enzyme	OE
+Q8TBX8	79837	Enzyme	OE
+Q8TCD5	30833	Enzyme	OE
+Q8TCG2	55300	Enzyme	OE
+Q8TCT0	64781	Enzyme	OE
+Q8TDN7	125981	Enzyme	OE
+Q8TEK3	84444	Enzyme	OE
+Q8WTS6	80854	Enzyme	OE
+Q8WUI4	51564	Enzyme	OE
+Q8WYB5	23522	Enzyme	OE
+Q8WZA2	11069	Enzyme	OE
+Q92484	10924	Enzyme	OE
+Q92485	27293	Enzyme	OE
+Q92539	9663	Enzyme	OE
+Q92636	8439	Enzyme	OE
+Q92769	3066	Enzyme	OE
+Q92794	7994	Enzyme	OE
+Q92800	2145	Enzyme	OE
+Q92813	1734	Enzyme	OE
+Q92830	2648	Enzyme	OE
+Q92831	8850	Enzyme	OE
+Q92835	3635	Enzyme	OE
+Q92993	10524	Enzyme	OE
+Q969P6	116447	Enzyme	OE
+Q969S8	83933	Enzyme	OE
+Q969W0	171546	Enzyme	OE
+Q96A70	113451	Enzyme	OE
+Q96BN8	90268	Enzyme	OE
+Q96DB2	79885	Enzyme	OE
+Q96DU7	80271	Enzyme	OE
+Q96EB6	23411	Enzyme	OE
+Q96G23	29956	Enzyme	OE
+Q96KQ7	10919	Enzyme	OE
+Q96KS0	112398	Enzyme	OE
+Q96L73	64324	Enzyme	OE
+Q96LA8	55170	Enzyme	OE
+Q96LT4	142891	Enzyme	OE
+Q96P26	100526794	Enzyme	OE
+Q96P26	93034	Enzyme	OE
+Q96PE3	3631	Enzyme	OE
+Q96PH1	79400	Enzyme	OE
+Q96PN6	55811	Enzyme	OE
+Q96SQ9	29785	Enzyme	OE
+Q96SW2	51185	Enzyme	OE
+Q96T68	83852	Enzyme	OE
+Q99259	2571	Enzyme	OE
+Q99487	5051	Enzyme	OE
+Q99685	11343	Enzyme	OE
+Q99755	8394	Enzyme	OE
+Q99873	3276	Enzyme	OE
+Q9BQB6	79001	Enzyme	OE
+Q9BQK8	64900	Enzyme	OE
+Q9BRC7	84812	Enzyme	OE
+Q9BT40	51763	Enzyme	OE
+Q9BTU6	55361	Enzyme	OE
+Q9BV23	57406	Enzyme	OE
+Q9BWD1	39	Enzyme	OE
+Q9BX95	81537	Enzyme	OE
+Q9BXI3	84618	Enzyme	OE
+Q9BXS1	91734	Enzyme	OE
+Q9BY41	55869	Enzyme	OE
+Q9BY66	8284	Enzyme	OE
+Q9BYJ1	59344	Enzyme	OE
+Q9BYW2	29072	Enzyme	OE
+Q9BZM1	81579	Enzyme	OE
+Q9BZM2	64600	Enzyme	OE
+Q9BZP6	27159	Enzyme	OE
+Q9GZT9	54583	Enzyme	OE
+Q9H0E9	10902	Enzyme	OE
+Q9H0P0	51251	Enzyme	OE
+Q9H3R0	23081	Enzyme	OE
+Q9H5I1	79723	Enzyme	OE
+Q9H6Z9	112399	Enzyme	OE
+Q9H7Z6	84148	Enzyme	OE
+Q9H7Z7	80142	Enzyme	OE
+Q9H8M2	65980	Enzyme	OE
+Q9H9B1	79813	Enzyme	OE
+Q9H9T3	55140	Enzyme	OE
+Q9HA82	79603	Enzyme	OE
+Q9HB55	64816	Enzyme	OE
+Q9HBI6	57834	Enzyme	OE
+Q9HBY0	50508	Enzyme	OE
+Q9HCR9	50940	Enzyme	OE
+Q9HCS2	66002	Enzyme	OE
+Q9NP56	27115	Enzyme	OE
+Q9NPB1	56953	Enzyme	OE
+Q9NPH5	50507	Enzyme	OE
+Q9NPI1	29117	Enzyme	OE
+Q9NQ66	23236	Enzyme	OE
+Q9NQR1	387893	Enzyme	OE
+Q9NR22	56341	Enzyme	OE
+Q9NR48	55870	Enzyme	OE
+Q9NR63	56603	Enzyme	OE
+Q9NR71	56624	Enzyme	OE
+Q9NRA0	56848	Enzyme	OE
+Q9NRC8	51547	Enzyme	OE
+Q9NRD8	50506	Enzyme	OE
+Q9NRD9	53905	Enzyme	OE
+Q9NRG4	56950	Enzyme	OE
+Q9NRR6	56623	Enzyme	OE
+Q9NTG7	23410	Enzyme	OE
+Q9NUN7	55331	Enzyme	OE
+Q9NUV7	55304	Enzyme	OE
+Q9NVM4	54496	Enzyme	OE
+Q9NXA8	23408	Enzyme	OE
+Q9NXE4	55627	Enzyme	OE
+Q9NY59	55512	Enzyme	OE
+Q9NYA1	8877	Enzyme	OE
+Q9NYL5	51302	Enzyme	OE
+Q9NZ20	50487	Enzyme	OE
+Q9NZK7	30814	Enzyme	OE
+Q9P212	51196	Enzyme	OE
+Q9UBF8	5298	Enzyme	OE
+Q9UBN7	10013	Enzyme	OE
+Q9UG56	23761	Enzyme	OE
+Q9UGI9	53632	Enzyme	OE
+Q9UGJ0	51422	Enzyme	OE
+Q9UGL1	10765	Enzyme	OE
+Q9UGN5	10038	Enzyme	OE
+Q9UK96	26267	Enzyme	OE
+Q9UKN8	9329	Enzyme	OE
+Q9UKV0	9734	Enzyme	OE
+Q9ULC6	29943	Enzyme	OE
+Q9ULI0	54454	Enzyme	OE
+Q9ULW8	51702	Enzyme	OE
+Q9ULX7	23632	Enzyme	OE
+Q9UM07	23569	Enzyme	OE
+Q9UMN6	9757	Enzyme	OE
+Q9UNK4	26279	Enzyme	OE
+Q9UNU6	1582	Enzyme	OE
+Q9UP65	8605	Enzyme	OE
+Q9UPN9	51592	Enzyme	OE
+Q9UPP1	23133	Enzyme	OE
+Q9UPS6	23067	Enzyme	OE
+Q9UQL6	10014	Enzyme	OE
+Q9Y233	10846	Enzyme	OE
+Q9Y251	10855	Enzyme	OE
+Q9Y2I7	200576	Enzyme	OE
+Q9Y2K7	22992	Enzyme	OE
+Q9Y478	5564	Enzyme	OE
+Q9Y4C1	55818	Enzyme	OE
+Q9Y4D2	747	Enzyme	OE
+Q9Y4K0	4017	Enzyme	OE
+Q9Y570	51400	Enzyme	OE
+Q9Y5L3	954	Enzyme	OE
+Q9Y5S8	27035	Enzyme	OE
+Q9Y5X9	9388	Enzyme	OE
+Q9Y6A2	10858	Enzyme	OE
+Q9Y6E7	23409	Enzyme	OE
+Q9Y6F1	10039	Enzyme	OE
+Q9Y6K1	1788	Enzyme	OE
+Q9Y6Q9	8202	Enzyme	OE
+P01023	2	Enzyme	PI
+P01011	12	Enzyme	PI
+P01019	183	Enzyme	PI
+P02760	259	Enzyme	PI
+P98170	331	Enzyme	PI
+O15392	332	Enzyme	PI
+Q06481	334	Enzyme	PI
+P05067	351	Enzyme	PI
+P01008	462	Enzyme	PI
+P01185	551	Enzyme	PI
+P05155	710	Enzyme	PI
+P01024	718	Enzyme	PI
+P0C0L4	720	Enzyme	PI
+P0C0L5	721	Enzyme	PI
+P0C0L4	721	Enzyme	PI
+P01031	727	Enzyme	PI
+P20810	831	Enzyme	PI
+P08185	866	Enzyme	PI
+P50454	871	Enzyme	PI
+P26842	939	Enzyme	PI
+P12111	1293	Enzyme	PI
+Q02388	1294	Enzyme	PI
+P01037	1469	Enzyme	PI
+P09228	1470	Enzyme	PI
+P01034	1471	Enzyme	PI
+P01036	1472	Enzyme	PI
+P28325	1473	Enzyme	PI
+Q15828	1474	Enzyme	PI
+P01040	1475	Enzyme	PI
+P04080	1476	Enzyme	PI
+P30740	1992	Enzyme	PI
+P07203	2876	Enzyme	PI
+P05546	3053	Enzyme	PI
+P04196	3273	Enzyme	PI
+P11021	3309	Enzyme	PI
+P19827	3697	Enzyme	PI
+P19823	3698	Enzyme	PI
+Q06033	3699	Enzyme	PI
+Q14624	3700	Enzyme	PI
+P23352	3730	Enzyme	PI
+P01042	3827	Enzyme	PI
+P31025	3933	Enzyme	PI
+P25713	4504	Enzyme	PI
+Q13075	4671	Enzyme	PI
+P30086	5037	Enzyme	PI
+P05121	5054	Enzyme	PI
+P05120	5055	Enzyme	PI
+P05154	5104	Enzyme	PI
+P36955	5176	Enzyme	PI
+P01009	5265	Enzyme	PI
+P19957	5266	Enzyme	PI
+P29622	5267	Enzyme	PI
+P36952	5268	Enzyme	PI
+P35237	5269	Enzyme	PI
+P07093	5270	Enzyme	PI
+P50452	5271	Enzyme	PI
+P50453	5272	Enzyme	PI
+P48595	5273	Enzyme	PI
+Q99574	5274	Enzyme	PI
+Q9UIV8	5275	Enzyme	PI
+O75830	5276	Enzyme	PI
+P08697	5345	Enzyme	PI
+P29508	6317	Enzyme	PI
+P48594	6318	Enzyme	PI
+P03973	6590	Enzyme	PI
+P00995	6690	Enzyme	PI
+P20155	6691	Enzyme	PI
+O43278	6692	Enzyme	PI
+Q08629	6695	Enzyme	PI
+P05543	6906	Enzyme	PI
+P10646	7035	Enzyme	PI
+P01033	7076	Enzyme	PI
+P16035	7077	Enzyme	PI
+P35625	7078	Enzyme	PI
+Q99727	7079	Enzyme	PI
+P48307	7980	Enzyme	PI
+O95980	8434	Enzyme	PI
+O76096	8530	Enzyme	PI
+O75635	8710	Enzyme	PI
+Q92530	9491	Enzyme	PI
+Q92563	9806	Enzyme	PI
+O60676	10047	Enzyme	PI
+Q14508	10406	Enzyme	PI
+O43291	10653	Enzyme	PI
+P49223	10816	Enzyme	PI
+Q9NQ38	11005	Enzyme	PI
+Q9Y2G2	22900	Enzyme	PI
+Q9UGM5	26998	Enzyme	PI
+O60575	27290	Enzyme	PI
+Q9UHG2	27344	Enzyme	PI
+Q9BQ16	50859	Enzyme	PI
+O43692	51050	Enzyme	PI
+Q9UK55	51156	Enzyme	PI
+Q9NZV1	51232	Enzyme	PI
+O43715	51499	Enzyme	PI
+Q8NEU8	55198	Enzyme	PI
+Q9BS40	56925	Enzyme	PI
+O95925	57119	Enzyme	PI
+Q9NR09	57448	Enzyme	PI
+Q9HC57	58189	Enzyme	PI
+Q99935	58503	Enzyme	PI
+P57730	59082	Enzyme	PI
+Q96CA5	79444	Enzyme	PI
+Q86UX2	80760	Enzyme	PI
+P58062	84651	Enzyme	PI
+Q5DID0	89766	Enzyme	PI
+Q96P63	89777	Enzyme	PI
+Q96P15	89778	Enzyme	PI
+O95428	89932	Enzyme	PI
+Q8IUA0	90199	Enzyme	PI
+Q5EG05	114769	Enzyme	PI
+Q96NZ8	117166	Enzyme	PI
+Q8TEU8	124857	Enzyme	PI
+Q8WWY7	128488	Enzyme	PI
+Q9H114	128817	Enzyme	PI
+Q9H4G1	128821	Enzyme	PI
+Q5W186	128822	Enzyme	PI
+Q6YHK3	135228	Enzyme	PI
+Q8IUB2	140686	Enzyme	PI
+Q9H1F0	140832	Enzyme	PI
+Q9BQY6	140870	Enzyme	PI
+Q9H112	140880	Enzyme	PI
+Q9H3Y0	140902	Enzyme	PI
+A8K2U0	144568	Enzyme	PI
+Q8IW75	145264	Enzyme	PI
+Q8TCV5	149708	Enzyme	PI
+Q1W4C9	153218	Enzyme	PI
+Q8IUB5	164237	Enzyme	PI
+Q6UXB8	221476	Enzyme	PI
+Q86U17	256394	Enzyme	PI
+Q8NEX6	259239	Enzyme	PI
+Q8NEX5	259240	Enzyme	PI
+Q8IUB3	280664	Enzyme	PI
+A8MTL9	284293	Enzyme	PI
+Q86WD7	327657	Enzyme	PI
+Q2UY09	340267	Enzyme	PI
+Q6UXX5	347365	Enzyme	PI
+Q6UDR6	391253	Enzyme	PI
+Q6UWN8	404203	Enzyme	PI
+Q6IE38	408187	Enzyme	PI
+Q5XLA6	440068	Enzyme	PI
+Q5DT21	643394	Enzyme	PI
+P0C7L1	646424	Enzyme	PI
+A8MV23	647174	Enzyme	PI
+O00443	5286	Enzyme	PI3K
+O00750	5287	Enzyme	PI3K
+O75747	5288	Enzyme	PI3K
+Q8NEB9	5289	Enzyme	PI3K
+P42336	5290	Enzyme	PI3K
+P42338	5291	Enzyme	PI3K
+O00329	5293	Enzyme	PI3K
+P48736	5294	Enzyme	PI3K
+P27986	5295	Enzyme	PI3K
+O00459	5296	Enzyme	PI3K
+Q92569	8503	Enzyme	PI3K
+Q8WYR1	23533	Enzyme	PI3K
+Q99570	30849	Enzyme	PI3K
+Q5UE93	146850	Enzyme	PI3K
+P10323	49	Enzyme	Protease
+Q03154	95	Enzyme	Protease
+P78325	101	Enzyme	Protease
+O14672	102	Enzyme	Protease
+Q8IUX7	165	Enzyme	Protease
+P15144	290	Enzyme	Protease
+P13798	327	Enzyme	Protease
+P07288	354	Enzyme	Protease
+P20160	566	Enzyme	Protease
+P00751	629	Enzyme	Protease
+Q13867	642	Enzyme	Protease
+P13497	649	Enzyme	Protease
+P00736	715	Enzyme	Protease
+P09871	716	Enzyme	Protease
+P06681	717	Enzyme	Protease
+O15484	726	Enzyme	Protease
+P07384	823	Enzyme	Protease
+P17655	824	Enzyme	Protease
+P20807	825	Enzyme	Protease
+Q9Y6Q1	827	Enzyme	Protease
+P29466	834	Enzyme	Protease
+P42575	835	Enzyme	Protease
+P42574	836	Enzyme	Protease
+P49662	837	Enzyme	Protease
+P51878	838	Enzyme	Protease
+P55212	839	Enzyme	Protease
+P55210	840	Enzyme	Protease
+Q14790	841	Enzyme	Protease
+P55211	842	Enzyme	Protease
+Q92851	843	Enzyme	Protease
+P53634	1075	Enzyme	Protease
+O14773	1200	Enzyme	Protease
+P23946	1215	Enzyme	Protease
+P15085	1357	Enzyme	Protease
+P48052	1358	Enzyme	Protease
+P15088	1359	Enzyme	Protease
+P15086	1360	Enzyme	Protease
+Q96IY4	1361	Enzyme	Protease
+O75976	1362	Enzyme	Protease
+P16870	1363	Enzyme	Protease
+P14384	1368	Enzyme	Protease
+P15169	1369	Enzyme	Protease
+P22792	1370	Enzyme	Protease
+P17538	1504	Enzyme	Protease
+P40313	1506	Enzyme	Protease
+P07858	1508	Enzyme	Protease
+P07339	1509	Enzyme	Protease
+P14091	1510	Enzyme	Protease
+P08311	1511	Enzyme	Protease
+P09668	1512	Enzyme	Protease
+P43235	1513	Enzyme	Protease
+P07711	1514	Enzyme	Protease
+O60911	1515	Enzyme	Protease
+P43234	1519	Enzyme	Protease
+P25774	1520	Enzyme	Protease
+P56202	1521	Enzyme	Protease
+Q9UBR2	1522	Enzyme	Protease
+Q9NQC7	1540	Enzyme	Protease
+P12821	1636	Enzyme	Protease
+P00746	1675	Enzyme	Protease
+P16444	1800	Enzyme	Protease
+P27487	1803	Enzyme	Protease
+P42658	1804	Enzyme	Protease
+P42892	1889	Enzyme	Protease
+Q9UNI1	1990	Enzyme	Protease
+P08246	1991	Enzyme	Protease
+Q07075	2028	Enzyme	Protease
+P00734	2147	Enzyme	Protease
+P08709	2155	Enzyme	Protease
+P00740	2158	Enzyme	Protease
+P00742	2159	Enzyme	Protease
+P03951	2160	Enzyme	Protease
+P00748	2161	Enzyme	Protease
+Q12884	2191	Enzyme	Protease
+Q04609	2346	Enzyme	Protease
+Q99965	2515	Enzyme	Protease
+P19440	2678	Enzyme	Protease
+Q9UJ14	2686	Enzyme	Protease
+P36269	2687	Enzyme	Protease
+P20718	2999	Enzyme	Protease
+P12544	3001	Enzyme	Protease
+P10144	3002	Enzyme	Protease
+P49863	3003	Enzyme	Protease
+P51124	3004	Enzyme	Protease
+Q14520	3026	Enzyme	Protease
+P14210	3082	Enzyme	Protease
+Q04756	3083	Enzyme	Protease
+P00738	3240	Enzyme	Protease
+P05981	3249	Enzyme	Protease
+P00739	3250	Enzyme	Protease
+P14735	3416	Enzyme	Protease
+P05156	3426	Enzyme	Protease
+Q14623	3549	Enzyme	Protease
+P23276	3792	Enzyme	Protease
+P06870	3816	Enzyme	Protease
+P20151	3817	Enzyme	Protease
+P03952	3818	Enzyme	Protease
+Q9UIQ6	4012	Enzyme	Protease
+P09960	4048	Enzyme	Protease
+P02788	4057	Enzyme	Protease
+O75078	4185	Enzyme	Protease
+Q16819	4224	Enzyme	Protease
+Q16820	4225	Enzyme	Protease
+Q5EB52	4232	Enzyme	Protease
+P30301	4284	Enzyme	Protease
+Q99797	4285	Enzyme	Protease
+P54252	4287	Enzyme	Protease
+P08473	4311	Enzyme	Protease
+P03956	4312	Enzyme	Protease
+P08253	4313	Enzyme	Protease
+P08254	4314	Enzyme	Protease
+P09237	4316	Enzyme	Protease
+P22894	4317	Enzyme	Protease
+P14780	4318	Enzyme	Protease
+P09238	4319	Enzyme	Protease
+P24347	4320	Enzyme	Protease
+P39900	4321	Enzyme	Protease
+P45452	4322	Enzyme	Protease
+P50281	4323	Enzyme	Protease
+P51511	4324	Enzyme	Protease
+P51512	4325	Enzyme	Protease
+Q9ULZ9	4326	Enzyme	Protease
+Q99542	4327	Enzyme	Protease
+P26927	4485	Enzyme	Protease
+O43847	4898	Enzyme	Protease
+P09958	5045	Enzyme	Protease
+P29122	5046	Enzyme	Protease
+Q13219	5069	Enzyme	Protease
+P29120	5122	Enzyme	Protease
+Q92824	5125	Enzyme	Protease
+P16519	5126	Enzyme	Protease
+P12955	5184	Enzyme	Protease
+P0DJD9	5222	Enzyme	Protease
+P20142	5225	Enzyme	Protease
+P78562	5251	Enzyme	Protease
+P00750	5327	Enzyme	Protease
+P00749	5328	Enzyme	Protease
+P00747	5340	Enzyme	Protease
+P10619	5476	Enzyme	Protease
+P42785	5547	Enzyme	Protease
+P48147	5550	Enzyme	Protease
+P04070	5624	Enzyme	Protease
+Q99538	5641	Enzyme	Protease
+P07477	5644	Enzyme	Protease
+P07478	5645	Enzyme	Protease
+P35030	5646	Enzyme	Protease
+P48740	5648	Enzyme	Protease
+P78509	5649	Enzyme	Protease
+P49862	5650	Enzyme	Protease
+P98073	5651	Enzyme	Protease
+Q16651	5652	Enzyme	Protease
+Q92876	5653	Enzyme	Protease
+Q92743	5654	Enzyme	Protease
+O43240	5655	Enzyme	Protease
+P24158	5657	Enzyme	Protease
+P49768	5663	Enzyme	Protease
+P49810	5664	Enzyme	Protease
+P25786	5682	Enzyme	Protease
+P25787	5683	Enzyme	Protease
+P25788	5684	Enzyme	Protease
+P25789	5685	Enzyme	Protease
+P28066	5686	Enzyme	Protease
+P60900	5687	Enzyme	Protease
+O14818	5688	Enzyme	Protease
+P20618	5689	Enzyme	Protease
+P49721	5690	Enzyme	Protease
+P49720	5691	Enzyme	Protease
+P28070	5692	Enzyme	Protease
+P28074	5693	Enzyme	Protease
+P28072	5694	Enzyme	Protease
+Q99436	5695	Enzyme	Protease
+P28062	5696	Enzyme	Protease
+P28065	5698	Enzyme	Protease
+P40306	5699	Enzyme	Protease
+P62191	5700	Enzyme	Protease
+P35998	5701	Enzyme	Protease
+P62195	5705	Enzyme	Protease
+P51665	5713	Enzyme	Protease
+P00797	5972	Enzyme	Protease
+Q9H4A4	6051	Enzyme	Protease
+Q15465	6469	Enzyme	Protease
+O75808	6650	Enzyme	Protease
+Q9UQ90	6687	Enzyme	Protease
+Q9Y5Y6	6768	Enzyme	Protease
+P78536	6868	Enzyme	Protease
+P02786	7037	Enzyme	Protease
+P52888	7064	Enzyme	Protease
+O43897	7092	Enzyme	Protease
+Q9Y6L7	7093	Enzyme	Protease
+O15393	7113	Enzyme	Protease
+P21580	7128	Enzyme	Protease
+P29144	7174	Enzyme	Protease
+Q15661	7177	Enzyme	Protease
+P20231	7177	Enzyme	Protease
+P09936	7345	Enzyme	Protease
+P15374	7347	Enzyme	Protease
+Q13107	7375	Enzyme	Protease
+O94782	7398	Enzyme	Protease
+Q9NQW7	7511	Enzyme	Protease
+O43895	7512	Enzyme	Protease
+Q93009	7874	Enzyme	Protease
+O43184	8038	Enzyme	Protease
+P45974	8078	Enzyme	Protease
+Q16740	8192	Enzyme	Protease
+P51784	8237	Enzyme	Protease
+Q93008	8239	Enzyme	Protease
+O00507	8287	Enzyme	Protease
+Q92560	8314	Enzyme	Protease
+P56730	8492	Enzyme	Protease
+O75900	8510	Enzyme	Protease
+Q66K79	8532	Enzyme	Protease
+O00303	8665	Enzyme	Protease
+Q14703	8720	Enzyme	Protease
+Q9UBX1	8722	Enzyme	Protease
+Q9H013	8728	Enzyme	Protease
+O75077	8745	Enzyme	Protease
+Q9UKJ8	8747	Enzyme	Protease
+O43506	8748	Enzyme	Protease
+Q9Y3Q7	8749	Enzyme	Protease
+Q13444	8751	Enzyme	Protease
+Q13443	8754	Enzyme	Protease
+Q9H2U9	8756	Enzyme	Protease
+Q92820	8836	Enzyme	Protease
+P22891	8858	Enzyme	Protease
+P21128	8909	Enzyme	Protease
+Q92995	8975	Enzyme	Protease
+O75783	9028	Enzyme	Protease
+P54578	9097	Enzyme	Protease
+P35125	9098	Enzyme	Protease
+O75604	9099	Enzyme	Protease
+Q14694	9100	Enzyme	Protease
+P40818	9101	Enzyme	Protease
+Q16549	9159	Enzyme	Protease
+O60882	9313	Enzyme	Protease
+P36776	9361	Enzyme	Protease
+O60235	9407	Enzyme	Protease
+O95672	9427	Enzyme	Protease
+O96009	9476	Enzyme	Protease
+O75173	9507	Enzyme	Protease
+O15072	9508	Enzyme	Protease
+O95450	9509	Enzyme	Protease
+Q9UHI8	9510	Enzyme	Protease
+O75439	9512	Enzyme	Protease
+P55786	9520	Enzyme	Protease
+Q4J6C6	9581	Enzyme	Protease
+Q9Y5K2	9622	Enzyme	Protease
+Q14674	9700	Enzyme	Protease
+P0DPD8	9718	Enzyme	Protease
+P0DPD6	9718	Enzyme	Protease
+Q70CQ2	9736	Enzyme	Protease
+Q15005	9789	Enzyme	Protease
+Q12765	9805	Enzyme	Protease
+Q504Q3	9924	Enzyme	Protease
+Q15040	9929	Enzyme	Protease
+Q9Y4E8	9958	Enzyme	Protease
+Q9Y6I4	9960	Enzyme	Protease
+Q9Y256	9986	Enzyme	Protease
+Q9Y3Q0	10003	Enzyme	Protease
+Q9UQQ1	10004	Enzyme	Protease
+Q92643	10026	Enzyme	Protease
+Q9NY33	10072	Enzyme	Protease
+P09093	10136	Enzyme	Protease
+O00487	10213	Enzyme	Protease
+O75844	10269	Enzyme	Protease
+Q9NQE7	10279	Enzyme	Protease
+Q9Y646	10404	Enzyme	Protease
+Q5JRX3	10531	Enzyme	Protease
+Q9Y5T5	10600	Enzyme	Protease
+O95630	10617	Enzyme	Protease
+Q9Y5Q5	10699	Enzyme	Protease
+Q53GS9	10713	Enzyme	Protease
+Q96TA2	10730	Enzyme	Protease
+O00187	10747	Enzyme	Protease
+O14815	10753	Enzyme	Protease
+Q9UKQ2	10863	Enzyme	Protease
+Q9Y2K6	10868	Enzyme	Protease
+O94966	10869	Enzyme	Protease
+Q9UDY8	10892	Enzyme	Protease
+Q9Y5R2	10893	Enzyme	Protease
+Q9Y4W6	10939	Enzyme	Protease
+Q9Y6M0	10942	Enzyme	Protease
+Q92905	10987	Enzyme	Protease
+P50579	10988	Enzyme	Protease
+Q9UBX7	11012	Enzyme	Protease
+Q9UKF2	11085	Enzyme	Protease
+Q9UKF5	11086	Enzyme	Protease
+Q76LX8	11093	Enzyme	Protease
+Q9UP79	11095	Enzyme	Protease
+Q9UNA0	11096	Enzyme	Protease
+O95084	11098	Enzyme	Protease
+Q9UMQ6	11131	Enzyme	Protease
+Q9HC96	11132	Enzyme	Protease
+Q9UKP4	11173	Enzyme	Protease
+Q9UKP5	11174	Enzyme	Protease
+O60259	11202	Enzyme	Protease
+Q2TV78	11223	Enzyme	Protease
+Q9UMW8	11274	Enzyme	Protease
+Q99497	11315	Enzyme	Protease
+Q99895	11330	Enzyme	Protease
+Q8TEY7	23032	Enzyme	Protease
+P53582	23173	Enzyme	Protease
+Q9Y4P1	23192	Enzyme	Protease
+Q10713	23203	Enzyme	Protease
+Q9UPW5	23287	Enzyme	Protease
+Q9UPT9	23326	Enzyme	Protease
+Q9UPU5	23358	Enzyme	Protease
+Q9BZJ3	23430	Enzyme	Protease
+P08861	23436	Enzyme	Protease
+Q9Y6W3	23473	Enzyme	Protease
+P67812	23478	Enzyme	Protease
+Q9ULA0	23549	Enzyme	Protease
+P31944	23581	Enzyme	Protease
+P56817	23621	Enzyme	Protease
+Q16769	25797	Enzyme	Protease
+O95379	25816	Enzyme	Protease
+Q9Y337	25818	Enzyme	Protease
+Q9NRR2	25823	Enzyme	Protease
+Q9Y5Z0	25825	Enzyme	Protease
+Q70CQ1	25862	Enzyme	Protease
+Q6UXH9	25891	Enzyme	Protease
+Q9GZR1	26054	Enzyme	Protease
+Q9UKR3	26085	Enzyme	Protease
+Q9H4L4	26168	Enzyme	Protease
+Q9UK80	27005	Enzyme	Protease
+Q9UJW2	27283	Enzyme	Protease
+O15204	27299	Enzyme	Protease
+Q6ICB0	27351	Enzyme	Protease
+O43464	27429	Enzyme	Protease
+Q9Y6A9	28972	Enzyme	Protease
+Q9UL52	28983	Enzyme	Protease
+Q9UI38	29122	Enzyme	Protease
+Q9UHP3	29761	Enzyme	Protease
+Q9P0U3	29843	Enzyme	Protease
+Q9UHL4	29952	Enzyme	Protease
+Q9UKU6	29953	Enzyme	Protease
+Q9P0G3	43847	Enzyme	Protease
+Q9UKR0	43849	Enzyme	Protease
+O43323	50846	Enzyme	Protease
+Q9BSY9	51029	Enzyme	Protease
+P08218	51032	Enzyme	Protease
+P28838	51056	Enzyme	Protease
+Q9UI42	51200	Enzyme	Protease
+Q9NZP8	51279	Enzyme	Protease
+Q86W34	51321	Enzyme	Protease
+O43462	51360	Enzyme	Protease
+Q9Y5K5	51377	Enzyme	Protease
+Q9NZ08	51752	Enzyme	Protease
+Q9P0K1	53616	Enzyme	Protease
+Q9H3G5	54504	Enzyme	Protease
+Q70EK8	54532	Enzyme	Protease
+Q6UW60	54760	Enzyme	Protease
+Q9UGI0	54764	Enzyme	Protease
+Q9NXJ5	54858	Enzyme	Protease
+Q6V1X1	54878	Enzyme	Protease
+Q9NX52	54933	Enzyme	Protease
+Q96K76	55031	Enzyme	Protease
+Q9NVE5	55230	Enzyme	Protease
+Q9NUQ7	55325	Enzyme	Protease
+Q9NUJ1	55347	Enzyme	Protease
+Q5VVQ6	55432	Enzyme	Protease
+Q9H300	55486	Enzyme	Protease
+Q9H2R5	55554	Enzyme	Protease
+Q96G74	55593	Enzyme	Protease
+Q96FW1	55611	Enzyme	Protease
+Q9H6P5	55617	Enzyme	Protease
+Q9NPF4	55644	Enzyme	Protease
+Q96KP4	55748	Enzyme	Protease
+Q96SM3	56265	Enzyme	Protease
+Q9NRE1	56547	Enzyme	Protease
+Q9NRS4	56649	Enzyme	Protease
+Q8TCT7	56928	Enzyme	Protease
+Q6GQQ9	56957	Enzyme	Protease
+Q9P2N4	56999	Enzyme	Protease
+Q8N4T0	57094	Enzyme	Protease
+Q9HAU8	57140	Enzyme	Protease
+Q9BQF6	57337	Enzyme	Protease
+Q9HBJ8	57393	Enzyme	Protease
+Q70CQ4	57478	Enzyme	Protease
+Q9BYT8	57486	Enzyme	Protease
+Q9P2H5	57558	Enzyme	Protease
+Q96FJ0	57559	Enzyme	Protease
+Q9P275	57602	Enzyme	Protease
+Q8N608	57628	Enzyme	Protease
+Q96RU2	57646	Enzyme	Protease
+Q9HBJ7	57663	Enzyme	Protease
+Q86T82	57695	Enzyme	Protease
+Q9BYF1	59272	Enzyme	Protease
+Q9HB40	59342	Enzyme	Protease
+Q9HC62	59343	Enzyme	Protease
+Q8NDL9	60509	Enzyme	Protease
+P61009	60559	Enzyme	Protease
+Q9BXP8	60676	Enzyme	Protease
+P08217	63036	Enzyme	Protease
+Q9NQH7	63929	Enzyme	Protease
+Q9GZN4	64063	Enzyme	Protease
+Q9H306	64066	Enzyme	Protease
+Q9GZM7	64129	Enzyme	Protease
+Q6P179	64167	Enzyme	Protease
+Q9H4B0	64172	Enzyme	Protease
+Q9H4A9	64174	Enzyme	Protease
+Q9H4B8	64180	Enzyme	Protease
+Q9NPA2	64386	Enzyme	Protease
+P20231	64499	Enzyme	Protease
+P57727	64699	Enzyme	Protease
+P62068	64854	Enzyme	Protease
+Q96DC9	78990	Enzyme	Protease
+Q9H239	79148	Enzyme	Protease
+P46736	79184	Enzyme	Protease
+Q495T6	79258	Enzyme	Protease
+Q0VDG4	79634	Enzyme	Protease
+Q8NDH3	79716	Enzyme	Protease
+Q5U5Z8	79841	Enzyme	Protease
+Q7Z2K6	79956	Enzyme	Protease
+P59510	80070	Enzyme	Protease
+Q96JH7	80124	Enzyme	Protease
+Q9BZ11	80332	Enzyme	Protease
+Q9H3S3	80975	Enzyme	Protease
+Q8TCT9	81502	Enzyme	Protease
+P58397	81792	Enzyme	Protease
+Q9H324	81794	Enzyme	Protease
+Q8WW43	83464	Enzyme	Protease
+Q86WA8	83752	Enzyme	Protease
+Q9BXU7	83844	Enzyme	Protease
+Q9BQR3	83886	Enzyme	Protease
+Q96T52	83943	Enzyme	Protease
+Q9BYE2	84000	Enzyme	Protease
+Q9H0E7	84101	Enzyme	Protease
+Q9H9J4	84132	Enzyme	Protease
+Q86UV5	84196	Enzyme	Protease
+Q8TEB9	84236	Enzyme	Protease
+Q8NB14	84640	Enzyme	Protease
+Q8NFA0	84669	Enzyme	Protease
+Q96KN2	84735	Enzyme	Protease
+Q70CQ3	84749	Enzyme	Protease
+Q5VU57	84871	Enzyme	Protease
+Q8TCT8	84888	Enzyme	Protease
+Q8N6M6	84909	Enzyme	Protease
+Q96DT6	84938	Enzyme	Protease
+Q8N594	84954	Enzyme	Protease
+Q86TL0	84971	Enzyme	Protease
+Q70EL2	85015	Enzyme	Protease
+Q96KR4	89782	Enzyme	Protease
+Q96FV2	90507	Enzyme	Protease
+Q9BY50	90701	Enzyme	Protease
+Q86TI2	91039	Enzyme	Protease
+Q14390	91227	Enzyme	Protease
+Q9Y6H3	91419	Enzyme	Protease
+Q9BX51	92086	Enzyme	Protease
+Q6MZZ7	92291	Enzyme	Protease
+Q9H3M9	92552	Enzyme	Protease
+Q8WXQ8	93979	Enzyme	Protease
+P83110	94031	Enzyme	Protease
+Q5VVJ2	114803	Enzyme	Protease
+Q8WYN0	115201	Enzyme	Protease
+Q96E52	115209	Enzyme	Protease
+P81605	117159	Enzyme	Protease
+Q8N119	118856	Enzyme	Protease
+Q8N436	119587	Enzyme	Protease
+Q8TCT6	121665	Enzyme	Protease
+A5LHX3	122706	Enzyme	Protease
+Q96LD8	123228	Enzyme	Protease
+Q96MI9	123624	Enzyme	Protease
+Q70EL4	124739	Enzyme	Protease
+Q6P531	124975	Enzyme	Protease
+Q8TAC2	126119	Enzyme	Protease
+Q8IVL8	130749	Enzyme	Protease
+Q86T26	132724	Enzyme	Protease
+Q8IYS1	135293	Enzyme	Protease
+A4D1T9	136242	Enzyme	Protease
+Q8IYP2	136541	Enzyme	Protease
+Q8WXS8	140766	Enzyme	Protease
+Q8TAA3	143471	Enzyme	Protease
+A6NFU8	145814	Enzyme	Protease
+Q5K4E3	146547	Enzyme	Protease
+Q6ZSI9	147968	Enzyme	Protease
+Q6GTS8	148811	Enzyme	Protease
+Q53RT3	151516	Enzyme	Protease
+Q400G9	155185	Enzyme	Protease
+Q70EK9	158880	Enzyme	Protease
+Q70EL1	159195	Enzyme	Protease
+Q8TE49	161725	Enzyme	Protease
+P58872	162494	Enzyme	Protease
+Q8IUH8	162540	Enzyme	Protease
+Q8IU80	164656	Enzyme	Protease
+Q8N3Z0	167681	Enzyme	Protease
+Q8TE58	170689	Enzyme	Protease
+Q8TE57	170690	Enzyme	Protease
+Q8TE56	170691	Enzyme	Protease
+Q8TE60	170692	Enzyme	Protease
+Q8TE59	171019	Enzyme	Protease
+Q96LU5	196294	Enzyme	Protease
+Q6UWB4	203074	Enzyme	Protease
+P83105	203100	Enzyme	Protease
+Q8TC27	203102	Enzyme	Protease
+Q96HI0	205564	Enzyme	Protease
+Q6Q4G3	206338	Enzyme	Protease
+O75317	219333	Enzyme	Protease
+Q9HBA9	219595	Enzyme	Protease
+Q2T9J0	219743	Enzyme	Protease
+Q6PEW0	221191	Enzyme	Protease
+Q6UB28	254042	Enzyme	Protease
+Q58DX5	254827	Enzyme	Protease
+Q8NBP7	255738	Enzyme	Protease
+Q8NF86	260429	Enzyme	Protease
+Q86WS5	283471	Enzyme	Protease
+Q9UKQ9	284366	Enzyme	Protease
+Q2L4Q9	339105	Enzyme	Protease
+A1L453	339501	Enzyme	Protease
+Q8NBH2	339855	Enzyme	Protease
+Q7Z5A4	339906	Enzyme	Protease
+Q6ZMR5	339967	Enzyme	Protease
+Q8NEM8	340351	Enzyme	Protease
+Q7RTY8	344805	Enzyme	Protease
+Q7RTY5	345062	Enzyme	Protease
+Q7Z410	360200	Enzyme	Protease
+Q70EL3	373509	Enzyme	Protease
+Q7RTY3	377047	Enzyme	Protease
+Q6R6M4	377630	Enzyme	Protease
+A6NHC0	388743	Enzyme	Protease
+Q6ZWK6	389208	Enzyme	Protease
+A6NNY8	389856	Enzyme	Protease
+Q6UWY2	400668	Enzyme	Protease
+Q7RTZ2	401447	Enzyme	Protease
+Q6NVU6	402682	Enzyme	Protease
+Q6HA08	431705	Enzyme	Protease
+Q6GPI1	440387	Enzyme	Protease
+A8MX76	440854	Enzyme	Protease
+P0DJD8	643834	Enzyme	Protease
+P0DJD7	643847	Enzyme	Protease
+A6NCW0	645836	Enzyme	Protease
+P0CW18	646960	Enzyme	Protease
+A8MUK1	728386	Enzyme	Protease
+Q6UXS9	100506742	Enzyme	Protease
+P60484	5728	Enzyme	PTEN
+Q9HBL0	7145	Enzyme	PTEN
+P56180	7179	Enzyme	PTEN
+Q63HR2	23371	Enzyme	PTEN
+Q68CZ2	64759	Enzyme	PTEN
+Q8IZW8	84951	Enzyme	PTEN
+Q6XPS3	93492	Enzyme	PTEN
+P24666	52	Enzyme	PTP
+P30304	993	Enzyme	PTP
+P30305	994	Enzyme	PTP
+P30307	995	Enzyme	PTP
+Q16667	1033	Enzyme	PTP
+P28562	1843	Enzyme	PTP
+Q05923	1844	Enzyme	PTP
+P51452	1845	Enzyme	PTP
+Q13115	1846	Enzyme	PTP
+Q16690	1847	Enzyme	PTP
+Q16828	1848	Enzyme	PTP
+Q16829	1849	Enzyme	PTP
+Q13202	1850	Enzyme	PTP
+Q99956	1852	Enzyme	PTP
+P18031	5770	Enzyme	PTP
+P17706	5771	Enzyme	PTP
+P26045	5774	Enzyme	PTP
+P29074	5775	Enzyme	PTP
+P29350	5777	Enzyme	PTP
+P35236	5778	Enzyme	PTP
+P43378	5780	Enzyme	PTP
+Q06124	5781	Enzyme	PTP
+Q05209	5782	Enzyme	PTP
+Q12923	5783	Enzyme	PTP
+Q15678	5784	Enzyme	PTP
+P18433	5786	Enzyme	PTP
+P23467	5787	Enzyme	PTP
+P08575	5788	Enzyme	PTP
+P23468	5789	Enzyme	PTP
+P23469	5791	Enzyme	PTP
+P10586	5792	Enzyme	PTP
+P23470	5793	Enzyme	PTP
+Q9HD43	5794	Enzyme	PTP
+Q12913	5795	Enzyme	PTP
+Q15262	5796	Enzyme	PTP
+P28827	5797	Enzyme	PTP
+Q16849	5798	Enzyme	PTP
+Q92932	5799	Enzyme	PTP
+Q16827	5800	Enzyme	PTP
+Q15256	5801	Enzyme	PTP
+Q13332	5802	Enzyme	PTP
+P23471	5803	Enzyme	PTP
+Q8WUJ0	6815	Enzyme	PTP
+Q93096	7803	Enzyme	PTP
+O95278	7957	Enzyme	PTP
+Q12974	8073	Enzyme	PTP
+O75319	8446	Enzyme	PTP
+O60729	8555	Enzyme	PTP
+Q9UNH5	8556	Enzyme	PTP
+O60942	8732	Enzyme	PTP
+Q92729	10076	Enzyme	PTP
+O95147	11072	Enzyme	PTP
+Q16825	11099	Enzyme	PTP
+O14522	11122	Enzyme	PTP
+O75365	11156	Enzyme	PTP
+Q9Y6W6	11221	Enzyme	PTP
+Q9UNI6	11266	Enzyme	PTP
+Q9H3S7	25930	Enzyme	PTP
+Q4JDL3	26095	Enzyme	PTP
+Q9Y2R2	26191	Enzyme	PTP
+Q99952	26469	Enzyme	PTP
+Q6B8I1	51207	Enzyme	PTP
+Q9UII6	51207	Enzyme	PTP
+Q9Y6J8	51657	Enzyme	PTP
+Q8WYL5	54434	Enzyme	PTP
+Q9BVJ7	54935	Enzyme	PTP
+Q8TE77	54961	Enzyme	PTP
+Q9NRW4	56940	Enzyme	PTP
+Q9H596	63904	Enzyme	PTP
+Q9BV47	78986	Enzyme	PTP
+Q9BY84	80824	Enzyme	PTP
+P54829	84867	Enzyme	PTP
+Q76I76	85464	Enzyme	PTP
+Q9H1R2	128853	Enzyme	PTP
+A2A3K4	138639	Enzyme	PTP
+Q8WTR2	142679	Enzyme	PTP
+Q8NEJ0	150290	Enzyme	PTP
+Q68J44	338599	Enzyme	PTP
+P41586	117	G protein-coupled receptor	GPCR
+P30542	134	G protein-coupled receptor	GPCR
+P29274	135	G protein-coupled receptor	GPCR
+P29275	136	G protein-coupled receptor	GPCR
+P0DMS8	140	G protein-coupled receptor	GPCR
+P25100	146	G protein-coupled receptor	GPCR
+P35368	147	G protein-coupled receptor	GPCR
+P35348	148	G protein-coupled receptor	GPCR
+P08913	150	G protein-coupled receptor	GPCR
+P18089	151	G protein-coupled receptor	GPCR
+P18825	152	G protein-coupled receptor	GPCR
+P08588	153	G protein-coupled receptor	GPCR
+P07550	154	G protein-coupled receptor	GPCR
+P13945	155	G protein-coupled receptor	GPCR
+P30556	185	G protein-coupled receptor	GPCR
+P50052	186	G protein-coupled receptor	GPCR
+P35414	187	G protein-coupled receptor	GPCR
+P37288	552	G protein-coupled receptor	GPCR
+P47901	553	G protein-coupled receptor	GPCR
+P30518	554	G protein-coupled receptor	GPCR
+O14514	575	G protein-coupled receptor	GPCR
+O60241	576	G protein-coupled receptor	GPCR
+O60242	577	G protein-coupled receptor	GPCR
+P03999	611	G protein-coupled receptor	GPCR
+P46663	623	G protein-coupled receptor	GPCR
+P30411	624	G protein-coupled receptor	GPCR
+P32302	643	G protein-coupled receptor	GPCR
+P32247	680	G protein-coupled receptor	GPCR
+Q16581	719	G protein-coupled receptor	GPCR
+P21730	728	G protein-coupled receptor	GPCR
+P30988	799	G protein-coupled receptor	GPCR
+P41180	846	G protein-coupled receptor	GPCR
+P32238	886	G protein-coupled receptor	GPCR
+P32239	887	G protein-coupled receptor	GPCR
+P48960	976	G protein-coupled receptor	GPCR
+P11229	1128	G protein-coupled receptor	GPCR
+P08172	1129	G protein-coupled receptor	GPCR
+P20309	1131	G protein-coupled receptor	GPCR
+P08173	1132	G protein-coupled receptor	GPCR
+P08912	1133	G protein-coupled receptor	GPCR
+P32246	1230	G protein-coupled receptor	GPCR
+P51677	1232	G protein-coupled receptor	GPCR
+P51679	1233	G protein-coupled receptor	GPCR
+P51681	1234	G protein-coupled receptor	GPCR
+P51684	1235	G protein-coupled receptor	GPCR
+P32248	1236	G protein-coupled receptor	GPCR
+P51685	1237	G protein-coupled receptor	GPCR
+O00590	1238	G protein-coupled receptor	GPCR
+Q99788	1240	G protein-coupled receptor	GPCR
+Q15722	1241	G protein-coupled receptor	GPCR
+P21554	1268	G protein-coupled receptor	GPCR
+P34972	1269	G protein-coupled receptor	GPCR
+P34998	1394	G protein-coupled receptor	GPCR
+Q13324	1395	G protein-coupled receptor	GPCR
+P49238	1524	G protein-coupled receptor	GPCR
+P21728	1812	G protein-coupled receptor	GPCR
+P14416	1813	G protein-coupled receptor	GPCR
+P35462	1814	G protein-coupled receptor	GPCR
+P21917	1815	G protein-coupled receptor	GPCR
+P21918	1816	G protein-coupled receptor	GPCR
+P32249	1880	G protein-coupled receptor	GPCR
+P21453	1901	G protein-coupled receptor	GPCR
+Q92633	1902	G protein-coupled receptor	GPCR
+Q99500	1903	G protein-coupled receptor	GPCR
+P25101	1909	G protein-coupled receptor	GPCR
+P24530	1910	G protein-coupled receptor	GPCR
+Q9NYQ7	1951	G protein-coupled receptor	GPCR
+Q9HCU4	1952	G protein-coupled receptor	GPCR
+Q14246	2015	G protein-coupled receptor	GPCR
+P25116	2149	G protein-coupled receptor	GPCR
+P55085	2150	G protein-coupled receptor	GPCR
+O00254	2151	G protein-coupled receptor	GPCR
+P21462	2357	G protein-coupled receptor	GPCR
+P25090	2358	G protein-coupled receptor	GPCR
+P25089	2359	G protein-coupled receptor	GPCR
+P23945	2492	G protein-coupled receptor	GPCR
+Q16570	2532	G protein-coupled receptor	GPCR
+Q14332	2535	G protein-coupled receptor	GPCR
+Q9UBS5	2550	G protein-coupled receptor	GPCR
+P47211	2587	G protein-coupled receptor	GPCR
+P47871	2642	G protein-coupled receptor	GPCR
+P0DN77	2652	G protein-coupled receptor	GPCR
+P0DN78	2652	G protein-coupled receptor	GPCR
+P04001	2652	G protein-coupled receptor	GPCR
+Q02643	2692	G protein-coupled receptor	GPCR
+Q92847	2693	G protein-coupled receptor	GPCR
+P48546	2696	G protein-coupled receptor	GPCR
+P43220	2740	G protein-coupled receptor	GPCR
+P30968	2798	G protein-coupled receptor	GPCR
+P46091	2825	G protein-coupled receptor	GPCR
+P46092	2826	G protein-coupled receptor	GPCR
+P46089	2827	G protein-coupled receptor	GPCR
+P46093	2828	G protein-coupled receptor	GPCR
+P46094	2829	G protein-coupled receptor	GPCR
+P46095	2830	G protein-coupled receptor	GPCR
+P48145	2831	G protein-coupled receptor	GPCR
+P48146	2832	G protein-coupled receptor	GPCR
+P49682	2833	G protein-coupled receptor	GPCR
+P49683	2834	G protein-coupled receptor	GPCR
+P47775	2835	G protein-coupled receptor	GPCR
+Q9UKP6	2837	G protein-coupled receptor	GPCR
+P49685	2838	G protein-coupled receptor	GPCR
+Q13304	2840	G protein-coupled receptor	GPCR
+Q14330	2841	G protein-coupled receptor	GPCR
+Q15760	2842	G protein-coupled receptor	GPCR
+Q99678	2843	G protein-coupled receptor	GPCR
+Q99679	2844	G protein-coupled receptor	GPCR
+Q99680	2845	G protein-coupled receptor	GPCR
+Q99677	2846	G protein-coupled receptor	GPCR
+Q99705	2847	G protein-coupled receptor	GPCR
+O00155	2848	G protein-coupled receptor	GPCR
+Q8NDV2	2849	G protein-coupled receptor	GPCR
+Q9NS67	2850	G protein-coupled receptor	GPCR
+Q99527	2852	G protein-coupled receptor	GPCR
+O00270	2853	G protein-coupled receptor	GPCR
+O75388	2854	G protein-coupled receptor	GPCR
+Q49SQ1	2856	G protein-coupled receptor	GPCR
+Q9UPC5	2857	G protein-coupled receptor	GPCR
+Q9HC97	2859	G protein-coupled receptor	GPCR
+O15354	2861	G protein-coupled receptor	GPCR
+O43193	2862	G protein-coupled receptor	GPCR
+O43194	2863	G protein-coupled receptor	GPCR
+O14842	2864	G protein-coupled receptor	GPCR
+O14843	2865	G protein-coupled receptor	GPCR
+O15529	2866	G protein-coupled receptor	GPCR
+O15552	2867	G protein-coupled receptor	GPCR
+Q13255	2911	G protein-coupled receptor	GPCR
+Q14416	2912	G protein-coupled receptor	GPCR
+Q14832	2913	G protein-coupled receptor	GPCR
+Q14833	2914	G protein-coupled receptor	GPCR
+P41594	2915	G protein-coupled receptor	GPCR
+O15303	2916	G protein-coupled receptor	GPCR
+Q14831	2917	G protein-coupled receptor	GPCR
+O00222	2918	G protein-coupled receptor	GPCR
+P30550	2925	G protein-coupled receptor	GPCR
+O43613	3061	G protein-coupled receptor	GPCR
+O43614	3062	G protein-coupled receptor	GPCR
+P35367	3269	G protein-coupled receptor	GPCR
+P25021	3274	G protein-coupled receptor	GPCR
+P08908	3350	G protein-coupled receptor	GPCR
+P28222	3351	G protein-coupled receptor	GPCR
+P28221	3352	G protein-coupled receptor	GPCR
+P28566	3354	G protein-coupled receptor	GPCR
+P30939	3355	G protein-coupled receptor	GPCR
+P28223	3356	G protein-coupled receptor	GPCR
+P41595	3357	G protein-coupled receptor	GPCR
+P28335	3358	G protein-coupled receptor	GPCR
+Q13639	3360	G protein-coupled receptor	GPCR
+P47898	3361	G protein-coupled receptor	GPCR
+P50406	3362	G protein-coupled receptor	GPCR
+P34969	3363	G protein-coupled receptor	GPCR
+P25024	3577	G protein-coupled receptor	GPCR
+P25025	3579	G protein-coupled receptor	GPCR
+P22888	3973	G protein-coupled receptor	GPCR
+P04201	4142	G protein-coupled receptor	GPCR
+Q01726	4157	G protein-coupled receptor	GPCR
+Q01718	4158	G protein-coupled receptor	GPCR
+P41968	4159	G protein-coupled receptor	GPCR
+P32245	4160	G protein-coupled receptor	GPCR
+P33032	4161	G protein-coupled receptor	GPCR
+P48039	4543	G protein-coupled receptor	GPCR
+P49286	4544	G protein-coupled receptor	GPCR
+P28336	4829	G protein-coupled receptor	GPCR
+P25929	4886	G protein-coupled receptor	GPCR
+P49146	4887	G protein-coupled receptor	GPCR
+Q15761	4889	G protein-coupled receptor	GPCR
+P30989	4923	G protein-coupled receptor	GPCR
+P51810	4935	G protein-coupled receptor	GPCR
+P41143	4985	G protein-coupled receptor	GPCR
+P41145	4986	G protein-coupled receptor	GPCR
+P41146	4987	G protein-coupled receptor	GPCR
+P35372	4988	G protein-coupled receptor	GPCR
+P34982	4991	G protein-coupled receptor	GPCR
+O43749	4992	G protein-coupled receptor	GPCR
+O95371	4993	G protein-coupled receptor	GPCR
+P47881	4994	G protein-coupled receptor	GPCR
+P47893	4995	G protein-coupled receptor	GPCR
+P30559	5021	G protein-coupled receptor	GPCR
+P47900	5028	G protein-coupled receptor	GPCR
+P41231	5029	G protein-coupled receptor	GPCR
+P51582	5030	G protein-coupled receptor	GPCR
+Q15077	5031	G protein-coupled receptor	GPCR
+Q96G91	5032	G protein-coupled receptor	GPCR
+P50391	5540	G protein-coupled receptor	GPCR
+P25105	5724	G protein-coupled receptor	GPCR
+P59533	5726	G protein-coupled receptor	GPCR
+Q13258	5729	G protein-coupled receptor	GPCR
+P34995	5731	G protein-coupled receptor	GPCR
+P43116	5732	G protein-coupled receptor	GPCR
+P43115	5733	G protein-coupled receptor	GPCR
+P35408	5734	G protein-coupled receptor	GPCR
+P43088	5737	G protein-coupled receptor	GPCR
+P43119	5739	G protein-coupled receptor	GPCR
+Q03431	5745	G protein-coupled receptor	GPCR
+P49190	5746	G protein-coupled receptor	GPCR
+P47804	5995	G protein-coupled receptor	GPCR
+P08100	6010	G protein-coupled receptor	GPCR
+P47872	6344	G protein-coupled receptor	GPCR
+Q99835	6608	G protein-coupled receptor	GPCR
+P30872	6751	G protein-coupled receptor	GPCR
+P30874	6752	G protein-coupled receptor	GPCR
+P32745	6753	G protein-coupled receptor	GPCR
+P31391	6754	G protein-coupled receptor	GPCR
+P35346	6755	G protein-coupled receptor	GPCR
+P21452	6865	G protein-coupled receptor	GPCR
+P25103	6869	G protein-coupled receptor	GPCR
+P29371	6870	G protein-coupled receptor	GPCR
+P21731	6915	G protein-coupled receptor	GPCR
+P34981	7201	G protein-coupled receptor	GPCR
+P16473	7253	G protein-coupled receptor	GPCR
+P32241	7433	G protein-coupled receptor	GPCR
+P41587	7434	G protein-coupled receptor	GPCR
+P61073	7852	G protein-coupled receptor	GPCR
+Q13467	7855	G protein-coupled receptor	GPCR
+O95918	7932	G protein-coupled receptor	GPCR
+Q9NPG1	7976	G protein-coupled receptor	GPCR
+Q15743	8111	G protein-coupled receptor	GPCR
+Q9UP38	8321	G protein-coupled receptor	GPCR
+Q9ULV1	8322	G protein-coupled receptor	GPCR
+O60353	8323	G protein-coupled receptor	GPCR
+O75084	8324	G protein-coupled receptor	GPCR
+Q9H461	8325	G protein-coupled receptor	GPCR
+O00144	8326	G protein-coupled receptor	GPCR
+Q9P1Q5	8383	G protein-coupled receptor	GPCR
+P58170	8386	G protein-coupled receptor	GPCR
+P30953	8387	G protein-coupled receptor	GPCR
+P47887	8388	G protein-coupled receptor	GPCR
+P47890	8390	G protein-coupled receptor	GPCR
+P47888	8392	G protein-coupled receptor	GPCR
+Q8IYL9	8477	G protein-coupled receptor	GPCR
+O60755	8484	G protein-coupled receptor	GPCR
+O75473	8549	G protein-coupled receptor	GPCR
+O95222	8590	G protein-coupled receptor	GPCR
+O95977	8698	G protein-coupled receptor	GPCR
+O43603	8811	G protein-coupled receptor	GPCR
+P49019	8843	G protein-coupled receptor	GPCR
+Q96RI0	9002	G protein-coupled receptor	GPCR
+O00421	9034	G protein-coupled receptor	GPCR
+O14804	9038	G protein-coupled receptor	GPCR
+Q8NFJ5	9052	G protein-coupled receptor	GPCR
+Q9HBW0	9170	G protein-coupled receptor	GPCR
+Q13585	9248	G protein-coupled receptor	GPCR
+O60883	9283	G protein-coupled receptor	GPCR
+Q9P1P5	9287	G protein-coupled receptor	GPCR
+Q9Y653	9289	G protein-coupled receptor	GPCR
+Q9Y2T6	9290	G protein-coupled receptor	GPCR
+Q9Y2T5	9293	G protein-coupled receptor	GPCR
+O95136	9294	G protein-coupled receptor	GPCR
+O95838	9340	G protein-coupled receptor	GPCR
+O75899	9568	G protein-coupled receptor	GPCR
+Q9NYQ6	9620	G protein-coupled receptor	GPCR
+Q15391	9934	G protein-coupled receptor	GPCR
+Q8IZP9	10149	G protein-coupled receptor	GPCR
+P43657	10161	G protein-coupled receptor	GPCR
+Q16602	10203	G protein-coupled receptor	GPCR
+Q9HB89	10316	G protein-coupled receptor	GPCR
+O00574	10663	G protein-coupled receptor	GPCR
+O14718	10692	G protein-coupled receptor	GPCR
+Q13606	10798	G protein-coupled receptor	GPCR
+Q9Y271	10800	G protein-coupled receptor	GPCR
+P51686	10803	G protein-coupled receptor	GPCR
+Q9Y5X5	10886	G protein-coupled receptor	GPCR
+Q8TCW9	10887	G protein-coupled receptor	GPCR
+Q9NYM4	10888	G protein-coupled receptor	GPCR
+O95800	10936	G protein-coupled receptor	GPCR
+Q9ULW2	11211	G protein-coupled receptor	GPCR
+Q14439	11245	G protein-coupled receptor	GPCR
+Q9Y5Y3	11250	G protein-coupled receptor	GPCR
+Q9Y5Y4	11251	G protein-coupled receptor	GPCR
+Q9Y5N1	11255	G protein-coupled receptor	GPCR
+O15218	11318	G protein-coupled receptor	GPCR
+O94910	22859	G protein-coupled receptor	GPCR
+O95490	23266	G protein-coupled receptor	GPCR
+Q9HAR2	23284	G protein-coupled receptor	GPCR
+Q8N6U8	23432	G protein-coupled receptor	GPCR
+Q9UKL2	23538	G protein-coupled receptor	GPCR
+Q9UBY5	23566	G protein-coupled receptor	GPCR
+Q9H1Y3	23596	G protein-coupled receptor	GPCR
+O95665	23620	G protein-coupled receptor	GPCR
+Q96PE1	25960	G protein-coupled receptor	GPCR
+Q15619	26188	G protein-coupled receptor	GPCR
+Q9Y585	26189	G protein-coupled receptor	GPCR
+Q13607	26211	G protein-coupled receptor	GPCR
+P58173	26212	G protein-coupled receptor	GPCR
+Q8NGS1	26219	G protein-coupled receptor	GPCR
+Q96R27	26245	G protein-coupled receptor	GPCR
+Q8NH16	26246	G protein-coupled receptor	GPCR
+Q8NGT1	26248	G protein-coupled receptor	GPCR
+O14581	26333	G protein-coupled receptor	GPCR
+Q8NGL0	26338	G protein-coupled receptor	GPCR
+Q8NHB7	26339	G protein-coupled receptor	GPCR
+A6NKK0	26341	G protein-coupled receptor	GPCR
+P30954	26476	G protein-coupled receptor	GPCR
+Q6IF36	26492	G protein-coupled receptor	GPCR
+Q15620	26493	G protein-coupled receptor	GPCR
+Q15617	26494	G protein-coupled receptor	GPCR
+P58181	26496	G protein-coupled receptor	GPCR
+P58182	26529	G protein-coupled receptor	GPCR
+Q9GZK7	26531	G protein-coupled receptor	GPCR
+O60404	26532	G protein-coupled receptor	GPCR
+Q8NGC4	26533	G protein-coupled receptor	GPCR
+O60403	26538	G protein-coupled receptor	GPCR
+Q9Y4A9	26539	G protein-coupled receptor	GPCR
+Q96RD0	26595	G protein-coupled receptor	GPCR
+Q6IFN5	26648	G protein-coupled receptor	GPCR
+O60412	26658	G protein-coupled receptor	GPCR
+Q15622	26659	G protein-coupled receptor	GPCR
+O76099	26664	G protein-coupled receptor	GPCR
+Q96R69	26682	G protein-coupled receptor	GPCR
+Q6IEY1	26683	G protein-coupled receptor	GPCR
+P0C645	26687	G protein-coupled receptor	GPCR
+Q15615	26689	G protein-coupled receptor	GPCR
+Q9Y3N9	26692	G protein-coupled receptor	GPCR
+Q8NHB1	26693	G protein-coupled receptor	GPCR
+O43869	26696	G protein-coupled receptor	GPCR
+O76002	26707	G protein-coupled receptor	GPCR
+Q9GZK4	26716	G protein-coupled receptor	GPCR
+Q8NH93	26735	G protein-coupled receptor	GPCR
+Q8NH94	26737	G protein-coupled receptor	GPCR
+Q8NGS2	26740	G protein-coupled receptor	GPCR
+Q9UJ42	26996	G protein-coupled receptor	GPCR
+Q96P67	27197	G protein-coupled receptor	GPCR
+Q9BXC0	27198	G protein-coupled receptor	GPCR
+Q96P68	27199	G protein-coupled receptor	GPCR
+Q96P69	27201	G protein-coupled receptor	GPCR
+Q9P296	27202	G protein-coupled receptor	GPCR
+Q16538	27239	G protein-coupled receptor	GPCR
+O00398	27334	G protein-coupled receptor	GPCR
+O14626	29909	G protein-coupled receptor	GPCR
+Q9UNW8	29933	G protein-coupled receptor	GPCR
+Q9UHX3	30817	G protein-coupled receptor	GPCR
+Q9NYW6	50831	G protein-coupled receptor	GPCR
+Q9NYW5	50832	G protein-coupled receptor	GPCR
+Q9NYV7	50833	G protein-coupled receptor	GPCR
+Q9NYW7	50834	G protein-coupled receptor	GPCR
+Q9NYW1	50835	G protein-coupled receptor	GPCR
+Q9NYW2	50836	G protein-coupled receptor	GPCR
+Q9NYW3	50837	G protein-coupled receptor	GPCR
+Q9NYV9	50838	G protein-coupled receptor	GPCR
+Q9NYW0	50839	G protein-coupled receptor	GPCR
+Q9NYV8	50840	G protein-coupled receptor	GPCR
+Q9NSD7	51289	G protein-coupled receptor	GPCR
+Q9NPB9	51554	G protein-coupled receptor	GPCR
+Q9NZH0	51704	G protein-coupled receptor	GPCR
+Q9H228	53637	G protein-coupled receptor	GPCR
+Q9BPV8	53829	G protein-coupled receptor	GPCR
+Q9NQS5	53831	G protein-coupled receptor	GPCR
+Q9BY21	53836	G protein-coupled receptor	GPCR
+Q9GZN0	54112	G protein-coupled receptor	GPCR
+Q9NS66	54328	G protein-coupled receptor	GPCR
+P60893	54329	G protein-coupled receptor	GPCR
+Q9NYW4	54429	G protein-coupled receptor	GPCR
+Q9BXB1	55366	G protein-coupled receptor	GPCR
+Q9NZD1	55507	G protein-coupled receptor	GPCR
+Q9NQ84	55890	G protein-coupled receptor	GPCR
+Q9NPC1	56413	G protein-coupled receptor	GPCR
+Q9NQN1	56656	G protein-coupled receptor	GPCR
+Q9BXA5	56670	G protein-coupled receptor	GPCR
+Q9GZQ4	56923	G protein-coupled receptor	GPCR
+P25106	57007	G protein-coupled receptor	GPCR
+Q9NS75	57105	G protein-coupled receptor	GPCR
+Q9H1C0	57121	G protein-coupled receptor	GPCR
+Q9GZP7	57191	G protein-coupled receptor	GPCR
+Q86SQ4	57211	G protein-coupled receptor	GPCR
+Q5T848	57512	G protein-coupled receptor	GPCR
+Q9H3N8	59340	G protein-coupled receptor	GPCR
+Q9HBX9	59350	G protein-coupled receptor	GPCR
+Q9HBX8	59352	G protein-coupled receptor	GPCR
+Q9GZQ6	64106	G protein-coupled receptor	GPCR
+Q9HBW9	64123	G protein-coupled receptor	GPCR
+Q8IZ08	64582	G protein-coupled receptor	GPCR
+Q9H244	64805	G protein-coupled receptor	GPCR
+Q8NGR1	79290	G protein-coupled receptor	GPCR
+Q8NGV6	79295	G protein-coupled receptor	GPCR
+Q8NGJ3	79296	G protein-coupled receptor	GPCR
+Q8NGV7	79310	G protein-coupled receptor	GPCR
+Q8NGD3	79317	G protein-coupled receptor	GPCR
+Q8NGK1	79324	G protein-coupled receptor	GPCR
+Q8NH07	79334	G protein-coupled receptor	GPCR
+Q9Y5P0	79339	G protein-coupled receptor	GPCR
+Q9Y5P1	79345	G protein-coupled receptor	GPCR
+Q8NGB2	79346	G protein-coupled receptor	GPCR
+Q9H342	79470	G protein-coupled receptor	GPCR
+Q8NH53	79473	G protein-coupled receptor	GPCR
+Q8NH21	79501	G protein-coupled receptor	GPCR
+O95047	79541	G protein-coupled receptor	GPCR
+Q8NGD4	79544	G protein-coupled receptor	GPCR
+Q5UAW9	80045	G protein-coupled receptor	GPCR
+Q8TE23	80834	G protein-coupled receptor	GPCR
+Q7RTX1	80835	G protein-coupled receptor	GPCR
+Q9NZP5	81050	G protein-coupled receptor	GPCR
+Q8NG94	81061	G protein-coupled receptor	GPCR
+Q8NGA8	81099	G protein-coupled receptor	GPCR
+Q8NH41	81127	G protein-coupled receptor	GPCR
+Q8NGG0	81168	G protein-coupled receptor	GPCR
+Q8NGK0	81282	G protein-coupled receptor	GPCR
+Q9H255	81285	G protein-coupled receptor	GPCR
+Q8NGL7	81300	G protein-coupled receptor	GPCR
+Q8NGM1	81309	G protein-coupled receptor	GPCR
+Q8NH83	81318	G protein-coupled receptor	GPCR
+Q8NH70	81327	G protein-coupled receptor	GPCR
+Q8NGL6	81328	G protein-coupled receptor	GPCR
+Q8NGF6	81341	G protein-coupled receptor	GPCR
+Q8NHA4	81392	G protein-coupled receptor	GPCR
+Q6IEY1	81399	G protein-coupled receptor	GPCR
+Q8NGY6	81442	G protein-coupled receptor	GPCR
+Q8NGY2	81448	G protein-coupled receptor	GPCR
+Q8NG80	81466	G protein-coupled receptor	GPCR
+Q8NGZ4	81469	G protein-coupled receptor	GPCR
+Q8NGZ5	81470	G protein-coupled receptor	GPCR
+Q8N628	81472	G protein-coupled receptor	GPCR
+Q9BZJ6	81491	G protein-coupled receptor	GPCR
+Q9UGF6	81696	G protein-coupled receptor	GPCR
+Q9GZK3	81697	G protein-coupled receptor	GPCR
+Q9UGF7	81797	G protein-coupled receptor	GPCR
+Q96P66	83550	G protein-coupled receptor	GPCR
+Q969N4	83551	G protein-coupled receptor	GPCR
+Q7RTX0	83756	G protein-coupled receptor	GPCR
+Q9BZJ8	83873	G protein-coupled receptor	GPCR
+Q8WXG9	84059	G protein-coupled receptor	GPCR
+Q96P65	84109	G protein-coupled receptor	GPCR
+Q86SQ6	84435	G protein-coupled receptor	GPCR
+Q969V1	84539	G protein-coupled receptor	GPCR
+Q969F8	84634	G protein-coupled receptor	GPCR
+Q9BXC1	84636	G protein-coupled receptor	GPCR
+Q9BY15	84658	G protein-coupled receptor	GPCR
+Q96K78	84873	G protein-coupled receptor	GPCR
+Q9UHM6	94233	G protein-coupled receptor	GPCR
+Q96CH1	115330	G protein-coupled receptor	GPCR
+P35410	116511	G protein-coupled receptor	GPCR
+Q8TDS7	116512	G protein-coupled receptor	GPCR
+Q86SM8	116534	G protein-coupled receptor	GPCR
+Q96AM1	116535	G protein-coupled receptor	GPCR
+Q96LB1	117194	G protein-coupled receptor	GPCR
+Q96LB0	117195	G protein-coupled receptor	GPCR
+Q96LA9	117196	G protein-coupled receptor	GPCR
+Q9BZJ7	118442	G protein-coupled receptor	GPCR
+Q8NGJ4	119678	G protein-coupled receptor	GPCR
+Q8NH60	119679	G protein-coupled receptor	GPCR
+Q8NGJ5	119682	G protein-coupled receptor	GPCR
+Q8NH64	119687	G protein-coupled receptor	GPCR
+Q8NGJ8	119692	G protein-coupled receptor	GPCR
+Q8NH61	119694	G protein-coupled receptor	GPCR
+Q8NGF1	119695	G protein-coupled receptor	GPCR
+A6NHA9	119749	G protein-coupled receptor	GPCR
+Q8NGF9	119764	G protein-coupled receptor	GPCR
+Q8NGF8	119765	G protein-coupled receptor	GPCR
+Q8NGK5	119772	G protein-coupled receptor	GPCR
+Q8NGK3	119774	G protein-coupled receptor	GPCR
+Q8WZ92	120065	G protein-coupled receptor	GPCR
+Q8WZ94	120066	G protein-coupled receptor	GPCR
+Q8N0Y5	120586	G protein-coupled receptor	GPCR
+Q8NGH3	120775	G protein-coupled receptor	GPCR
+Q9H210	120776	G protein-coupled receptor	GPCR
+Q6IF63	120787	G protein-coupled receptor	GPCR
+Q8NGH8	120793	G protein-coupled receptor	GPCR
+Q8NGH5	120796	G protein-coupled receptor	GPCR
+Q8NGE2	121129	G protein-coupled receptor	GPCR
+Q8NGE3	121130	G protein-coupled receptor	GPCR
+Q8NGE0	121275	G protein-coupled receptor	GPCR
+Q8NGE5	121364	G protein-coupled receptor	GPCR
+Q8WXD0	122042	G protein-coupled receptor	GPCR
+Q8NGD5	122740	G protein-coupled receptor	GPCR
+Q8NH43	122742	G protein-coupled receptor	GPCR
+Q8NGC7	122748	G protein-coupled receptor	GPCR
+Q6DWJ6	124274	G protein-coupled receptor	GPCR
+P58180	124538	G protein-coupled receptor	GPCR
+Q8NG98	125958	G protein-coupled receptor	GPCR
+Q8NGA0	125962	G protein-coupled receptor	GPCR
+Q8NGA1	125963	G protein-coupled receptor	GPCR
+O60431	126370	G protein-coupled receptor	GPCR
+Q8NGA5	126541	G protein-coupled receptor	GPCR
+A3KFT3	127059	G protein-coupled receptor	GPCR
+Q8NG83	127062	G protein-coupled receptor	GPCR
+Q8NG77	127064	G protein-coupled receptor	GPCR
+Q8NHC7	127066	G protein-coupled receptor	GPCR
+Q8NGX1	127068	G protein-coupled receptor	GPCR
+Q8NGZ9	127069	G protein-coupled receptor	GPCR
+Q8NH00	127074	G protein-coupled receptor	GPCR
+Q8NH01	127077	G protein-coupled receptor	GPCR
+Q8NHC4	127385	G protein-coupled receptor	GPCR
+Q5JQS5	127623	G protein-coupled receptor	GPCR
+Q8NGX3	128360	G protein-coupled receptor	GPCR
+Q8NGX9	128366	G protein-coupled receptor	GPCR
+Q8NGY0	128367	G protein-coupled receptor	GPCR
+Q8NGY1	128368	G protein-coupled receptor	GPCR
+Q8NGW6	128371	G protein-coupled receptor	GPCR
+Q8NGY5	128372	G protein-coupled receptor	GPCR
+Q8NFJ6	128674	G protein-coupled receptor	GPCR
+Q8NGU2	130075	G protein-coupled receptor	GPCR
+Q8NGV0	134083	G protein-coupled receptor	GPCR
+Q8TDV0	134391	G protein-coupled receptor	GPCR
+Q96RI9	134860	G protein-coupled receptor	GPCR
+Q96RJ0	134864	G protein-coupled receptor	GPCR
+Q8NGT5	135924	G protein-coupled receptor	GPCR
+Q96R47	135941	G protein-coupled receptor	GPCR
+O95007	135946	G protein-coupled receptor	GPCR
+O95006	135948	G protein-coupled receptor	GPCR
+Q8NGS8	138799	G protein-coupled receptor	GPCR
+Q8NGS7	138802	G protein-coupled receptor	GPCR
+Q8NGS6	138803	G protein-coupled receptor	GPCR
+Q8NGS5	138804	G protein-coupled receptor	GPCR
+Q8NGS4	138805	G protein-coupled receptor	GPCR
+Q8NGR8	138881	G protein-coupled receptor	GPCR
+Q8NGR9	138882	G protein-coupled receptor	GPCR
+Q8NGS0	138883	G protein-coupled receptor	GPCR
+Q8IZF6	139378	G protein-coupled receptor	GPCR
+Q8TDV5	139760	G protein-coupled receptor	GPCR
+Q8NGK2	143496	G protein-coupled receptor	GPCR
+Q8NH67	143502	G protein-coupled receptor	GPCR
+Q8TCB6	143503	G protein-coupled receptor	GPCR
+Q9H207	144124	G protein-coupled receptor	GPCR
+Q9H205	144125	G protein-coupled receptor	GPCR
+Q8NGW1	150681	G protein-coupled receptor	GPCR
+Q8TDU6	151306	G protein-coupled receptor	GPCR
+Q15612	158131	G protein-coupled receptor	GPCR
+Q96RA2	162998	G protein-coupled receptor	GPCR
+Q8IZF5	165082	G protein-coupled receptor	GPCR
+Q8TDS5	165140	G protein-coupled receptor	GPCR
+Q8NFN8	165829	G protein-coupled receptor	GPCR
+Q8IWK6	166647	G protein-coupled receptor	GPCR
+Q8NH76	196335	G protein-coupled receptor	GPCR
+Q8NH10	219417	G protein-coupled receptor	GPCR
+Q8NGL9	219428	G protein-coupled receptor	GPCR
+Q6IEV9	219429	G protein-coupled receptor	GPCR
+Q8NH73	219431	G protein-coupled receptor	GPCR
+Q8NH72	219432	G protein-coupled receptor	GPCR
+Q8NGL3	219436	G protein-coupled receptor	GPCR
+Q8NGL2	219437	G protein-coupled receptor	GPCR
+Q8NGL1	219438	G protein-coupled receptor	GPCR
+Q8N127	219447	G protein-coupled receptor	GPCR
+Q8NH50	219453	G protein-coupled receptor	GPCR
+Q8NGG2	219464	G protein-coupled receptor	GPCR
+Q8NGG4	219469	G protein-coupled receptor	GPCR
+Q8NH51	219473	G protein-coupled receptor	GPCR
+Q8NGP2	219477	G protein-coupled receptor	GPCR
+Q8NH85	219479	G protein-coupled receptor	GPCR
+Q8NGP4	219482	G protein-coupled receptor	GPCR
+Q8NGP6	219484	G protein-coupled receptor	GPCR
+Q96RB7	219487	G protein-coupled receptor	GPCR
+Q8NGP9	219493	G protein-coupled receptor	GPCR
+Q8NGG6	219858	G protein-coupled receptor	GPCR
+Q8NG78	219865	G protein-coupled receptor	GPCR
+Q8NGN5	219869	G protein-coupled receptor	GPCR
+Q8NGN4	219870	G protein-coupled receptor	GPCR
+Q8NGN2	219873	G protein-coupled receptor	GPCR
+Q8NGN1	219874	G protein-coupled receptor	GPCR
+Q8NGN0	219875	G protein-coupled receptor	GPCR
+Q8NGQ2	219952	G protein-coupled receptor	GPCR
+Q8NGQ6	219954	G protein-coupled receptor	GPCR
+Q8NGQ5	219956	G protein-coupled receptor	GPCR
+Q8NGE9	219957	G protein-coupled receptor	GPCR
+Q8NGQ3	219958	G protein-coupled receptor	GPCR
+Q8NH92	219959	G protein-coupled receptor	GPCR
+Q8NGQ4	219960	G protein-coupled receptor	GPCR
+Q8NGF7	219965	G protein-coupled receptor	GPCR
+A6NL26	219968	G protein-coupled receptor	GPCR
+Q8NGI9	219981	G protein-coupled receptor	GPCR
+Q8NGJ0	219982	G protein-coupled receptor	GPCR
+Q8NGJ1	219983	G protein-coupled receptor	GPCR
+Q8NGI4	219986	G protein-coupled receptor	GPCR
+Q8IZF4	221188	G protein-coupled receptor	GPCR
+Q6U736	221391	G protein-coupled receptor	GPCR
+Q8IZF3	221393	G protein-coupled receptor	GPCR
+Q8IZF2	221395	G protein-coupled receptor	GPCR
+Q86Y34	222487	G protein-coupled receptor	GPCR
+Q5T6X5	222545	G protein-coupled receptor	GPCR
+Q8IZF7	222611	G protein-coupled receptor	GPCR
+A6NCV1	254783	G protein-coupled receptor	GPCR
+Q9NZP0	254786	G protein-coupled receptor	GPCR
+Q8NHC8	254879	G protein-coupled receptor	GPCR
+Q8NGR5	254973	G protein-coupled receptor	GPCR
+Q96RD2	255725	G protein-coupled receptor	GPCR
+Q8NH37	256144	G protein-coupled receptor	GPCR
+Q8NGB4	256148	G protein-coupled receptor	GPCR
+Q96LB2	259249	G protein-coupled receptor	GPCR
+P59534	259285	G protein-coupled receptor	GPCR
+P59535	259286	G protein-coupled receptor	GPCR
+P59536	259287	G protein-coupled receptor	GPCR
+P59537	259289	G protein-coupled receptor	GPCR
+P59538	259290	G protein-coupled receptor	GPCR
+P59540	259292	G protein-coupled receptor	GPCR
+P59541	259293	G protein-coupled receptor	GPCR
+P59542	259294	G protein-coupled receptor	GPCR
+P59543	259295	G protein-coupled receptor	GPCR
+P59544	259296	G protein-coupled receptor	GPCR
+Q5T601	266977	G protein-coupled receptor	GPCR
+Q9H339	282763	G protein-coupled receptor	GPCR
+Q8NH19	282770	G protein-coupled receptor	GPCR
+Q8NH18	282775	G protein-coupled receptor	GPCR
+Q8NGP0	283092	G protein-coupled receptor	GPCR
+Q96R67	283093	G protein-coupled receptor	GPCR
+P0C646	283110	G protein-coupled receptor	GPCR
+Q9H2C8	283111	G protein-coupled receptor	GPCR
+Q8WZ84	283159	G protein-coupled receptor	GPCR
+Q9GZM6	283160	G protein-coupled receptor	GPCR
+Q96RC9	283162	G protein-coupled receptor	GPCR
+Q8NGQ1	283189	G protein-coupled receptor	GPCR
+Q9H209	283297	G protein-coupled receptor	GPCR
+A6NF89	283365	G protein-coupled receptor	GPCR
+Q6QNK2	283383	G protein-coupled receptor	GPCR
+Q8N0Y3	283694	G protein-coupled receptor	GPCR
+Q8NG97	284383	G protein-coupled receptor	GPCR
+Q8NGA6	284433	G protein-coupled receptor	GPCR
+Q8N349	284521	G protein-coupled receptor	GPCR
+Q8NHC5	284532	G protein-coupled receptor	GPCR
+Q8NGU9	285601	G protein-coupled receptor	GPCR
+Q96R30	285659	G protein-coupled receptor	GPCR
+Q8NGT0	286362	G protein-coupled receptor	GPCR
+Q8NGV5	286365	G protein-coupled receptor	GPCR
+Q86VZ1	286530	G protein-coupled receptor	GPCR
+Q8NFZ6	317701	G protein-coupled receptor	GPCR
+Q9BXE9	317702	G protein-coupled receptor	GPCR
+Q7Z5H5	317703	G protein-coupled receptor	GPCR
+Q7Z5H4	317705	G protein-coupled receptor	GPCR
+Q96RI8	319100	G protein-coupled receptor	GPCR
+P59551	338398	G protein-coupled receptor	GPCR
+Q8TDS4	338442	G protein-coupled receptor	GPCR
+Q5NUL3	338557	G protein-coupled receptor	GPCR
+Q8NGM9	338662	G protein-coupled receptor	GPCR
+O95221	338674	G protein-coupled receptor	GPCR
+Q8NGF4	338675	G protein-coupled receptor	GPCR
+Q8NGH7	338751	G protein-coupled receptor	GPCR
+A6NM03	338755	G protein-coupled receptor	GPCR
+Q8TDU9	339403	G protein-coupled receptor	GPCR
+Q8NGF0	340980	G protein-coupled receptor	GPCR
+A6NND4	341152	G protein-coupled receptor	GPCR
+Q9H208	341276	G protein-coupled receptor	GPCR
+Q9NZP2	341416	G protein-coupled receptor	GPCR
+Q8NGE1	341418	G protein-coupled receptor	GPCR
+Q8NH09	341568	G protein-coupled receptor	GPCR
+Q8NH40	341799	G protein-coupled receptor	GPCR
+Q8NGZ6	343169	G protein-coupled receptor	GPCR
+Q7Z3T1	343171	G protein-coupled receptor	GPCR
+A6NH00	343172	G protein-coupled receptor	GPCR
+Q8NH03	343173	G protein-coupled receptor	GPCR
+Q8NGX6	343406	G protein-coupled receptor	GPCR
+Q8NH02	343563	G protein-coupled receptor	GPCR
+Q8TDV2	344561	G protein-coupled receptor	GPCR
+Q86SP6	344758	G protein-coupled receptor	GPCR
+Q8N148	346517	G protein-coupled receptor	GPCR
+Q8NGT7	346525	G protein-coupled receptor	GPCR
+Q8NGT9	346528	G protein-coupled receptor	GPCR
+Q8NGS3	347168	G protein-coupled receptor	GPCR
+Q8NGR6	347169	G protein-coupled receptor	GPCR
+Q8NG92	347468	G protein-coupled receptor	GPCR
+Q7Z601	350383	G protein-coupled receptor	GPCR
+Q7Z602	353345	G protein-coupled receptor	GPCR
+Q86SM5	386746	G protein-coupled receptor	GPCR
+Q6W5P4	387129	G protein-coupled receptor	GPCR
+Q6NV75	387509	G protein-coupled receptor	GPCR
+Q8NGI3	387748	G protein-coupled receptor	GPCR
+Q6IFH4	389090	G protein-coupled receptor	GPCR
+Q8NGK4	390036	G protein-coupled receptor	GPCR
+Q8NGK6	390037	G protein-coupled receptor	GPCR
+Q8NGF3	390038	G protein-coupled receptor	GPCR
+Q9H2C5	390054	G protein-coupled receptor	GPCR
+Q9H340	390058	G protein-coupled receptor	GPCR
+Q9H341	390059	G protein-coupled receptor	GPCR
+Q8NH59	390061	G protein-coupled receptor	GPCR
+Q9H343	390063	G protein-coupled receptor	GPCR
+Q9H344	390064	G protein-coupled receptor	GPCR
+Q9H346	390066	G protein-coupled receptor	GPCR
+Q8NGJ2	390067	G protein-coupled receptor	GPCR
+Q8NGI2	390072	G protein-coupled receptor	GPCR
+Q8NH56	390075	G protein-coupled receptor	GPCR
+Q8NGI0	390077	G protein-coupled receptor	GPCR
+Q96RD3	390078	G protein-coupled receptor	GPCR
+Q6IFG1	390079	G protein-coupled receptor	GPCR
+Q8NGH9	390081	G protein-coupled receptor	GPCR
+Q8NH54	390083	G protein-coupled receptor	GPCR
+P0C7T3	390084	G protein-coupled receptor	GPCR
+Q8NH74	390093	G protein-coupled receptor	GPCR
+Q8NH49	390113	G protein-coupled receptor	GPCR
+Q8NGL4	390142	G protein-coupled receptor	GPCR
+Q8NGK9	390144	G protein-coupled receptor	GPCR
+Q8NH69	390148	G protein-coupled receptor	GPCR
+Q8N162	390151	G protein-coupled receptor	GPCR
+Q8N146	390152	G protein-coupled receptor	GPCR
+Q8NGG3	390154	G protein-coupled receptor	GPCR
+Q8NG75	390155	G protein-coupled receptor	GPCR
+Q8NGG5	390157	G protein-coupled receptor	GPCR
+Q8NGP3	390162	G protein-coupled receptor	GPCR
+Q6IEU7	390167	G protein-coupled receptor	GPCR
+Q8NGP8	390168	G protein-coupled receptor	GPCR
+Q8NH87	390174	G protein-coupled receptor	GPCR
+Q8NH90	390181	G protein-coupled receptor	GPCR
+Q96R09	390190	G protein-coupled receptor	GPCR
+Q96R08	390191	G protein-coupled receptor	GPCR
+Q8NGI8	390195	G protein-coupled receptor	GPCR
+Q8NGI6	390197	G protein-coupled receptor	GPCR
+Q8NGE8	390199	G protein-coupled receptor	GPCR
+Q8NGI7	390201	G protein-coupled receptor	GPCR
+Q8TDT2	390212	G protein-coupled receptor	GPCR
+Q8NH79	390260	G protein-coupled receptor	GPCR
+Q8NGM8	390261	G protein-coupled receptor	GPCR
+Q8NGN3	390264	G protein-coupled receptor	GPCR
+Q8NGN6	390265	G protein-coupled receptor	GPCR
+Q8NGG8	390271	G protein-coupled receptor	GPCR
+Q8NGG7	390275	G protein-coupled receptor	GPCR
+Q96RD1	390321	G protein-coupled receptor	GPCR
+A6NL08	390323	G protein-coupled receptor	GPCR
+A6NM76	390326	G protein-coupled receptor	GPCR
+A6NIJ9	390327	G protein-coupled receptor	GPCR
+Q8NGD1	390429	G protein-coupled receptor	GPCR
+Q8NGD2	390431	G protein-coupled receptor	GPCR
+Q8NH42	390433	G protein-coupled receptor	GPCR
+Q8NGC6	390436	G protein-coupled receptor	GPCR
+Q8IXE1	390437	G protein-coupled receptor	GPCR
+Q8NGC1	390439	G protein-coupled receptor	GPCR
+Q8NGC8	390441	G protein-coupled receptor	GPCR
+Q8NGC9	390442	G protein-coupled receptor	GPCR
+Q8NGC0	390445	G protein-coupled receptor	GPCR
+Q8NGB6	390538	G protein-coupled receptor	GPCR
+Q8NGB9	390648	G protein-coupled receptor	GPCR
+Q8NGB8	390649	G protein-coupled receptor	GPCR
+Q8NG99	390882	G protein-coupled receptor	GPCR
+Q8NG95	390883	G protein-coupled receptor	GPCR
+O76100	390892	G protein-coupled receptor	GPCR
+Q6IF99	391107	G protein-coupled receptor	GPCR
+Q8NGX5	391109	G protein-coupled receptor	GPCR
+Q8NGX8	391112	G protein-coupled receptor	GPCR
+Q8NGY3	391114	G protein-coupled receptor	GPCR
+Q8NGX0	391189	G protein-coupled receptor	GPCR
+Q8NGY9	391190	G protein-coupled receptor	GPCR
+Q8NG84	391191	G protein-coupled receptor	GPCR
+Q8NG85	391192	G protein-coupled receptor	GPCR
+Q96R28	391194	G protein-coupled receptor	GPCR
+Q8NG76	391195	G protein-coupled receptor	GPCR
+Q8NG81	391196	G protein-coupled receptor	GPCR
+Q5TZ20	391211	G protein-coupled receptor	GPCR
+A4D2G3	392138	G protein-coupled receptor	GPCR
+Q8NGT2	392309	G protein-coupled receptor	GPCR
+Q8NGS9	392376	G protein-coupled receptor	GPCR
+Q8NGR2	392390	G protein-coupled receptor	GPCR
+Q8NGR4	392391	G protein-coupled receptor	GPCR
+Q8NGR3	392392	G protein-coupled receptor	GPCR
+Q96R48	393046	G protein-coupled receptor	GPCR
+Q96R45	401427	G protein-coupled receptor	GPCR
+Q8NH63	401663	G protein-coupled receptor	GPCR
+Q8NGJ9	401665	G protein-coupled receptor	GPCR
+Q8NGJ6	401666	G protein-coupled receptor	GPCR
+Q8NGJ7	401667	G protein-coupled receptor	GPCR
+Q6IF00	401992	G protein-coupled receptor	GPCR
+Q6IEZ7	401993	G protein-coupled receptor	GPCR
+A6ND48	401994	G protein-coupled receptor	GPCR
+Q8NHB8	402135	G protein-coupled receptor	GPCR
+Q8NGT9	402317	G protein-coupled receptor	GPCR
+Q8NH04	403239	G protein-coupled receptor	GPCR
+Q8NGX2	403244	G protein-coupled receptor	GPCR
+Q6IF82	403253	G protein-coupled receptor	GPCR
+A6NHG9	403273	G protein-coupled receptor	GPCR
+A6NDH6	403274	G protein-coupled receptor	GPCR
+A6NET4	403277	G protein-coupled receptor	GPCR
+A6NMS3	403278	G protein-coupled receptor	GPCR
+A6NJZ3	403282	G protein-coupled receptor	GPCR
+A6NDL8	403284	G protein-coupled receptor	GPCR
+B2RN74	440153	G protein-coupled receptor	GPCR
+Q6PRD1	440435	G protein-coupled receptor	GPCR
+O95013	441308	G protein-coupled receptor	GPCR
+Q8NH48	441608	G protein-coupled receptor	GPCR
+Q8NGE7	441639	G protein-coupled receptor	GPCR
+Q8NH05	441669	G protein-coupled receptor	GPCR
+Q8NGD0	441670	G protein-coupled receptor	GPCR
+Q5JRS4	441911	G protein-coupled receptor	GPCR
+A6NFC9	441932	G protein-coupled receptor	GPCR
+Q8NGZ3	441933	G protein-coupled receptor	GPCR
+O76000	442184	G protein-coupled receptor	GPCR
+Q9GZK6	442185	G protein-coupled receptor	GPCR
+O76001	442186	G protein-coupled receptor	GPCR
+Q9UGF5	442191	G protein-coupled receptor	GPCR
+Q96KK4	442194	G protein-coupled receptor	GPCR
+Q6IF42	442361	G protein-coupled receptor	GPCR
+P0C7N5	504190	G protein-coupled receptor	GPCR
+P0DN78	728458	G protein-coupled receptor	GPCR
+P04001	728458	G protein-coupled receptor	GPCR
+P0DN77	728458	G protein-coupled receptor	GPCR
+P41597	729230	G protein-coupled receptor	GPCR
+Q6IEY1	729759	G protein-coupled receptor	GPCR
+Q5VW38	57720	G protein-coupled receptor	GPCR
+Q86W33	131601	G protein-coupled receptor	GPCR
+Q96N19	56834	G protein-coupled receptor	GPCR
+A5X5Y0	285242	Ion channel	LGIC
+A8MPY1	200959	Ion channel	LGIC
+O00591	2568	Ion channel	LGIC
+O14764	2563	Ion channel	LGIC
+O15399	2906	Ion channel	LGIC
+O15547	9127	Ion channel	LGIC
+O43424	2895	Ion channel	LGIC
+O60391	116444	Ion channel	LGIC
+O75311	8001	Ion channel	LGIC
+O95264	9177	Ion channel	LGIC
+P02708	1134	Ion channel	LGIC
+P07510	1146	Ion channel	LGIC
+P11230	1140	Ion channel	LGIC
+P14867	2554	Ion channel	LGIC
+P17787	1141	Ion channel	LGIC
+P18505	2560	Ion channel	LGIC
+P18507	2566	Ion channel	LGIC
+P23415	2741	Ion channel	LGIC
+P23416	2742	Ion channel	LGIC
+P24046	2569	Ion channel	LGIC
+P28472	2562	Ion channel	LGIC
+P28476	2570	Ion channel	LGIC
+P30532	1138	Ion channel	LGIC
+P30926	1143	Ion channel	LGIC
+P31644	2558	Ion channel	LGIC
+P32297	1136	Ion channel	LGIC
+P34903	2556	Ion channel	LGIC
+P36544	1139	Ion channel	LGIC
+P36544	89832	Ion channel	LGIC
+P37088	6337	Ion channel	LGIC
+P39086	2897	Ion channel	LGIC
+P42261	2890	Ion channel	LGIC
+P42262	2891	Ion channel	LGIC
+P42263	2892	Ion channel	LGIC
+P43681	1137	Ion channel	LGIC
+P46098	3359	Ion channel	LGIC
+P47869	2555	Ion channel	LGIC
+P47870	2561	Ion channel	LGIC
+P48058	2893	Ion channel	LGIC
+P48167	2743	Ion channel	LGIC
+P48169	2557	Ion channel	LGIC
+P51168	6338	Ion channel	LGIC
+P51170	6340	Ion channel	LGIC
+P51172	6339	Ion channel	LGIC
+P51575	5023	Ion channel	LGIC
+P56373	5024	Ion channel	LGIC
+P78334	2564	Ion channel	LGIC
+P78348	41	Ion channel	LGIC
+Q04844	1145	Ion channel	LGIC
+Q05586	2902	Ion channel	LGIC
+Q05901	1142	Ion channel	LGIC
+Q07001	1144	Ion channel	LGIC
+Q12879	2903	Ion channel	LGIC
+Q13002	2898	Ion channel	LGIC
+Q13003	2899	Ion channel	LGIC
+Q13224	2904	Ion channel	LGIC
+Q14571	3709	Ion channel	LGIC
+Q14573	3710	Ion channel	LGIC
+Q14643	3708	Ion channel	LGIC
+Q14957	2905	Ion channel	LGIC
+Q15822	1135	Ion channel	LGIC
+Q15825	8973	Ion channel	LGIC
+Q16099	2900	Ion channel	LGIC
+Q16445	2559	Ion channel	LGIC
+Q16478	2901	Ion channel	LGIC
+Q16515	40	Ion channel	LGIC
+Q401N2	353174	Ion channel	LGIC
+Q5JXX5	441509	Ion channel	LGIC
+Q70Z44	200909	Ion channel	LGIC
+Q8N1C3	2565	Ion channel	LGIC
+Q8TCU5	116443	Ion channel	LGIC
+Q8WXA8	170572	Ion channel	LGIC
+Q93086	5026	Ion channel	LGIC
+Q99571	5025	Ion channel	LGIC
+Q99572	5027	Ion channel	LGIC
+Q99928	2567	Ion channel	LGIC
+Q9GZZ6	57053	Ion channel	LGIC
+Q9UBL9	22953	Ion channel	LGIC
+Q9UGM1	55584	Ion channel	LGIC
+Q9UHC3	9311	Ion channel	LGIC
+Q9ULK0	2894	Ion channel	LGIC
+Q9UN88	55879	Ion channel	LGIC
+O14520	364	Ion channel	OIC
+O43315	366	Ion channel	OIC
+O75712	2707	Ion channel	OIC
+O94778	343	Ion channel	OIC
+O95377	2709	Ion channel	OIC
+O95452	10804	Ion channel	OIC
+P08034	2705	Ion channel	OIC
+P13569	1080	Ion channel	OIC
+P17302	2697	Ion channel	OIC
+P29033	2706	Ion channel	OIC
+P29972	358	Ion channel	OIC
+P35212	2701	Ion channel	OIC
+P35523	1180	Ion channel	OIC
+P36382	2702	Ion channel	OIC
+P36383	10052	Ion channel	OIC
+P41181	359	Ion channel	OIC
+P48165	2703	Ion channel	OIC
+P51788	1181	Ion channel	OIC
+P51790	1182	Ion channel	OIC
+P51793	1183	Ion channel	OIC
+P51795	1184	Ion channel	OIC
+P51797	1185	Ion channel	OIC
+P51798	1186	Ion channel	OIC
+P51800	1187	Ion channel	OIC
+P51801	1188	Ion channel	OIC
+P55064	362	Ion channel	OIC
+P55087	361	Ion channel	OIC
+P57773	81025	Ion channel	OIC
+Q13520	363	Ion channel	OIC
+Q5T442	57165	Ion channel	OIC
+Q5XXA6	55107	Ion channel	OIC
+Q6PEY0	375519	Ion channel	OIC
+Q8IZF0	259232	Ion channel	OIC
+Q8N144	125111	Ion channel	OIC
+Q8NBQ7	282679	Ion channel	OIC
+Q8NFK1	349149	Ion channel	OIC
+Q92482	360	Ion channel	OIC
+Q92508	9780	Ion channel	OIC
+Q969M2	84694	Ion channel	OIC
+Q96D31	84876	Ion channel	OIC
+Q96KN9	219770	Ion channel	OIC
+Q96PS8	89872	Ion channel	OIC
+Q96QZ0	116337	Ion channel	OIC
+Q96RD6	56666	Ion channel	OIC
+Q96RD7	24145	Ion channel	OIC
+Q96SN7	80228	Ion channel	OIC
+Q9BRQ5	93129	Ion channel	OIC
+Q9H5I5	63895	Ion channel	OIC
+Q9NTQ9	127534	Ion channel	OIC
+Q9UKL4	57369	Ion channel	OIC
+Q9Y6H8	2700	Ion channel	OIC
+A8MYU2	157855	Ion channel	VGIC
+O00180	3775	Ion channel	VGIC
+O00555	773	Ion channel	VGIC
+O14649	3777	Ion channel	VGIC
+O15554	3783	Ion channel	VGIC
+O43497	8913	Ion channel	VGIC
+O43525	3786	Ion channel	VGIC
+O43526	3785	Ion channel	VGIC
+O60741	348980	Ion channel	VGIC
+O60840	778	Ion channel	VGIC
+O60928	3769	Ion channel	VGIC
+O75762	8989	Ion channel	VGIC
+O94759	7226	Ion channel	VGIC
+O95069	3776	Ion channel	VGIC
+O95180	8912	Ion channel	VGIC
+O95259	3756	Ion channel	VGIC
+O95279	8645	Ion channel	VGIC
+P16389	3737	Ion channel	VGIC
+P17658	3742	Ion channel	VGIC
+P21817	6261	Ion channel	VGIC
+P22001	3738	Ion channel	VGIC
+P22459	3739	Ion channel	VGIC
+P22460	3741	Ion channel	VGIC
+P29973	1259	Ion channel	VGIC
+P35498	6323	Ion channel	VGIC
+P35499	6329	Ion channel	VGIC
+P48048	3758	Ion channel	VGIC
+P48050	3761	Ion channel	VGIC
+P48051	3763	Ion channel	VGIC
+P48544	3762	Ion channel	VGIC
+P48547	3746	Ion channel	VGIC
+P48549	3760	Ion channel	VGIC
+P48995	7220	Ion channel	VGIC
+P51787	3784	Ion channel	VGIC
+P56696	9132	Ion channel	VGIC
+P57789	54207	Ion channel	VGIC
+P63252	3759	Ion channel	VGIC
+P78508	3766	Ion channel	VGIC
+Q00975	774	Ion channel	VGIC
+Q01668	776	Ion channel	VGIC
+Q03721	3749	Ion channel	VGIC
+Q09470	3736	Ion channel	VGIC
+Q12791	3778	Ion channel	VGIC
+Q12809	3757	Ion channel	VGIC
+Q13507	7222	Ion channel	VGIC
+Q13563	5311	Ion channel	VGIC
+Q13698	779	Ion channel	VGIC
+Q13936	775	Ion channel	VGIC
+Q14003	3748	Ion channel	VGIC
+Q14028	1258	Ion channel	VGIC
+Q14500	3768	Ion channel	VGIC
+Q14524	6331	Ion channel	VGIC
+Q14654	3767	Ion channel	VGIC
+Q14721	3745	Ion channel	VGIC
+Q15413	6263	Ion channel	VGIC
+Q15842	3764	Ion channel	VGIC
+Q15858	6335	Ion channel	VGIC
+Q15878	777	Ion channel	VGIC
+Q16280	1260	Ion channel	VGIC
+Q16281	1261	Ion channel	VGIC
+Q16322	3744	Ion channel	VGIC
+Q5JUK3	57582	Ion channel	VGIC
+Q6PIU1	27012	Ion channel	VGIC
+Q6UVM3	343450	Ion channel	VGIC
+Q7RTX7	378807	Ion channel	VGIC
+Q7Z2W7	79054	Ion channel	VGIC
+Q7Z418	338567	Ion channel	VGIC
+Q7Z4N2	4308	Ion channel	VGIC
+Q86XQ3	347732	Ion channel	VGIC
+Q8IV77	1262	Ion channel	VGIC
+Q8IZK6	255231	Ion channel	VGIC
+Q8NCM2	27133	Ion channel	VGIC
+Q8NEC5	117144	Ion channel	VGIC
+Q8NER1	7442	Ion channel	VGIC
+Q8NET8	162514	Ion channel	VGIC
+Q8NHX9	219931	Ion channel	VGIC
+Q8TAE7	170850	Ion channel	VGIC
+Q8TD43	54795	Ion channel	VGIC
+Q8TDD5	55283	Ion channel	VGIC
+Q8TDN1	93107	Ion channel	VGIC
+Q8TDN2	169522	Ion channel	VGIC
+Q92736	6262	Ion channel	VGIC
+Q92806	3765	Ion channel	VGIC
+Q92952	3780	Ion channel	VGIC
+Q92953	9312	Ion channel	VGIC
+Q96D96	84329	Ion channel	VGIC
+Q96KK3	3787	Ion channel	VGIC
+Q96L42	131096	Ion channel	VGIC
+Q96P56	117155	Ion channel	VGIC
+Q96PR1	3747	Ion channel	VGIC
+Q96RP8	3743	Ion channel	VGIC
+Q96T54	89822	Ion channel	VGIC
+Q96T55	83795	Ion channel	VGIC
+Q99250	6326	Ion channel	VGIC
+Q99712	3772	Ion channel	VGIC
+Q9BQ31	3790	Ion channel	VGIC
+Q9GZU1	57192	Ion channel	VGIC
+Q9H1D0	55503	Ion channel	VGIC
+Q9H252	81033	Ion channel	VGIC
+Q9H2S1	3781	Ion channel	VGIC
+Q9H3M0	3754	Ion channel	VGIC
+Q9H427	60598	Ion channel	VGIC
+Q9HB14	56659	Ion channel	VGIC
+Q9HB15	56660	Ion channel	VGIC
+Q9HBA0	59341	Ion channel	VGIC
+Q9HCF6	80036	Ion channel	VGIC
+Q9HCX4	57113	Ion channel	VGIC
+Q9NPC2	51305	Ion channel	VGIC
+Q9NPI9	3773	Ion channel	VGIC
+Q9NQA5	56302	Ion channel	VGIC
+Q9NQW8	54714	Ion channel	VGIC
+Q9NR82	56479	Ion channel	VGIC
+Q9NS40	90134	Ion channel	VGIC
+Q9NSA2	3750	Ion channel	VGIC
+Q9NY46	6328	Ion channel	VGIC
+Q9NYG8	50801	Ion channel	VGIC
+Q9NZM6	27039	Ion channel	VGIC
+Q9NZQ8	29850	Ion channel	VGIC
+Q9NZV8	3751	Ion channel	VGIC
+Q9P0L9	9033	Ion channel	VGIC
+Q9P0X4	8911	Ion channel	VGIC
+Q9P1Z3	57657	Ion channel	VGIC
+Q9UBN4	7223	Ion channel	VGIC
+Q9UGI6	3782	Ion channel	VGIC
+Q9UI33	11280	Ion channel	VGIC
+Q9UIX4	3755	Ion channel	VGIC
+Q9UJ96	26251	Ion channel	VGIC
+Q9UK17	3752	Ion channel	VGIC
+Q9UL51	610	Ion channel	VGIC
+Q9UL62	7224	Ion channel	VGIC
+Q9ULD8	23416	Ion channel	VGIC
+Q9ULQ1	53373	Ion channel	VGIC
+Q9ULS6	3788	Ion channel	VGIC
+Q9UNX9	3770	Ion channel	VGIC
+Q9UQ05	23415	Ion channel	VGIC
+Q9UQD0	6334	Ion channel	VGIC
+Q9Y210	7225	Ion channel	VGIC
+Q9Y257	9424	Ion channel	VGIC
+Q9Y2U2	10089	Ion channel	VGIC
+Q9Y3Q4	10021	Ion channel	VGIC
+Q9Y5S1	51393	Ion channel	VGIC
+Q9Y5Y9	6336	Ion channel	VGIC
+P51843	190	Nuclear hormone receptor	NHR
+P10275	367	Nuclear hormone receptor	NHR
+P10588	2063	Nuclear hormone receptor	NHR
+P03372	2099	Nuclear hormone receptor	NHR
+Q92731	2100	Nuclear hormone receptor	NHR
+P11474	2101	Nuclear hormone receptor	NHR
+O95718	2103	Nuclear hormone receptor	NHR
+P62508	2104	Nuclear hormone receptor	NHR
+O00482	2494	Nuclear hormone receptor	NHR
+Q13285	2516	Nuclear hormone receptor	NHR
+Q15406	2649	Nuclear hormone receptor	NHR
+P04150	2908	Nuclear hormone receptor	NHR
+P22736	3164	Nuclear hormone receptor	NHR
+P41235	3172	Nuclear hormone receptor	NHR
+Q14541	3174	Nuclear hormone receptor	NHR
+P08235	4306	Nuclear hormone receptor	NHR
+P43354	4929	Nuclear hormone receptor	NHR
+P06401	5241	Nuclear hormone receptor	NHR
+Q07869	5465	Nuclear hormone receptor	NHR
+Q03181	5467	Nuclear hormone receptor	NHR
+P37231	5468	Nuclear hormone receptor	NHR
+P10276	5914	Nuclear hormone receptor	NHR
+P10826	5915	Nuclear hormone receptor	NHR
+P13631	5916	Nuclear hormone receptor	NHR
+P35398	6095	Nuclear hormone receptor	NHR
+P51449	6097	Nuclear hormone receptor	NHR
+P19793	6256	Nuclear hormone receptor	NHR
+P28702	6257	Nuclear hormone receptor	NHR
+P48443	6258	Nuclear hormone receptor	NHR
+P10589	7025	Nuclear hormone receptor	NHR
+P24468	7026	Nuclear hormone receptor	NHR
+P10827	7067	Nuclear hormone receptor	NHR
+P10828	7068	Nuclear hormone receptor	NHR
+Q9Y466	7101	Nuclear hormone receptor	NHR
+P13056	7181	Nuclear hormone receptor	NHR
+P49116	7182	Nuclear hormone receptor	NHR
+P55055	7376	Nuclear hormone receptor	NHR
+P11473	7421	Nuclear hormone receptor	NHR
+Q92570	8013	Nuclear hormone receptor	NHR
+Q15466	8431	Nuclear hormone receptor	NHR
+O75469	8856	Nuclear hormone receptor	NHR
+P20393	9572	Nuclear hormone receptor	NHR
+Q14994	9970	Nuclear hormone receptor	NHR
+Q96RI1	9971	Nuclear hormone receptor	NHR
+Q14995	9975	Nuclear hormone receptor	NHR
+Q9Y5X4	10002	Nuclear hormone receptor	NHR
+Q13133	10062	Nuclear hormone receptor	NHR
+A6NFH5	646486	Other protein	OP
+O00481	11119	Other protein	OP
+O14786	8829	Other protein	OP
+O14862	9447	Other protein	OP
+O14921	6003	Other protein	OP
+O14924	6002	Other protein	OP
+O14980	7514	Other protein	OP
+O15016	9866	Other protein	OP
+O15353	8456	Other protein	OP
+O15492	6004	Other protein	OP
+O15539	8490	Other protein	OP
+O15540	2173	Other protein	OP
+O43566	10636	Other protein	OP
+O43665	6001	Other protein	OP
+O60667	9214	Other protein	OP
+O75916	8787	Other protein	OP
+O76081	8601	Other protein	OP
+O94810	8786	Other protein	OP
+O95267	10125	Other protein	OP
+P00451	2157	Other protein	OP
+P01730	920	Other protein	OP
+P02689	5375	Other protein	OP
+P02743	325	Other protein	OP
+P02753	5950	Other protein	OP
+P02766	7276	Other protein	OP
+P04233	972	Other protein	OP
+P05413	2170	Other protein	OP
+P06729	914	Other protein	OP
+P06731	1048	Other protein	OP
+P06734	2208	Other protein	OP
+P07148	2168	Other protein	OP
+P07437	203068	Other protein	OP
+P07766	916	Other protein	OP
+P07900	3320	Other protein	OP
+P08238	3326	Other protein	OP
+P08637	2214	Other protein	OP
+P09455	5947	Other protein	OP
+P09758	4070	Other protein	OP
+P0DMV8	3303	Other protein	OP
+P0DMV8	3304	Other protein	OP
+P0DMV9	3304	Other protein	OP
+P0DMV9	3303	Other protein	OP
+P10415	596	Other protein	OP
+P10745	5949	Other protein	OP
+P10747	940	Other protein	OP
+P11049	951	Other protein	OP
+P11142	3312	Other protein	OP
+P11836	931	Other protein	OP
+P12104	2169	Other protein	OP
+P12259	2153	Other protein	OP
+P12271	6017	Other protein	OP
+P12319	2205	Other protein	OP
+P13591	4684	Other protein	OP
+P13639	1938	Other protein	OP
+P14625	7184	Other protein	OP
+P15090	2167	Other protein	OP
+P15391	930	Other protein	OP
+P15813	912	Other protein	OP
+P16410	1493	Other protein	OP
+P17066	3310	Other protein	OP
+P17813	2022	Other protein	OP
+P18627	3902	Other protein	OP
+P20138	945	Other protein	OP
+P20273	933	Other protein	OP
+P23497	6672	Other protein	OP
+P24071	2204	Other protein	OP
+P26715	3821	Other protein	OP
+P28907	952	Other protein	OP
+P29373	1382	Other protein	OP
+P29762	1381	Other protein	OP
+P30203	923	Other protein	OP
+P30273	2207	Other protein	OP
+P30536	706	Other protein	OP
+P31358	1043	Other protein	OP
+P31949	6282	Other protein	OP
+P33681	941	Other protein	OP
+P34931	3305	Other protein	OP
+P35869	196	Other protein	OP
+P36222	1116	Other protein	OP
+P40259	974	Other protein	OP
+P40763	6774	Other protein	OP
+P41182	604	Other protein	OP
+P41218	4332	Other protein	OP
+P41220	5997	Other protein	OP
+P42081	942	Other protein	OP
+P42226	6778	Other protein	OP
+P43121	4162	Other protein	OP
+P43630	3812	Other protein	OP
+P46531	4851	Other protein	OP
+P49758	9628	Other protein	OP
+P49795	10287	Other protein	OP
+P49796	5998	Other protein	OP
+P49798	5999	Other protein	OP
+P49802	6000	Other protein	OP
+P50120	5948	Other protein	OP
+P50148	2776	Other protein	OP
+P51161	2172	Other protein	OP
+P51531	6595	Other protein	OP
+P51532	6597	Other protein	OP
+P51654	2719	Other protein	OP
+P52732	3832	Other protein	OP
+P54652	3306	Other protein	OP
+P55201	7862	Other protein	OP
+P55899	2217	Other protein	OP
+P56856	51208	Other protein	OP
+P57771	85397	Other protein	OP
+P59901	23547	Other protein	OP
+P61964	11091	Other protein	OP
+P68366	7277	Other protein	OP
+P68371	10383	Other protein	OP
+P78324	140885	Other protein	OP
+P82980	83758	Other protein	OP
+Q01362	2206	Other protein	OP
+Q01469	2171	Other protein	OP
+Q02818	4924	Other protein	OP
+Q04721	4853	Other protein	OP
+Q07817	598	Other protein	OP
+Q07820	4170	Other protein	OP
+Q08116	5996	Other protein	OP
+Q08722	961	Other protein	OP
+Q09472	2033	Other protein	OP
+Q0Z7S8	646480	Other protein	OP
+Q12830	2186	Other protein	OP
+Q12931	10131	Other protein	OP
+Q13342	11262	Other protein	OP
+Q13432	9094	Other protein	OP
+Q13489	330	Other protein	OP
+Q13490	329	Other protein	OP
+Q13509	10381	Other protein	OP
+Q13641	7162	Other protein	OP
+Q14145	9817	Other protein	OP
+Q14392	2615	Other protein	OP
+Q14896	4607	Other protein	OP
+Q15109	177	Other protein	OP
+Q15116	5133	Other protein	OP
+Q15326	10771	Other protein	OP
+Q16236	4780	Other protein	OP
+Q16526	1407	Other protein	OP
+Q16666	3428	Other protein	OP
+Q2M5E4	431704	Other protein	OP
+Q3ZCM7	347688	Other protein	OP
+Q495A1	201633	Other protein	OP
+Q5BJF2	27346	Other protein	OP
+Q5QGZ9	160364	Other protein	OP
+Q5ZPR3	80381	Other protein	OP
+Q6DKI7	79037	Other protein	OP
+Q6EIG7	93978	Other protein	OP
+Q6GTX8	3903	Other protein	OP
+Q6K0P9	149628	Other protein	OP
+Q6RI45	254065	Other protein	OP
+Q6UX41	79908	Other protein	OP
+Q6UXE8	10917	Other protein	OP
+Q71H61	387597	Other protein	OP
+Q71U36	7846	Other protein	OP
+Q86U86	55193	Other protein	OP
+Q86V24	79602	Other protein	OP
+Q86WV6	340061	Other protein	OP
+Q8NHL6	10859	Other protein	OP
+Q8TDQ0	84868	Other protein	OP
+Q8WWQ0	55023	Other protein	OP
+Q92793	1387	Other protein	OP
+Q92843	599	Other protein	OP
+Q92854	10507	Other protein	OP
+Q96A54	51094	Other protein	OP
+Q96B86	56963	Other protein	OP
+Q96FE5	84894	Other protein	OP
+Q96JM7	84456	Other protein	OP
+Q96P09	112401	Other protein	OP
+Q96R05	116362	Other protein	OP
+Q99466	4855	Other protein	OP
+Q99720	10280	Other protein	OP
+Q9BXF3	27443	Other protein	OP
+Q9BXN2	64581	Other protein	OP
+Q9BYH8	64332	Other protein	OP
+Q9H7M9	64115	Other protein	OP
+Q9H930	93349	Other protein	OP
+Q9HB58	3431	Other protein	OP
+Q9NNX6	30835	Other protein	OP
+Q9NQ25	57823	Other protein	OP
+Q9NQC3	57142	Other protein	OP
+Q9NRL2	11177	Other protein	OP
+Q9NS28	64407	Other protein	OP
+Q9NS86	55915	Other protein	OP
+Q9NSI6	54014	Other protein	OP
+Q9NYZ4	27181	Other protein	OP
+Q9UGC6	26575	Other protein	OP
+Q9UGN4	11314	Other protein	OP
+Q9UIF8	29994	Other protein	OP
+Q9UIF9	11176	Other protein	OP
+Q9UIG0	9031	Other protein	OP
+Q9ULD4	27154	Other protein	OP
+Q9ULU4	23613	Other protein	OP
+Q9ULY5	26253	Other protein	OP
+Q9UM47	4854	Other protein	OP
+Q9UMR7	50856	Other protein	OP
+Q9Y6W8	29851	Other protein	OP
+Q9Y6Y9	23643	Other protein	OP
+P31946	7529	Other protein	OP
+P62258	7531	Other protein	OP
+Q04917	7533	Other protein	OP
+P27348	10971	Other protein	OP
+P63104	7534	Other protein	OP
+P04439	3105	Other protein	OP
+Q96QU6	84680	Other protein	OP
+P01889	3106	Other protein	OP
+Q13362	5527	Other protein	OP
+P30153	5518	Other protein	OP
+P63151	5520	Other protein	OP
+P01912	3123	Other protein	OP
+P01911	3123	Other protein	OP
+Q29974	3123	Other protein	OP
+P14060	3283	Other protein	OP
+P31937	11112	Other protein	OP
+P29372	4350	Other protein	OP
+P52209	5226	Other protein	OP
+P02763	5004	Other protein	OP
+P19652	5005	Other protein	OP
+P04217	1	Other protein	OP
+P02750	116844	Other protein	OP
+Q8N5Z0	51166	Other protein	OP
+Q9UDR5	10157	Other protein	OP
+P17174	2805	Other protein	OP
+P00505	2806	Other protein	OP
+P41238	339	Other protein	OP
+Q9UKU7	27034	Other protein	OP
+P11310	34	Other protein	OP
+P16219	35	Other protein	OP
+Q96GR2	23205	Other protein	OP
+P07108	1622	Other protein	OP
+P45954	36	Other protein	OP
+P53396	47	Other protein	OP
+Q9NPJ3	55856	Other protein	OP
+Q99798	50	Other protein	OP
+Q15067	51	Other protein	OP
+O14561	4706	Other protein	OP
+Q9NUB1	84532	Other protein	OP
+Q9NR19	55902	Other protein	OP
+P33121	2180	Other protein	OP
+O60488	2182	Other protein	OP
+P62736	59	Other protein	OP
+P60709	60	Other protein	OP
+P63261	71	Other protein	OP
+P12814	87	Other protein	OP
+P68133	58	Other protein	OP
+P45381	443	Other protein	OP
+P14621	98	Other protein	OP
+Q6P093	344752	Other protein	OP
+P07327	124	Other protein	OP
+P00325	125	Other protein	OP
+P00326	126	Other protein	OP
+P08319	127	Other protein	OP
+P40394	131	Other protein	OP
+P11766	128	Other protein	OP
+P22570	2232	Other protein	OP
+P10109	2230	Other protein	OP
+P55196	4301	Other protein	OP
+P43652	173	Other protein	OP
+P06280	2717	Other protein	OP
+Q9BYV1	64902	Other protein	OP
+Q9NZD4	51327	Other protein	OP
+O95831	9131	Other protein	OP
+P14550	10327	Other protein	OP
+O60218	57016	Other protein	OP
+Q04828	1645	Other protein	OP
+P52895	1646	Other protein	OP
+P17516	1109	Other protein	OP
+P51857	6718	Other protein	OP
+P00352	216	Other protein	OP
+O94788	8854	Other protein	OP
+P47895	220	Other protein	OP
+P30837	219	Other protein	OP
+O75891	10840	Other protein	OP
+P30838	218	Other protein	OP
+P51648	224	Other protein	OP
+P43353	221	Other protein	OP
+P30038	8659	Other protein	OP
+P20292	241	Other protein	OP
+P49419	501	Other protein	OP
+P24298	2875	Other protein	OP
+Q8TD30	84706	Other protein	OP
+P02768	213	Other protein	OP
+P04075	226	Other protein	OP
+P05062	229	Other protein	OP
+Q6NS38	121642	Other protein	OP
+Q96Q83	221120	Other protein	OP
+P55789	2671	Other protein	OP
+P35858	3483	Other protein	OP
+P19021	5066	Other protein	OP
+Q9BXJ7	81693	Other protein	OP
+P04745	276	Other protein	OP
+P04745	277	Other protein	OP
+P04745	278	Other protein	OP
+P19961	280	Other protein	OP
+P54802	4669	Other protein	OP
+P16860	4879	Other protein	OP
+Q9H6X2	84168	Other protein	OP
+P58335	118429	Other protein	OP
+P04083	301	Other protein	OP
+P07355	302	Other protein	OP
+P12429	306	Other protein	OP
+P09525	307	Other protein	OP
+P08758	308	Other protein	OP
+P19801	26	Other protein	OP
+Q06278	316	Other protein	OP
+O14727	317	Other protein	OP
+P27695	328	Other protein	OP
+Q96BI3	51107	Other protein	OP
+P51693	333	Other protein	OP
+P02647	335	Other protein	OP
+P02652	336	Other protein	OP
+Q0VD83	55911	Other protein	OP
+P04114	338	Other protein	OP
+P02655	344	Other protein	OP
+P02656	345	Other protein	OP
+P05090	347	Other protein	OP
+P02649	348	Other protein	OP
+P02749	350	Other protein	OP
+O14791	8542	Other protein	OP
+F7VJQ1	5621	Other protein	OP
+P07741	353	Other protein	OP
+O15143	10095	Other protein	OP
+P84077	375	Other protein	OP
+P18085	378	Other protein	OP
+P62330	382	Other protein	OP
+P40616	400	Other protein	OP
+P36404	402	Other protein	OP
+P36405	403	Other protein	OP
+Q9Y689	26225	Other protein	OP
+Q96KC2	221079	Other protein	OP
+P04424	435	Other protein	OP
+P61160	10097	Other protein	OP
+P61158	10096	Other protein	OP
+O15144	10109	Other protein	OP
+O15145	10094	Other protein	OP
+P59998	10093	Other protein	OP
+O15511	10092	Other protein	OP
+P15289	410	Other protein	OP
+Q9HBK9	57412	Other protein	OP
+Q7L266	80150	Other protein	OP
+P07307	433	Other protein	OP
+P46597	438	Other protein	OP
+O43681	439	Other protein	OP
+P08243	440	Other protein	OP
+Q12797	444	Other protein	OP
+P00966	445	Other protein	OP
+Q8IUZ5	85007	Other protein	OP
+P18846	466	Other protein	OP
+P15336	1386	Other protein	OP
+P18847	467	Other protein	OP
+P18848	468	Other protein	OP
+Q9Y2D1	22809	Other protein	OP
+P18850	22926	Other protein	OP
+P17544	11016	Other protein	OP
+O00244	475	Other protein	OP
+O75964	10632	Other protein	OP
+P48047	539	Other protein	OP
+O15169	8312	Other protein	OP
+P61769	567	Other protein	OP
+Q9P2W7	27087	Other protein	OP
+O94766	26229	Other protein	OP
+P15291	2683	Other protein	OP
+O60513	8702	Other protein	OP
+Q14032	570	Other protein	OP
+Q92934	572	Other protein	OP
+Q99933	573	Other protein	OP
+P54687	586	Other protein	OP
+Q02338	622	Other protein	OP
+P23560	627	Other protein	OP
+Q14457	8678	Other protein	OP
+P16278	2720	Other protein	OP
+P16442	28	Other protein	OP
+Q93088	635	Other protein	OP
+Q9H2M3	23743	Other protein	OP
+P53004	644	Other protein	OP
+P30043	645	Other protein	OP
+P12644	652	Other protein	OP
+O75936	8424	Other protein	OP
+Q86WA6	670	Other protein	OP
+P17213	671	Other protein	OP
+P50747	3141	Other protein	OP
+Q10588	683	Other protein	OP
+Q86VB7	9332	Other protein	OP
+P02745	712	Other protein	OP
+Q07021	708	Other protein	OP
+P02746	713	Other protein	OP
+P02747	714	Other protein	OP
+P11586	4522	Other protein	OP
+P04003	722	Other protein	OP
+P20851	725	Other protein	OP
+Q99643	6391	Other protein	OP
+P54289	781	Other protein	OP
+Q9NY47	9254	Other protein	OP
+Q8IZS8	55799	Other protein	OP
+Q7Z3S7	93589	Other protein	OP
+Q02641	782	Other protein	OP
+Q08289	783	Other protein	OP
+P54284	784	Other protein	OP
+O00305	785	Other protein	OP
+P43155	1384	Other protein	OP
+P33151	1003	Other protein	OP
+Q9NS85	56934	Other protein	OP
+O75493	770	Other protein	OP
+P00918	760	Other protein	OP
+P07451	761	Other protein	OP
+P35218	763	Other protein	OP
+Q9Y2D0	11238	Other protein	OP
+P23280	765	Other protein	OP
+P35219	767	Other protein	OP
+P22676	794	Other protein	OP
+P06881	796	Other protein	OP
+P10092	797	Other protein	OP
+P0DP23	801	Other protein	OP
+P0DP23	805	Other protein	OP
+P0DP23	808	Other protein	OP
+P0DP24	801	Other protein	OP
+P0DP24	805	Other protein	OP
+P0DP24	808	Other protein	OP
+P0DP25	801	Other protein	OP
+P0DP25	805	Other protein	OP
+P0DP25	808	Other protein	OP
+Q96L12	125972	Other protein	OP
+P27797	811	Other protein	OP
+P27824	821	Other protein	OP
+Q9NYX4	50632	Other protein	OP
+P49069	819	Other protein	OP
+P49913	820	Other protein	OP
+P63098	5534	Other protein	OP
+Q96LZ3	5535	Other protein	OP
+Q8WVQ1	124583	Other protein	OP
+Q9ULU8	8618	Other protein	OP
+Q86UW7	93664	Other protein	OP
+Q16568	9607	Other protein	OP
+P07498	1448	Other protein	OP
+P31415	844	Other protein	OP
+O14958	845	Other protein	OP
+Q13938	828	Other protein	OP
+P45973	23468	Other protein	OP
+Q96ER9	79714	Other protein	OP
+Q06432	786	Other protein	OP
+Q9Y698	10369	Other protein	OP
+O60359	10368	Other protein	OP
+Q9UBN1	27092	Other protein	OP
+Q9UF02	27091	Other protein	OP
+Q9BXT2	59285	Other protein	OP
+P62955	59284	Other protein	OP
+Q8WXS5	59283	Other protein	OP
+P06307	885	Other protein	OP
+P51671	6356	Other protein	OP
+P13500	6347	Other protein	OP
+P10147	6348	Other protein	OP
+P13501	6352	Other protein	OP
+P80075	6355	Other protein	OP
+P48745	4856	Other protein	OP
+P20248	890	Other protein	OP
+P24385	595	Other protein	OP
+O14618	9973	Other protein	OP
+P06126	909	Other protein	OP
+P04234	915	Other protein	OP
+P09693	917	Other protein	OP
+P20963	919	Other protein	OP
+P29965	959	Other protein	OP
+P16070	960	Other protein	OP
+Q15078	8851	Other protein	OP
+P21926	928	Other protein	OP
+P60953	998	Other protein	OP
+P32320	978	Other protein	OP
+O14735	10423	Other protein	OP
+P38936	1026	Other protein	OP
+Q16878	1036	Other protein	OP
+P13688	634	Other protein	OP
+P17676	1051	Other protein	OP
+Q02224	1062	Other protein	OP
+P00450	1356	Other protein	OP
+P11597	1071	Other protein	OP
+P08603	3075	Other protein	OP
+P61604	3336	Other protein	OP
+P10809	3329	Other protein	OP
+Q13231	1118	Other protein	OP
+Q99653	11261	Other protein	OP
+Q99828	10519	Other protein	OP
+O75838	10518	Other protein	OP
+O75390	1431	Other protein	OP
+P61024	1163	Other protein	OP
+Q7Z460	23332	Other protein	OP
+Q86T13	161198	Other protein	OP
+O00299	1192	Other protein	OP
+P10909	1191	Other protein	OP
+Q86VU5	118881	Other protein	OP
+Q8N1G2	23070	Other protein	OP
+P02452	1277	Other protein	OP
+P08123	1278	Other protein	OP
+P02458	1280	Other protein	OP
+P02461	1281	Other protein	OP
+P53420	1286	Other protein	OP
+P07357	731	Other protein	OP
+P07358	732	Other protein	OP
+P07360	733	Other protein	OP
+P02748	735	Other protein	OP
+Q96CD2	60490	Other protein	OP
+P23528	1072	Other protein	OP
+P01189	5443	Other protein	OP
+P04118	1208	Other protein	OP
+P49747	1311	Other protein	OP
+Q9Y678	22820	Other protein	OP
+P00395	4512	Other protein	OP
+P00403	4513	Other protein	OP
+P00414	4514	Other protein	OP
+P13073	1327	Other protein	OP
+P20674	9377	Other protein	OP
+P10606	1329	Other protein	OP
+P09669	1345	Other protein	OP
+P24311	1349	Other protein	OP
+P15954	1350	Other protein	OP
+P10176	1351	Other protein	OP
+Q99829	8904	Other protein	OP
+P04632	826	Other protein	OP
+P31327	1373	Other protein	OP
+P50416	1374	Other protein	OP
+P23786	1376	Other protein	OP
+P16220	1385	Other protein	OP
+Q494W8	89832	Other protein	OP
+P06850	1392	Other protein	OP
+P02741	1401	Other protein	OP
+Q14894	1428	Other protein	OP
+Q9Y600	51380	Other protein	OP
+P04141	1437	Other protein	OP
+P13611	1462	Other protein	OP
+P21291	1465	Other protein	OP
+Q13363	1487	Other protein	OP
+Q9GZU7	58190	Other protein	OP
+P35222	1499	Other protein	OP
+O60931	1497	Other protein	OP
+O60494	8029	Other protein	OP
+Q02221	1339	Other protein	OP
+P14854	1340	Other protein	OP
+P24310	1346	Other protein	OP
+P02775	5473	Other protein	OP
+P02778	3627	Other protein	OP
+P08574	1537	Other protein	OP
+P13498	1535	Other protein	OP
+O43169	80777	Other protein	OP
+P00167	1528	Other protein	OP
+P00156	4519	Other protein	OP
+P99999	54205	Other protein	OP
+Q99418	9266	Other protein	OP
+O43739	9265	Other protein	OP
+P08174	1604	Other protein	OP
+Q8N907	199699	Other protein	OP
+Q9UN19	27071	Other protein	OP
+Q9NR28	56616	Other protein	OP
+P27707	1633	Other protein	OP
+Q96C86	28960	Other protein	OP
+P06132	7389	Other protein	OP
+Q7Z4W1	51181	Other protein	OP
+P17844	1655	Other protein	OP
+P26196	1656	Other protein	OP
+Q16698	1666	Other protein	OP
+Q9HBH1	64146	Other protein	OP
+P15924	1832	Other protein	OP
+P60981	11034	Other protein	OP
+Q96PD7	84649	Other protein	OP
+P23743	1606	Other protein	OP
+Q9Y6T7	1607	Other protein	OP
+Q16760	8527	Other protein	OP
+P52429	8526	Other protein	OP
+P49619	1608	Other protein	OP
+Q86XP1	160851	Other protein	OP
+O75912	9162	Other protein	OP
+Q5KSL6	139189	Other protein	OP
+P52824	1609	Other protein	OP
+Q13574	8525	Other protein	OP
+Q8NBQ5	51170	Other protein	OP
+P14061	3292	Other protein	OP
+P37059	3294	Other protein	OP
+P37058	3293	Other protein	OP
+P51659	3295	Other protein	OP
+P56937	51478	Other protein	OP
+Q92506	7923	Other protein	OP
+Q9UBM7	1717	Other protein	OP
+P00367	2746	Other protein	OP
+P49448	2747	Other protein	OP
+P80365	3291	Other protein	OP
+P09417	5860	Other protein	OP
+Q6UWP2	79154	Other protein	OP
+O75911	9249	Other protein	OP
+Q9BTZ2	10901	Other protein	OP
+O14521	6392	Other protein	OP
+Q00796	6652	Other protein	OP
+P49366	1725	Other protein	OP
+P09622	1738	Other protein	OP
+P78352	1742	Other protein	OP
+Q14565	11144	Other protein	OP
+P11532	1756	Other protein	OP
+P18858	3978	Other protein	OP
+P49916	3980	Other protein	OP
+Q9H2P9	51611	Other protein	OP
+Q14181	23649	Other protein	OP
+Q07864	5426	Other protein	OP
+P56282	5427	Other protein	OP
+Q9NRF9	54107	Other protein	OP
+Q9NR33	56655	Other protein	OP
+P09884	5422	Other protein	OP
+P06746	5423	Other protein	OP
+Q12882	1806	Other protein	OP
+Q16555	1808	Other protein	OP
+P01906	3118	Other protein	OP
+P01920	3119	Other protein	OP
+P01903	3122	Other protein	OP
+P79483	3125	Other protein	OP
+P13762	3126	Other protein	OP
+Q30154	3127	Other protein	OP
+P33316	1854	Other protein	OP
+Q13838	7919	Other protein	OP
+Q86XF0	200895	Other protein	OP
+Q15125	10682	Other protein	OP
+P40939	3030	Other protein	OP
+P30084	1892	Other protein	OP
+Q08426	1962	Other protein	OP
+P42126	1632	Other protein	OP
+O75521	10455	Other protein	OP
+P12724	6037	Other protein	OP
+P05305	1906	Other protein	OP
+Q15075	8411	Other protein	OP
+P68104	1915	Other protein	OP
+Q7Z2Z2	79631	Other protein	OP
+P49411	7284	Other protein	OP
+P01133	1950	Other protein	OP
+P15502	2006	Other protein	OP
+Q9NXB9	54898	Other protein	OP
+Q9GZR5	6785	Other protein	OP
+Q9NYP7	60481	Other protein	OP
+P06733	2023	Other protein	OP
+P13929	2027	Other protein	OP
+P09104	2026	Other protein	OP
+Q9UHY7	58478	Other protein	OP
+Q16206	10495	Other protein	OP
+P22413	5167	Other protein	OP
+Q99814	2034	Other protein	OP
+P16422	4072	Other protein	OP
+Q9UNN8	10544	Other protein	OP
+Q9Y6I3	29924	Other protein	OP
+P15170	2935	Other protein	OP
+Q86YB8	56605	Other protein	OP
+Q96BH3	64100	Other protein	OP
+Q86US8	23293	Other protein	OP
+P10768	2098	Other protein	OP
+Q16134	2110	Other protein	OP
+Q9UBQ6	2135	Other protein	OP
+P00488	2162	Other protein	OP
+P05160	2165	Other protein	OP
+P09467	2203	Other protein	OP
+P16118	5207	Other protein	OP
+Q16877	5210	Other protein	OP
+P16930	2184	Other protein	OP
+Q8IVS2	27349	Other protein	OP
+O60427	3992	Other protein	OP
+O95864	9415	Other protein	OP
+P35556	2201	Other protein	OP
+Q75N90	84467	Other protein	OP
+Q8TF61	150726	Other protein	OP
+P12318	2212	Other protein	OP
+P31994	2213	Other protein	OP
+P31995	9103	Other protein	OP
+O75015	2215	Other protein	OP
+P12314	2209	Other protein	OP
+Q92637	2210	Other protein	OP
+Q13630	7264	Other protein	OP
+O75636	8547	Other protein	OP
+P39748	2237	Other protein	OP
+P02765	197	Other protein	OP
+O95750	9965	Other protein	OP
+P05230	2246	Other protein	OP
+P09038	2247	Other protein	OP
+P08620	2249	Other protein	OP
+P49789	2272	Other protein	OP
+P02671	2243	Other protein	OP
+P02675	2244	Other protein	OP
+P02679	2266	Other protein	OP
+P02751	2335	Other protein	OP
+P21333	2316	Other protein	OP
+Q96DP5	123263	Other protein	OP
+Q05932	2356	Other protein	OP
+P15328	2348	Other protein	OP
+P14207	2350	Other protein	OP
+P41439	2352	Other protein	OP
+P01100	2353	Other protein	OP
+Q16595	2395	Other protein	OP
+P02794	2495	Other protein	OP
+P02792	2512	Other protein	OP
+P19883	10468	Other protein	OP
+O95954	10841	Other protein	OP
+Q9C0B1	79068	Other protein	OP
+Q96AE4	8880	Other protein	OP
+Q92945	8570	Other protein	OP
+O14556	26330	Other protein	OP
+P04406	2597	Other protein	OP
+P11413	2539	Other protein	OP
+O95479	9563	Other protein	OP
+P06744	2821	Other protein	OP
+Q6ZQY3	339896	Other protein	OP
+Q14376	2582	Other protein	OP
+P51570	2584	Other protein	OP
+Q14353	2593	Other protein	OP
+Q14697	23193	Other protein	OP
+Q8TET4	2595	Other protein	OP
+Q9H4G4	152007	Other protein	OP
+P41250	2617	Other protein	OP
+P01350	2520	Other protein	OP
+P59768	54331	Other protein	OP
+Q92947	2639	Other protein	OP
+P30793	2643	Other protein	OP
+P23434	2653	Other protein	OP
+P23378	2731	Other protein	OP
+P48728	275	Other protein	OP
+O14793	2660	Other protein	OP
+P39905	2668	Other protein	OP
+P06396	2934	Other protein	OP
+Q9NQX3	10243	Other protein	OP
+Q9BVM4	87769	Other protein	OP
+Q7Z4J2	360203	Other protein	OP
+P48060	11010	Other protein	OP
+P15104	2752	Other protein	OP
+Q16775	3029	Other protein	OP
+P35754	2745	Other protein	OP
+Q9NS18	51022	Other protein	OP
+Q9UI32	27165	Other protein	OP
+Q9NZD2	51228	Other protein	OP
+Q6IB77	10249	Other protein	OP
+P34896	6470	Other protein	OP
+P46976	2992	Other protein	OP
+Q969I3	92292	Other protein	OP
+Q8WU03	219970	Other protein	OP
+P34897	6472	Other protein	OP
+O60547	2762	Other protein	OP
+P36959	2766	Other protein	OP
+P63096	2770	Other protein	OP
+P63092	2778	Other protein	OP
+P11488	2779	Other protein	OP
+P22749	10578	Other protein	OP
+Q14749	27232	Other protein	OP
+P46926	10007	Other protein	OP
+P07359	2811	Other protein	OP
+P21695	2819	Other protein	OP
+P14770	2815	Other protein	OP
+Q14956	10457	Other protein	OP
+P18283	2877	Other protein	OP
+P22352	2878	Other protein	OP
+P36969	2879	Other protein	OP
+O75715	2880	Other protein	OP
+P59796	257202	Other protein	OP
+Q96SL4	2882	Other protein	OP
+Q8TED1	493869	Other protein	OP
+P28676	25801	Other protein	OP
+P62993	2885	Other protein	OP
+P48507	2730	Other protein	OP
+P48506	2729	Other protein	OP
+P48637	2937	Other protein	OP
+P0CG29	2953	Other protein	OP
+P08263	2938	Other protein	OP
+P09210	2939	Other protein	OP
+Q16772	2940	Other protein	OP
+O15217	2941	Other protein	OP
+Q7RTV2	221357	Other protein	OP
+Q9Y2Q3	373156	Other protein	OP
+P09488	2944	Other protein	OP
+P28161	2946	Other protein	OP
+P21266	2947	Other protein	OP
+Q03013	2948	Other protein	OP
+P46439	2949	Other protein	OP
+P78417	9446	Other protein	OP
+Q9H4Y5	119391	Other protein	OP
+P09211	2950	Other protein	OP
+P30711	2952	Other protein	OP
+P0CG30	653689	Other protein	OP
+P49915	8833	Other protein	OP
+P43080	2978	Other protein	OP
+P10412	3008	Other protein	OP
+P62807	3017	Other protein	OP
+P62807	8339	Other protein	OP
+P62807	8343	Other protein	OP
+P62807	8344	Other protein	OP
+P62807	8346	Other protein	OP
+P62807	8347	Other protein	OP
+Q5JVS0	22927	Other protein	OP
+Q9UJM8	54363	Other protein	OP
+Q9NYQ3	51179	Other protein	OP
+P69905	3039	Other protein	OP
+P69905	3040	Other protein	OP
+P68871	3043	Other protein	OP
+Q99714	3028	Other protein	OP
+Q16836	3033	Other protein	OP
+P51858	3068	Other protein	OP
+P42858	3064	Other protein	OP
+P22557	212	Other protein	OP
+P13196	211	Other protein	OP
+P13716	210	Other protein	OP
+P22830	2235	Other protein	OP
+P02790	3263	Other protein	OP
+P07686	3074	Other protein	OP
+O14964	9146	Other protein	OP
+Q6NVY1	26275	Other protein	OP
+Q16665	3091	Other protein	OP
+Q9NWT6	55662	Other protein	OP
+P49773	3094	Other protein	OP
+P19622	2020	Other protein	OP
+P09429	3146	Other protein	OP
+P35914	3155	Other protein	OP
+O75330	3161	Other protein	OP
+Q95460	3140	Other protein	OP
+P20823	6927	Other protein	OP
+P50135	3176	Other protein	OP
+P31943	3187	Other protein	OP
+P31942	3189	Other protein	OP
+Q14103	3184	Other protein	OP
+P52597	3185	Other protein	OP
+P61978	3190	Other protein	OP
+P14866	3191	Other protein	OP
+Q86YZ3	388697	Other protein	OP
+Q5SSJ5	50809	Other protein	OP
+Q6MZM0	341208	Other protein	OP
+P10915	1404	Other protein	OP
+Q96S86	145864	Other protein	OP
+Q86UW8	404037	Other protein	OP
+P00492	3251	Other protein	OP
+Q92598	10808	Other protein	OP
+O14792	9957	Other protein	OP
+Q9Y663	9955	Other protein	OP
+Q00613	3297	Other protein	OP
+P48723	6782	Other protein	OP
+P34932	3308	Other protein	OP
+P04792	3315	Other protein	OP
+Q9BUP3	10553	Other protein	OP
+P42357	3034	Other protein	OP
+P31260	3206	Other protein	OP
+P19367	3098	Other protein	OP
+P10997	3375	Other protein	OP
+P17936	3486	Other protein	OP
+Q16270	3490	Other protein	OP
+P05362	3383	Other protein	OP
+P50213	3419	Other protein	OP
+O43837	3420	Other protein	OP
+P51553	3421	Other protein	OP
+P41091	1968	Other protein	OP
+P60842	1973	Other protein	OP
+P06730	1977	Other protein	OP
+P56537	3692	Other protein	OP
+P01563	3440	Other protein	OP
+P01574	3456	Other protein	OP
+P01579	3458	Other protein	OP
+P05019	3479	Other protein	OP
+P01591	3512	Other protein	OP
+P15814	3543	Other protein	OP
+Q6WRI0	285313	Other protein	OP
+Q6NXR0	56269	Other protein	OP
+P25963	4792	Other protein	OP
+P22301	3586	Other protein	OP
+P29460	3593	Other protein	OP
+P35225	3596	Other protein	OP
+P40933	3600	Other protein	OP
+Q16552	3605	Other protein	OP
+P01583	3552	Other protein	OP
+P01584	3553	Other protein	OP
+P18510	3557	Other protein	OP
+Q9NPF7	51561	Other protein	OP
+P60568	3558	Other protein	OP
+P08700	3562	Other protein	OP
+P05112	3565	Other protein	OP
+P05113	3567	Other protein	OP
+P05231	3569	Other protein	OP
+P10145	3576	Other protein	OP
+Q9BZV3	50939	Other protein	OP
+Q9NQS7	3619	Other protein	OP
+Q9NPH2	51477	Other protein	OP
+P01308	3630	Other protein	OP
+P61925	5569	Other protein	OP
+P46940	8826	Other protein	OP
+P35568	3667	Other protein	OP
+Q96AZ6	3669	Other protein	OP
+Q9BY32	3704	Other protein	OP
+P26440	3712	Other protein	OP
+Q8WYK2	122953	Other protein	OP
+Q9UQF2	9479	Other protein	OP
+P05412	3725	Other protein	OP
+P13645	3858	Other protein	OP
+Q99456	3859	Other protein	OP
+P02533	3861	Other protein	OP
+P08779	3868	Other protein	OP
+P35527	3857	Other protein	OP
+P35908	3849	Other protein	OP
+P04264	3848	Other protein	OP
+P13647	3852	Other protein	OP
+P02538	3853	Other protein	OP
+P08729	3855	Other protein	OP
+P05787	3856	Other protein	OP
+P00568	203	Other protein	OP
+P54819	204	Other protein	OP
+Q96MA6	158067	Other protein	OP
+Q9P2N6	55683	Other protein	OP
+Q6YP21	56267	Other protein	OP
+O75600	23464	Other protein	OP
+Q14722	7881	Other protein	OP
+Q13303	8514	Other protein	OP
+Q16558	3779	Other protein	OP
+Q9Y691	10242	Other protein	OP
+Q9NPA1	27094	Other protein	OP
+Q86W47	27345	Other protein	OP
+P15382	3753	Other protein	OP
+Q9Y6J6	9992	Other protein	OP
+Q9Y6H6	10008	Other protein	OP
+Q8WWG9	23704	Other protein	OP
+Q9UJ90	23630	Other protein	OP
+P12277	1152	Other protein	OP
+P06732	1158	Other protein	OP
+P17540	1160	Other protein	OP
+P12532	1159	Other protein	OP
+P12532	548596	Other protein	OP
+P30085	51727	Other protein	OP
+Q16774	2987	Other protein	OP
+Q12756	547	Other protein	OP
+Q99661	11004	Other protein	OP
+P04183	7083	Other protein	OP
+O00142	7084	Other protein	OP
+Q701N4	440021	Other protein	OP
+Q6L8H2	387266	Other protein	OP
+P23919	1841	Other protein	OP
+Q16719	8942	Other protein	OP
+P32004	3897	Other protein	OP
+P00709	3906	Other protein	OP
+P25391	284217	Other protein	OP
+Q16787	3909	Other protein	OP
+O15230	3911	Other protein	OP
+P07942	3912	Other protein	OP
+P11047	3915	Other protein	OP
+Q6UX15	143903	Other protein	OP
+Q9UIC8	51451	Other protein	OP
+Q8WX39	392399	Other protein	OP
+Q6UWM7	197021	Other protein	OP
+Q6ZMR3	160287	Other protein	OP
+Q9BYZ2	92483	Other protein	OP
+P00338	3939	Other protein	OP
+P07195	3945	Other protein	OP
+P07864	3948	Other protein	OP
+P01130	3949	Other protein	OP
+Q9UJU2	51176	Other protein	OP
+Q05315	1178	Other protein	OP
+P09382	3956	Other protein	OP
+P05162	3957	Other protein	OP
+P17931	3958	Other protein	OP
+P47929	3963	Other protein	OP
+P47929	653499	Other protein	OP
+O00182	3965	Other protein	OP
+Q04760	2739	Other protein	OP
+O43766	11019	Other protein	OP
+P06858	4023	Other protein	OP
+P54317	5408	Other protein	OP
+Q9Y234	51601	Other protein	OP
+P49257	3998	Other protein	OP
+Q9Y468	26013	Other protein	OP
+P09848	3938	Other protein	OP
+O95237	9227	Other protein	OP
+Q07954	4035	Other protein	OP
+P98164	4036	Other protein	OP
+P62312	11157	Other protein	OP
+P51884	4060	Other protein	OP
+P16581	6401	Other protein	OP
+P16109	6403	Other protein	OP
+P61626	4069	Other protein	OP
+P0DM35	645745	Other protein	OP
+Q9UKM7	11253	Other protein	OP
+Q16706	4124	Other protein	OP
+O43708	2954	Other protein	OP
+Q7L5Y9	10296	Other protein	OP
+P23368	4200	Other protein	OP
+Q16798	10873	Other protein	OP
+P48163	4199	Other protein	OP
+P78559	4130	Other protein	OP
+P27816	4134	Other protein	OP
+Q9UEW3	8685	Other protein	OP
+P11226	4153	Other protein	OP
+Q96RQ3	56922	Other protein	OP
+Q9HCC0	64087	Other protein	OP
+Q8NI22	90411	Other protein	OP
+P40925	4190	Other protein	OP
+P40926	4191	Other protein	OP
+Q00987	4193	Other protein	OP
+Q15648	5469	Other protein	OP
+Q99707	4548	Other protein	OP
+Q00266	4143	Other protein	OP
+P31153	4144	Other protein	OP
+P26572	4245	Other protein	OP
+P16455	4255	Other protein	OP
+P08493	4256	Other protein	OP
+P10620	4257	Other protein	OP
+Q99735	4258	Other protein	OP
+O14880	4259	Other protein	OP
+P14174	4282	Other protein	OP
+P19105	10627	Other protein	OP
+Q8IVH4	166785	Other protein	OP
+Q9Y4U1	25974	Other protein	OP
+Q02252	4329	Other protein	OP
+Q96EN8	55034	Other protein	OP
+P20645	4074	Other protein	OP
+P11717	3482	Other protein	OP
+P22897	4360	Other protein	OP
+Q969V6	57591	Other protein	OP
+Q13421	10232	Other protein	OP
+Q15800	6307	Other protein	OP
+Q9UJ68	4482	Other protein	OP
+P04731	4489	Other protein	OP
+P07438	4490	Other protein	OP
+P04732	4493	Other protein	OP
+P04733	4494	Other protein	OP
+P13640	4495	Other protein	OP
+P80294	4496	Other protein	OP
+Q8N339	4499	Other protein	OP
+P80297	4501	Other protein	OP
+P02795	4502	Other protein	OP
+P47944	84560	Other protein	OP
+P11137	4133	Other protein	OP
+Q13126	4507	Other protein	OP
+P13995	10797	Other protein	OP
+Q14872	4520	Other protein	OP
+P42898	4524	Other protein	OP
+Q9Y4I5	9633	Other protein	OP
+P55157	4547	Other protein	OP
+Q9UBK8	4552	Other protein	OP
+Q8WXI7	94025	Other protein	OP
+P15941	4582	Other protein	OP
+P22033	4594	Other protein	OP
+P01106	4609	Other protein	OP
+P02144	4151	Other protein	OP
+P35749	4629	Other protein	OP
+Q7Z406	79784	Other protein	OP
+P12883	4625	Other protein	OP
+P35579	4627	Other protein	OP
+P14649	140465	Other protein	OP
+Q12965	4643	Other protein	OP
+Q15274	23475	Other protein	OP
+Q6IA69	55191	Other protein	OP
+P17050	4668	Other protein	OP
+Q9UJ70	55577	Other protein	OP
+Q9UK23	51172	Other protein	OP
+Q8N159	162417	Other protein	OP
+P43490	10135	Other protein	OP
+P52961	417	Other protein	OP
+Q9UHQ9	51706	Other protein	OP
+P00387	1727	Other protein	OP
+O14594	1463	Other protein	OP
+P14598	653361	Other protein	OP
+P19878	4688	Other protein	OP
+Q15080	4689	Other protein	OP
+Q9HCD5	57727	Other protein	OP
+P16435	5447	Other protein	OP
+P62166	23413	Other protein	OP
+P15531	4830	Other protein	OP
+P22392	4831	Other protein	OP
+P22392	654364	Other protein	OP
+P52848	3340	Other protein	OP
+O15239	4694	Other protein	OP
+O43678	4695	Other protein	OP
+O95167	4696	Other protein	OP
+O00483	4697	Other protein	OP
+Q16718	4698	Other protein	OP
+P56556	4700	Other protein	OP
+O95182	4701	Other protein	OP
+P51970	4702	Other protein	OP
+Q16795	4704	Other protein	OP
+O95299	4705	Other protein	OP
+Q86Y39	126328	Other protein	OP
+Q9UI09	55967	Other protein	OP
+Q9P0J0	51079	Other protein	OP
+O75438	4707	Other protein	OP
+O95178	4708	Other protein	OP
+O43676	4709	Other protein	OP
+O95168	4710	Other protein	OP
+O43674	4711	Other protein	OP
+O95139	4712	Other protein	OP
+P17568	4713	Other protein	OP
+O95169	4714	Other protein	OP
+Q9Y6M9	4715	Other protein	OP
+O96000	4716	Other protein	OP
+O43677	4717	Other protein	OP
+O95298	4718	Other protein	OP
+P28331	4719	Other protein	OP
+O75306	4720	Other protein	OP
+O75489	4722	Other protein	OP
+O43181	4724	Other protein	OP
+O43920	4725	Other protein	OP
+O75380	4726	Other protein	OP
+O75251	374291	Other protein	OP
+O00217	4728	Other protein	OP
+P49821	4723	Other protein	OP
+P19404	4729	Other protein	OP
+P56181	4731	Other protein	OP
+Q96NY8	81607	Other protein	OP
+Q96FI4	79661	Other protein	OP
+Q969S2	252969	Other protein	OP
+Q9Y6K9	8517	Other protein	OP
+P01178	5020	Other protein	OP
+Q8NFW8	55907	Other protein	OP
+Q99519	4758	Other protein	OP
+Q9Y3R4	4759	Other protein	OP
+Q14494	4779	Other protein	OP
+O95644	4772	Other protein	OP
+P19838	4790	Other protein	OP
+Q00653	4791	Other protein	OP
+Q9Y697	9054	Other protein	OP
+P80188	3934	Other protein	OP
+P01138	4803	Other protein	OP
+P55769	4809	Other protein	OP
+P14543	4811	Other protein	OP
+Q9Y221	51388	Other protein	OP
+Q9Y2I1	11188	Other protein	OP
+Q9HAN9	64802	Other protein	OP
+Q96T66	349565	Other protein	OP
+Q9HBL8	57407	Other protein	OP
+P30419	4836	Other protein	OP
+O60551	9397	Other protein	OP
+P40261	4837	Other protein	OP
+Q13423	23530	Other protein	OP
+Q14978	9221	Other protein	OP
+Q15155	23420	Other protein	OP
+Q8NFA2	124056	Other protein	OP
+P06748	4869	Other protein	OP
+P01303	4852	Other protein	OP
+P15559	1728	Other protein	OP
+P16083	4835	Other protein	OP
+P48552	8204	Other protein	OP
+Q9ULB1	9378	Other protein	OP
+Q15738	50814	Other protein	OP
+P46459	4905	Other protein	OP
+P03886	4535	Other protein	OP
+P03891	4536	Other protein	OP
+P03897	4537	Other protein	OP
+P03901	4539	Other protein	OP
+P03905	4538	Other protein	OP
+P03915	4540	Other protein	OP
+P03923	4541	Other protein	OP
+Q9NRX3	56901	Other protein	OP
+P80303	4925	Other protein	OP
+Q9Y266	10726	Other protein	OP
+Q9BW91	53343	Other protein	OP
+P00973	4938	Other protein	OP
+P04181	4942	Other protein	OP
+P54368	4946	Other protein	OP
+Q9NY56	29991	Other protein	OP
+Q9UKG9	54677	Other protein	OP
+Q02218	4967	Other protein	OP
+P10515	1737	Other protein	OP
+P29803	5161	Other protein	OP
+P08559	5160	Other protein	OP
+P11177	5162	Other protein	OP
+O60502	10724	Other protein	OP
+Q8N543	55239	Other protein	OP
+Q6N063	79676	Other protein	OP
+O14841	26873	Other protein	OP
+O43612	3060	Other protein	OP
+P02818	632	Other protein	OP
+P00480	5009	Other protein	OP
+P14920	1610	Other protein	OP
+Q96RQ9	259307	Other protein	OP
+Q32P28	64175	Other protein	OP
+Q8IVL5	55214	Other protein	OP
+Q8IVL6	10536	Other protein	OP
+P13674	5033	Other protein	OP
+O15460	8974	Other protein	OP
+Q9NXG6	54681	Other protein	OP
+P04637	7157	Other protein	OP
+P32322	5831	Other protein	OP
+Q96C36	29920	Other protein	OP
+Q53H96	65263	Other protein	OP
+P54886	5832	Other protein	OP
+O15350	7161	Other protein	OP
+Q15102	5050	Other protein	OP
+P18509	116	Other protein	OP
+Q9Y2J8	11240	Other protein	OP
+Q6TGC4	353238	Other protein	OP
+P09466	5047	Other protein	OP
+O14832	5264	Other protein	OP
+P51003	10914	Other protein	OP
+O43252	9061	Other protein	OP
+Q460N3	165631	Other protein	OP
+Q8TAB3	57526	Other protein	OP
+P35558	5105	Other protein	OP
+P12004	5111	Other protein	OP
+P49585	5130	Other protein	OP
+Q9Y5K3	9468	Other protein	OP
+Q9NZQ7	29126	Other protein	OP
+O75340	10016	Other protein	OP
+P01127	5155	Other protein	OP
+Q9GZP0	80310	Other protein	OP
+P07237	5034	Other protein	OP
+P30101	2923	Other protein	OP
+O00764	8566	Other protein	OP
+Q9BY49	55825	Other protein	OP
+Q9UBV8	553115	Other protein	OP
+Q9NZ42	55851	Other protein	OP
+P11678	8288	Other protein	OP
+P18669	5223	Other protein	OP
+P15259	5224	Other protein	OP
+P98160	3339	Other protein	OP
+P16112	176	Other protein	OP
+P00558	5230	Other protein	OP
+P36871	5236	Other protein	OP
+O00264	10857	Other protein	OP
+Q96PD5	114770	Other protein	OP
+Q96LB9	114771	Other protein	OP
+Q92696	5875	Other protein	OP
+P53609	5229	Other protein	OP
+P53611	5876	Other protein	OP
+Q99623	11331	Other protein	OP
+P35232	5245	Other protein	OP
+Q8TCT1	162466	Other protein	OP
+P61457	5092	Other protein	OP
+P22061	5110	Other protein	OP
+Q13526	5300	Other protein	OP
+Q00169	5306	Other protein	OP
+Q9HB21	59338	Other protein	OP
+Q9H4M7	57664	Other protein	OP
+P14923	3728	Other protein	OP
+Q15111	5334	Other protein	OP
+P02776	5196	Other protein	OP
+P49763	5228	Other protein	OP
+O60664	10226	Other protein	OP
+Q02809	5351	Other protein	OP
+O00469	5352	Other protein	OP
+O60568	8985	Other protein	OP
+O94903	11212	Other protein	OP
+Q96GD0	57026	Other protein	OP
+P29590	5371	Other protein	OP
+P54278	5395	Other protein	OP
+Q9NVS9	55163	Other protein	OP
+Q9UBT6	51426	Other protein	OP
+Q9H8P0	79644	Other protein	OP
+P62136	5499	Other protein	OP
+P36873	5501	Other protein	OP
+P67775	5515	Other protein	OP
+P62714	5516	Other protein	OP
+Q08209	5530	Other protein	OP
+P15309	55	Other protein	OP
+P05187	250	Other protein	OP
+P10696	251	Other protein	OP
+P05186	249	Other protein	OP
+Q9UKL6	58488	Other protein	OP
+P23284	5479	Other protein	OP
+P45877	5480	Other protein	OP
+P30405	10105	Other protein	OP
+Q13427	9360	Other protein	OP
+O43447	10465	Other protein	OP
+P53041	5536	Other protein	OP
+P50897	5538	Other protein	OP
+Q06830	5052	Other protein	OP
+P32119	7001	Other protein	OP
+P30044	25824	Other protein	OP
+P30041	9588	Other protein	OP
+P13727	5553	Other protein	OP
+Q86YN6	133522	Other protein	OP
+P04156	5621	Other protein	OP
+O43272	5625	Other protein	OP
+P07737	5216	Other protein	OP
+P35080	5217	Other protein	OP
+P07225	5627	Other protein	OP
+P17980	5702	Other protein	OP
+P20472	5816	Other protein	OP
+Q15238	5673	Other protein	OP
+Q06323	5720	Other protein	OP
+Q14914	22949	Other protein	OP
+Q8N8N7	145482	Other protein	OP
+P01270	5741	Other protein	OP
+Q03393	5805	Other protein	OP
+P48651	9791	Other protein	OP
+Q9BVG9	81490	Other protein	OP
+O15067	5198	Other protein	OP
+P22234	10606	Other protein	OP
+P31939	471	Other protein	OP
+Q8N142	122622	Other protein	OP
+P30520	159	Other protein	OP
+P15151	5817	Other protein	OP
+P11216	5834	Other protein	OP
+P11217	5837	Other protein	OP
+P27708	790	Other protein	OP
+P17812	1503	Other protein	OP
+O14957	10975	Other protein	OP
+P31930	7384	Other protein	OP
+P22695	7385	Other protein	OP
+P07919	7388	Other protein	OP
+P14927	7381	Other protein	OP
+O14949	27089	Other protein	OP
+Q9UDW1	29796	Other protein	OP
+Q08257	1429	Other protein	OP
+P20339	5868	Other protein	OP
+P51149	7879	Other protein	OP
+Q92930	51762	Other protein	OP
+P51151	9367	Other protein	OP
+P63000	5879	Other protein	OP
+P15153	5880	Other protein	OP
+P63244	10399	Other protein	OP
+Q06609	5888	Other protein	OP
+P35241	5962	Other protein	OP
+P11233	5898	Other protein	OP
+O60894	10267	Other protein	OP
+O60895	10266	Other protein	OP
+O60896	10268	Other protein	OP
+P43487	5902	Other protein	OP
+P62826	5901	Other protein	OP
+P10114	5911	Other protein	OP
+P62491	8766	Other protein	OP
+P06400	5925	Other protein	OP
+P53805	1827	Other protein	OP
+Q8TC12	51109	Other protein	OP
+Q96NR8	145226	Other protein	OP
+Q8NBN7	112724	Other protein	OP
+Q9HBH5	57665	Other protein	OP
+Q92781	5959	Other protein	OP
+Q9NYR8	50700	Other protein	OP
+P35243	5957	Other protein	OP
+P05451	5967	Other protein	OP
+P51606	5973	Other protein	OP
+Q6NUM9	54884	Other protein	OP
+Q15493	9104	Other protein	OP
+Q15382	6009	Other protein	OP
+P61586	387	Other protein	OP
+P62745	388	Other protein	OP
+Q7Z5B4	79608	Other protein	OP
+Q969G6	55312	Other protein	OP
+Q96L21	140801	Other protein	OP
+P27635	6134	Other protein	OP
+P62913	6135	Other protein	OP
+P40429	23521	Other protein	OP
+P50914	9045	Other protein	OP
+P61313	6138	Other protein	OP
+Q07020	6141	Other protein	OP
+P84098	6143	Other protein	OP
+P62750	6147	Other protein	OP
+P62829	9349	Other protein	OP
+Q9UNX3	51121	Other protein	OP
+P42766	11224	Other protein	OP
+P61927	6167	Other protein	OP
+P39023	6122	Other protein	OP
+P36578	6124	Other protein	OP
+P62917	6132	Other protein	OP
+Q9UHA3	51187	Other protein	OP
+P07998	6035	Other protein	OP
+P10153	6036	Other protein	OP
+P34096	6038	Other protein	OP
+P61587	390	Other protein	OP
+P22626	3181	Other protein	OP
+Q16518	6121	Other protein	OP
+P49247	22934	Other protein	OP
+Q9P2E9	6238	Other protein	OP
+P62277	6207	Other protein	OP
+P08708	6218	Other protein	OP
+P62269	6222	Other protein	OP
+P39019	6223	Other protein	OP
+P62857	6234	Other protein	OP
+P15880	6187	Other protein	OP
+P46782	6193	Other protein	OP
+P62753	6194	Other protein	OP
+P62241	6202	Other protein	OP
+P46781	6203	Other protein	OP
+P08865	3921	Other protein	OP
+Q9Y3I0	51493	Other protein	OP
+Q9Y230	10856	Other protein	OP
+P04271	6285	Other protein	OP
+P29377	795	Other protein	OP
+P25815	6286	Other protein	OP
+P23297	6271	Other protein	OP
+P29034	6273	Other protein	OP
+P26447	6275	Other protein	OP
+P06703	6277	Other protein	OP
+P31151	6278	Other protein	OP
+P05109	6279	Other protein	OP
+P06702	6280	Other protein	OP
+P60903	6281	Other protein	OP
+P80511	6283	Other protein	OP
+Q99584	6284	Other protein	OP
+Q96FQ6	140576	Other protein	OP
+O76054	23541	Other protein	OP
+Q9UDX4	266629	Other protein	OP
+Q9UDX3	284904	Other protein	OP
+P18405	6715	Other protein	OP
+P17900	2760	Other protein	OP
+P07602	5660	Other protein	OP
+Q9Y6B6	51128	Other protein	OP
+P21673	6303	Other protein	OP
+Q96I15	51540	Other protein	OP
+Q96GD3	22955	Other protein	OP
+Q07699	6324	Other protein	OP
+O60939	6327	Other protein	OP
+Q9NY72	55800	Other protein	OP
+Q8IWT1	6330	Other protein	OP
+Q01118	6332	Other protein	OP
+O75880	6341	Other protein	OP
+P55809	5019	Other protein	OP
+Q8WTV0	949	Other protein	OP
+P34741	6383	Other protein	OP
+P48061	6387	Other protein	OP
+Q99470	6388	Other protein	OP
+P31040	6389	Other protein	OP
+P21912	6390	Other protein	OP
+P20132	10993	Other protein	OP
+Q96GA7	113675	Other protein	OP
+P04279	6406	Other protein	OP
+Q02383	6407	Other protein	OP
+P49908	6414	Other protein	OP
+O43175	26227	Other protein	OP
+P78330	5723	Other protein	OP
+Q9Y617	29968	Other protein	OP
+Q15637	7536	Other protein	OP
+Q15428	8175	Other protein	OP
+Q12874	10946	Other protein	OP
+O75533	23451	Other protein	OP
+Q15393	23450	Other protein	OP
+P23246	6421	Other protein	OP
+Q6FHJ7	6424	Other protein	OP
+Q8IWL2	653509	Other protein	OP
+P35247	6441	Other protein	OP
+Q9UQQ2	10019	Other protein	OP
+P04278	6462	Other protein	OP
+Q9UNP4	8869	Other protein	OP
+Q9Y286	27036	Other protein	OP
+O15304	10572	Other protein	OP
+P63208	6500	Other protein	OP
+Q15796	4087	Other protein	OP
+O60264	8467	Other protein	OP
+Q969G3	6605	Other protein	OP
+P62316	6633	Other protein	OP
+Q9NWM0	54498	Other protein	OP
+P61278	6750	Other protein	OP
+Q16613	15	Other protein	OP
+P60880	6616	Other protein	OP
+P09012	6626	Other protein	OP
+O60493	8724	Other protein	OP
+Q9BZZ2	6614	Other protein	OP
+P35610	6646	Other protein	OP
+O75908	8435	Other protein	OP
+P00441	6647	Other protein	OP
+P04179	6648	Other protein	OP
+P30626	6717	Other protein	OP
+Q9BQB4	50964	Other protein	OP
+Q9P0Z9	51268	Other protein	OP
+Q9HD40	51091	Other protein	OP
+Q8WWL2	84501	Other protein	OP
+P09486	6678	Other protein	OP
+P52788	6611	Other protein	OP
+Q01082	6711	Other protein	OP
+P21549	189	Other protein	OP
+P36956	6720	Other protein	OP
+P37108	6727	Other protein	OP
+Q9GZT4	63826	Other protein	OP
+Q07955	6426	Other protein	OP
+Q08170	6429	Other protein	OP
+P50225	6817	Other protein	OP
+O43704	27284	Other protein	OP
+P49888	6783	Other protein	OP
+Q06520	6822	Other protein	OP
+O00204	6820	Other protein	OP
+P51692	6777	Other protein	OP
+Q8WWQ8	55576	Other protein	OP
+P31948	10963	Other protein	OP
+Q9H169	81551	Other protein	OP
+P08842	412	Other protein	OP
+Q96I99	8801	Other protein	OP
+P14410	6476	Other protein	OP
+P51687	6821	Other protein	OP
+P49588	16	Other protein	OP
+Q5JTZ9	57505	Other protein	OP
+P49589	833	Other protein	OP
+Q9HA77	79587	Other protein	OP
+P14868	1615	Other protein	OP
+Q6PI48	55157	Other protein	OP
+Q5JPH6	124454	Other protein	OP
+P07814	2058	Other protein	OP
+Q9Y285	2193	Other protein	OP
+Q9NSD9	10056	Other protein	OP
+O95363	10667	Other protein	OP
+P12081	3035	Other protein	OP
+P41252	3376	Other protein	OP
+Q9NSE4	55699	Other protein	OP
+Q15046	3735	Other protein	OP
+Q9P2J5	51520	Other protein	OP
+Q15031	23395	Other protein	OP
+P17600	6853	Other protein	OP
+O43776	4677	Other protein	OP
+Q96I59	79731	Other protein	OP
+Q7L3T8	25973	Other protein	OP
+P49591	6301	Other protein	OP
+Q8N9I0	127833	Other protein	OP
+P26639	6897	Other protein	OP
+Q96C24	94121	Other protein	OP
+Q9BW92	80222	Other protein	OP
+P37840	6622	Other protein	OP
+P26640	7407	Other protein	OP
+P23381	7453	Other protein	OP
+Q9UGM6	10352	Other protein	OP
+P54577	8565	Other protein	OP
+Q9Y2Z4	51067	Other protein	OP
+Q96EM0	112849	Other protein	OP
+Q15750	10454	Other protein	OP
+P37802	8407	Other protein	OP
+Q01995	6876	Other protein	OP
+P10636	4137	Other protein	OP
+P68363	10376	Other protein	OP
+Q9BQE3	84790	Other protein	OP
+Q6PEY2	112714	Other protein	OP
+Q9NY65	51807	Other protein	OP
+Q9H4B7	81027	Other protein	OP
+Q13885	7280	Other protein	OP
+Q9BVA1	347733	Other protein	OP
+P04350	10382	Other protein	OP
+Q9BUF5	84617	Other protein	OP
+Q9UJT1	51174	Other protein	OP
+Q9UJT0	51175	Other protein	OP
+P23258	7283	Other protein	OP
+P20061	6947	Other protein	OP
+P49368	7203	Other protein	OP
+P13693	7178	Other protein	OP
+P04053	1791	Other protein	OP
+P55072	7415	Other protein	OP
+O14746	7015	Other protein	OP
+P05452	7123	Other protein	OP
+Q04206	5970	Other protein	OP
+P04155	7031	Other protein	OP
+Q03403	7032	Other protein	OP
+Q9UP52	7036	Other protein	OP
+P13726	2152	Other protein	OP
+P01137	7040	Other protein	OP
+P10600	7043	Other protein	OP
+Q08188	7053	Other protein	OP
+P09110	30	Other protein	OP
+P10599	7295	Other protein	OP
+Q16762	7263	Other protein	OP
+P49788	5918	Other protein	OP
+Q9UHF0	6866	Other protein	OP
+P29401	7086	Other protein	OP
+Q9NVH6	55217	Other protein	OP
+Q9Y275	10673	Other protein	OP
+O14788	8600	Other protein	OP
+P01375	7124	Other protein	OP
+P01374	4049	Other protein	OP
+P63316	7134	Other protein	OP
+P02585	7125	Other protein	OP
+P19429	7137	Other protein	OP
+Q02880	7155	Other protein	OP
+O75865	79090	Other protein	OP
+Q86SZ2	122553	Other protein	OP
+O43399	7165	Other protein	OP
+P60174	7167	Other protein	OP
+Q9H3S4	27010	Other protein	OP
+P09493	7168	Other protein	OP
+P06753	7170	Other protein	OP
+P67936	7171	Other protein	OP
+P51580	7172	Other protein	OP
+Q9Y5R8	58485	Other protein	OP
+O43617	27095	Other protein	OP
+Q9Y296	51399	Other protein	OP
+Q8IUR0	126003	Other protein	OP
+P07204	7056	Other protein	OP
+O14717	1787	Other protein	OP
+Q9NP99	54210	Other protein	OP
+P02787	7018	Other protein	OP
+O60858	10206	Other protein	OP
+Q16881	7296	Other protein	OP
+Q9NNW7	10587	Other protein	OP
+P98066	7130	Other protein	OP
+Q9Y4R7	26140	Other protein	OP
+P50607	7275	Other protein	OP
+P19971	1890	Other protein	OP
+O60294	9836	Other protein	OP
+Q16222	6675	Other protein	OP
+P62837	7322	Other protein	OP
+P22314	7317	Other protein	OP
+P0CG47	7314	Other protein	OP
+P0CG48	7316	Other protein	OP
+Q5T4S7	23352	Other protein	OP
+Q9BZX2	7371	Other protein	OP
+Q9NWZ5	54963	Other protein	OP
+P47985	7386	Other protein	OP
+O60656	54600	Other protein	OP
+Q6NUS8	133688	Other protein	OP
+O60701	7358	Other protein	OP
+Q13564	8883	Other protein	OP
+P11172	7372	Other protein	OP
+P13051	7374	Other protein	OP
+Q03405	5329	Other protein	OP
+Q16831	7378	Other protein	OP
+P11684	7356	Other protein	OP
+P46939	7402	Other protein	OP
+P23763	6843	Other protein	OP
+P63027	6844	Other protein	OP
+Q15904	537	Other protein	OP
+P19320	7412	Other protein	OP
+P21796	7416	Other protein	OP
+P45880	7417	Other protein	OP
+Q9Y277	7419	Other protein	OP
+P15692	7422	Other protein	OP
+P49765	7423	Other protein	OP
+P08670	7431	Other protein	OP
+Q8N0U8	154807	Other protein	OP
+P98155	7436	Other protein	OP
+P02774	2638	Other protein	OP
+P04004	7448	Other protein	OP
+P04275	7450	Other protein	OP
+P42768	7454	Other protein	OP
+Q13426	7518	Other protein	OP
+P25311	563	Other protein	OP
+P08048	7544	Other protein	OP
+Q15942	7791	Other protein	OP
+A0AV02	84561	Transporter	Transporter
+A0PJK1	125206	Transporter	Transporter
+A1A5C7	63027	Transporter	Transporter
+A4IF30	341880	Transporter	Transporter
+A6NFX1	388931	Transporter	Transporter
+A6NNN8	146167	Transporter	Transporter
+O00337	9154	Transporter	Transporter
+O00341	6512	Transporter	Transporter
+O00400	9197	Transporter	Transporter
+O00476	10786	Transporter	Transporter
+O00624	10246	Transporter	Transporter
+O14863	7782	Transporter	Transporter
+O14975	11001	Transporter	Transporter
+O14983	487	Transporter	Transporter
+O15118	4864	Transporter	Transporter
+O15244	6582	Transporter	Transporter
+O15245	6580	Transporter	Transporter
+O15342	8992	Transporter	Transporter
+O15374	9122	Transporter	Transporter
+O15375	9121	Transporter	Transporter
+O15403	9120	Transporter	Transporter
+O15427	9123	Transporter	Transporter
+O15431	1317	Transporter	Transporter
+O15432	1318	Transporter	Transporter
+O15438	8714	Transporter	Transporter
+O15439	10257	Transporter	Transporter
+O15440	10057	Transporter	Transporter
+O43246	6545	Transporter	Transporter
+O43511	5172	Transporter	Transporter
+O43520	5205	Transporter	Transporter
+O43772	788	Transporter	Transporter
+O43808	10478	Transporter	Transporter
+O43826	2542	Transporter	Transporter
+O43861	374868	Transporter	Transporter
+O43868	9153	Transporter	Transporter
+O60312	57194	Transporter	Transporter
+O60423	148229	Transporter	Transporter
+O60669	9194	Transporter	Transporter
+O60706	10060	Transporter	Transporter
+O60721	9187	Transporter	Transporter
+O60779	10560	Transporter	Transporter
+O75027	22	Transporter	Transporter
+O75110	10079	Transporter	Transporter
+O75185	9914	Transporter	Transporter
+O75348	9550	Transporter	Transporter
+O75387	8501	Transporter	Transporter
+O75746	8604	Transporter	Transporter
+O75751	6581	Transporter	Transporter
+O75947	10476	Transporter	Transporter
+O76082	6584	Transporter	Transporter
+O94823	23120	Transporter	Transporter
+O94911	10351	Transporter	Transporter
+O94956	11309	Transporter	Transporter
+O95202	3954	Transporter	Transporter
+O95255	368	Transporter	Transporter
+O95258	9016	Transporter	Transporter
+O95342	8647	Transporter	Transporter
+O95436	10568	Transporter	Transporter
+O95477	19	Transporter	Transporter
+O95528	81031	Transporter	Transporter
+O95563	25874	Transporter	Transporter
+O95670	534	Transporter	Transporter
+O95847	9481	Transporter	Transporter
+O95907	23539	Transporter	Transporter
+P00846	4508	Transporter	Transporter
+P02730	6521	Transporter	Transporter
+P03928	4509	Transporter	Transporter
+P04920	6522	Transporter	Transporter
+P05023	476	Transporter	Transporter
+P05026	481	Transporter	Transporter
+P05141	292	Transporter	Transporter
+P05496	516	Transporter	Transporter
+P06576	506	Transporter	Transporter
+P08183	5243	Transporter	Transporter
+P08195	6520	Transporter	Transporter
+P09131	8273	Transporter	Transporter
+P0C7Q5	646000	Transporter	Transporter
+P0C7Q6	643664	Transporter	Transporter
+P0CK96	728661	Transporter	Transporter
+P0CK97	9906	Transporter	Transporter
+P0DKB6	347411	Transporter	Transporter
+P11166	6513	Transporter	Transporter
+P11168	6514	Transporter	Transporter
+P11169	6515	Transporter	Transporter
+P12235	291	Transporter	Transporter
+P12236	293	Transporter	Transporter
+P13637	478	Transporter	Transporter
+P13866	6523	Transporter	Transporter
+P14415	482	Transporter	Transporter
+P14672	6517	Transporter	Transporter
+P15313	525	Transporter	Transporter
+P16260	8034	Transporter	Transporter
+P16615	488	Transporter	Transporter
+P18859	522	Transporter	Transporter
+P19634	6548	Transporter	Transporter
+P20020	490	Transporter	Transporter
+P20648	495	Transporter	Transporter
+P21281	526	Transporter	Transporter
+P21283	528	Transporter	Transporter
+P21439	5244	Transporter	Transporter
+P22732	6518	Transporter	Transporter
+P23634	493	Transporter	Transporter
+P23975	6530	Transporter	Transporter
+P24539	515	Transporter	Transporter
+P25705	498	Transporter	Transporter
+P25874	7350	Transporter	Transporter
+P27449	527	Transporter	Transporter
+P28288	5825	Transporter	Transporter
+P30049	513	Transporter	Transporter
+P30531	6529	Transporter	Transporter
+P30825	6541	Transporter	Transporter
+P31639	6524	Transporter	Transporter
+P31641	6533	Transporter	Transporter
+P31645	6532	Transporter	Transporter
+P32418	6546	Transporter	Transporter
+P33527	4363	Transporter	Transporter
+P33897	215	Transporter	Transporter
+P35670	540	Transporter	Transporter
+P36021	6567	Transporter	Transporter
+P36542	509	Transporter	Transporter
+P36543	529	Transporter	Transporter
+P38606	523	Transporter	Transporter
+P40879	1811	Transporter	Transporter
+P41440	6573	Transporter	Transporter
+P43003	6507	Transporter	Transporter
+P43004	6506	Transporter	Transporter
+P43005	6505	Transporter	Transporter
+P43007	6509	Transporter	Transporter
+P45844	9619	Transporter	Transporter
+P46059	6564	Transporter	Transporter
+P46721	6579	Transporter	Transporter
+P48029	6535	Transporter	Transporter
+P48065	6539	Transporter	Transporter
+P48066	6538	Transporter	Transporter
+P48067	6536	Transporter	Transporter
+P48201	518	Transporter	Transporter
+P48664	6511	Transporter	Transporter
+P48751	6508	Transporter	Transporter
+P48764	6550	Transporter	Transporter
+P49279	6556	Transporter	Transporter
+P49281	4891	Transporter	Transporter
+P50443	1836	Transporter	Transporter
+P50993	477	Transporter	Transporter
+P51164	496	Transporter	Transporter
+P52569	6542	Transporter	Transporter
+P53007	6576	Transporter	Transporter
+P53985	6566	Transporter	Transporter
+P54219	6570	Transporter	Transporter
+P54707	479	Transporter	Transporter
+P54709	483	Transporter	Transporter
+P54710	486	Transporter	Transporter
+P55011	6558	Transporter	Transporter
+P55017	6559	Transporter	Transporter
+P55851	7351	Transporter	Transporter
+P55916	7352	Transporter	Transporter
+P56134	9551	Transporter	Transporter
+P56381	514	Transporter	Transporter
+P56385	521	Transporter	Transporter
+P57057	54020	Transporter	Transporter
+P57103	6547	Transporter	Transporter
+P58743	375611	Transporter	Transporter
+P61421	9114	Transporter	Transporter
+P78363	24	Transporter	Transporter
+P78381	7355	Transporter	Transporter
+P78382	10559	Transporter	Transporter
+P78383	10237	Transporter	Transporter
+P82251	11136	Transporter	Transporter
+P98194	27032	Transporter	Transporter
+P98196	23250	Transporter	Transporter
+P98198	57198	Transporter	Transporter
+Q00325	5250	Transporter	Transporter
+Q01650	8140	Transporter	Transporter
+Q01814	491	Transporter	Transporter
+Q01959	6531	Transporter	Transporter
+Q02094	6005	Transporter	Transporter
+Q02978	8402	Transporter	Transporter
+Q03518	6890	Transporter	Transporter
+Q03519	6891	Transporter	Transporter
+Q04656	538	Transporter	Transporter
+Q05940	6571	Transporter	Transporter
+Q06055	517	Transporter	Transporter
+Q06495	6569	Transporter	Transporter
+Q07837	6519	Transporter	Transporter
+Q08357	6575	Transporter	Transporter
+Q08AI6	151258	Transporter	Transporter
+Q09428	6833	Transporter	Transporter
+Q0D2K0	348938	Transporter	Transporter
+Q0GE19	84068	Transporter	Transporter
+Q12908	6555	Transporter	Transporter
+Q13183	9058	Transporter	Transporter
+Q13336	6563	Transporter	Transporter
+Q13433	25800	Transporter	Transporter
+Q13454	7991	Transporter	Transporter
+Q13488	10312	Transporter	Transporter
+Q13621	6557	Transporter	Transporter
+Q13733	480	Transporter	Transporter
+Q14542	3177	Transporter	Transporter
+Q14916	6568	Transporter	Transporter
+Q14940	6553	Transporter	Transporter
+Q14973	6554	Transporter	Transporter
+Q15043	23516	Transporter	Transporter
+Q15758	6510	Transporter	Transporter
+Q15849	8170	Transporter	Transporter
+Q16348	6565	Transporter	Transporter
+Q16572	6572	Transporter	Transporter
+Q16720	492	Transporter	Transporter
+Q16864	9296	Transporter	Transporter
+Q1EHB4	159963	Transporter	Transporter
+Q2M3G0	340273	Transporter	Transporter
+Q2M3M2	200010	Transporter	Transporter
+Q2M3R5	159371	Transporter	Transporter
+Q2VYF4	137994	Transporter	Transporter
+Q2Y0W8	9498	Transporter	Transporter
+Q3KNW5	345274	Transporter	Transporter
+Q3KQZ1	399512	Transporter	Transporter
+Q3SY17	147407	Transporter	Transporter
+Q495M3	153201	Transporter	Transporter
+Q495N2	285641	Transporter	Transporter
+Q4G0N8	285335	Transporter	Transporter
+Q4U2R8	9356	Transporter	Transporter
+Q4ZJI4	150159	Transporter	Transporter
+Q504Y0	221074	Transporter	Transporter
+Q53GD3	80736	Transporter	Transporter
+Q5BKX6	57210	Transporter	Transporter
+Q5H9E4	401612	Transporter	Transporter
+Q5K4L6	11000	Transporter	Transporter
+Q5M8T2	340146	Transporter	Transporter
+Q5PT55	347051	Transporter	Transporter
+Q5SVS4	253512	Transporter	Transporter
+Q5T1Q4	222553	Transporter	Transporter
+Q5T3U5	89845	Transporter	Transporter
+Q5TAH2	284525	Transporter	Transporter
+Q5TF39	91749	Transporter	Transporter
+Q63ZE4	387775	Transporter	Transporter
+Q695T7	340024	Transporter	Transporter
+Q6AI14	389015	Transporter	Transporter
+Q6ICL7	339665	Transporter	Transporter
+Q6J4K2	80024	Transporter	Transporter
+Q6KCM7	114789	Transporter	Transporter
+Q6N075	84975	Transporter	Transporter
+Q6NT16	116843	Transporter	Transporter
+Q6NUK1	29957	Transporter	Transporter
+Q6NVV3	152519	Transporter	Transporter
+Q6NXT4	55676	Transporter	Transporter
+Q6P1K1	55652	Transporter	Transporter
+Q6P1M0	10999	Transporter	Transporter
+Q6P1Q0	25875	Transporter	Transporter
+Q6P499	57185	Transporter	Transporter
+Q6P5W5	55630	Transporter	Transporter
+Q6PCB7	376497	Transporter	Transporter
+Q6PIS1	151295	Transporter	Transporter
+Q6PIV7	284723	Transporter	Transporter
+Q6PML9	10463	Transporter	Transporter
+Q6PXP3	155184	Transporter	Transporter
+Q6Q0C1	283600	Transporter	Transporter
+Q6T423	387601	Transporter	Transporter
+Q6U841	57282	Transporter	Transporter
+Q6UXD7	84179	Transporter	Transporter
+Q6XR72	55532	Transporter	Transporter
+Q6YBV0	120103	Transporter	Transporter
+Q6ZMD2	201305	Transporter	Transporter
+Q6ZMH5	283375	Transporter	Transporter
+Q6ZQN7	353189	Transporter	Transporter
+Q6ZSM3	387700	Transporter	Transporter
+Q6ZT89	153328	Transporter	Transporter
+Q70HW3	115286	Transporter	Transporter
+Q71RS6	283652	Transporter	Transporter
+Q76EJ3	11046	Transporter	Transporter
+Q7L0J3	9900	Transporter	Transporter
+Q7LBE3	115019	Transporter	Transporter
+Q7RTP0	123606	Transporter	Transporter
+Q7RTT9	222962	Transporter	Transporter
+Q7RTX9	151473	Transporter	Transporter
+Q7RTY0	201232	Transporter	Transporter
+Q7RTY1	220963	Transporter	Transporter
+Q7Z2H8	206358	Transporter	Transporter
+Q7Z3Q1	283537	Transporter	Transporter
+Q7Z4Y8	267020	Transporter	Transporter
+Q7Z769	55508	Transporter	Transporter
+Q86UD5	133308	Transporter	Transporter
+Q86UG4	133482	Transporter	Transporter
+Q86UK0	26154	Transporter	Transporter
+Q86UQ4	154664	Transporter	Transporter
+Q86UW1	200931	Transporter	Transporter
+Q86UW2	123264	Transporter	Transporter
+Q86VD7	284439	Transporter	Transporter
+Q86VL8	146802	Transporter	Transporter
+Q86VW1	85413	Transporter	Transporter
+Q86WA9	284129	Transporter	Transporter
+Q86YT5	284111	Transporter	Transporter
+Q8IUA7	10350	Transporter	Transporter
+Q8IVB4	285195	Transporter	Transporter
+Q8IVJ1	254428	Transporter	Transporter
+Q8IVM8	114571	Transporter	Transporter
+Q8IVW8	124976	Transporter	Transporter
+Q8IWA5	57153	Transporter	Transporter
+Q8IWU4	169026	Transporter	Transporter
+Q8IXU6	54733	Transporter	Transporter
+Q8IY34	51296	Transporter	Transporter
+Q8IY50	148641	Transporter	Transporter
+Q8IZD6	55356	Transporter	Transporter
+Q8IZM9	145389	Transporter	Transporter
+Q8IZY2	10347	Transporter	Transporter
+Q8N130	142680	Transporter	Transporter
+Q8N139	23460	Transporter	Transporter
+Q8N1S5	201266	Transporter	Transporter
+Q8N357	54978	Transporter	Transporter
+Q8N370	124935	Transporter	Transporter
+Q8N413	283130	Transporter	Transporter
+Q8N468	148808	Transporter	Transporter
+Q8N4F4	283238	Transporter	Transporter
+Q8N4M1	126969	Transporter	Transporter
+Q8N5S1	284427	Transporter	Transporter
+Q8N695	160728	Transporter	Transporter
+Q8N697	121260	Transporter	Transporter
+Q8N808	146861	Transporter	Transporter
+Q8N8Q9	81614	Transporter	Transporter
+Q8N8R3	123096	Transporter	Transporter
+Q8N8Y2	245972	Transporter	Transporter
+Q8NA29	84879	Transporter	Transporter
+Q8NB49	286410	Transporter	Transporter
+Q8NBI5	29015	Transporter	Transporter
+Q8NBS3	83959	Transporter	Transporter
+Q8NBW4	153129	Transporter	Transporter
+Q8NCC5	84255	Transporter	Transporter
+Q8NCK7	162515	Transporter	Transporter
+Q8NCS7	204962	Transporter	Transporter
+Q8NDX2	246213	Transporter	Transporter
+Q8NEW0	148867	Transporter	Transporter
+Q8NEY4	245973	Transporter	Transporter
+Q8NFF2	123041	Transporter	Transporter
+Q8NG04	65012	Transporter	Transporter
+Q8NHE4	155066	Transporter	Transporter
+Q8TAD4	64924	Transporter	Transporter
+Q8TB61	347734	Transporter	Transporter
+Q8TBB6	57709	Transporter	Transporter
+Q8TBE7	80723	Transporter	Transporter
+Q8TBP6	55972	Transporter	Transporter
+Q8TCC7	9376	Transporter	Transporter
+Q8TCU3	157724	Transporter	Transporter
+Q8TD20	154091	Transporter	Transporter
+Q8TD22	94097	Transporter	Transporter
+Q8TDB8	144195	Transporter	Transporter
+Q8TE54	115111	Transporter	Transporter
+Q8TED4	219855	Transporter	Transporter
+Q8TF62	79895	Transporter	Transporter
+Q8TF71	117247	Transporter	Transporter
+Q8WUG5	51310	Transporter	Transporter
+Q8WUM9	6574	Transporter	Transporter
+Q8WUT9	203427	Transporter	Transporter
+Q8WUX1	92745	Transporter	Transporter
+Q8WV83	80255	Transporter	Transporter
+Q8WWI5	23446	Transporter	Transporter
+Q8WWT9	64849	Transporter	Transporter
+Q8WWX8	115584	Transporter	Transporter
+Q8WWZ4	10349	Transporter	Transporter
+Q8WWZ7	23461	Transporter	Transporter
+Q8WY07	84889	Transporter	Transporter
+Q92504	7922	Transporter	Transporter
+Q92536	9057	Transporter	Transporter
+Q92581	10479	Transporter	Transporter
+Q92887	1244	Transporter	Transporter
+Q92911	6528	Transporter	Transporter
+Q92959	6578	Transporter	Transporter
+Q93050	535	Transporter	Transporter
+Q93084	489	Transporter	Transporter
+Q969I6	55089	Transporter	Transporter
+Q969S0	84912	Transporter	Transporter
+Q96A05	90423	Transporter	Transporter
+Q96A29	55343	Transporter	Transporter
+Q96A46	81894	Transporter	Transporter
+Q96AG3	91137	Transporter	Transporter
+Q96BD0	28231	Transporter	Transporter
+Q96BI1	5002	Transporter	Transporter
+Q96CQ1	55186	Transporter	Transporter
+Q96DW6	54977	Transporter	Transporter
+Q96EP9	201780	Transporter	Transporter
+Q96FL8	55244	Transporter	Transporter
+Q96G79	113829	Transporter	Transporter
+Q96GZ6	54946	Transporter	Transporter
+Q96H72	91252	Transporter	Transporter
+Q96H78	9673	Transporter	Transporter
+Q96J65	94160	Transporter	Transporter
+Q96J66	85320	Transporter	Transporter
+Q96JT2	85414	Transporter	Transporter
+Q96JW4	84102	Transporter	Transporter
+Q96K37	79939	Transporter	Transporter
+Q96KT7	83650	Transporter	Transporter
+Q96LB4	127124	Transporter	Transporter
+Q96N87	348932	Transporter	Transporter
+Q96NB2	118980	Transporter	Transporter
+Q96NT5	113235	Transporter	Transporter
+Q96Q91	83697	Transporter	Transporter
+Q96QD8	54407	Transporter	Transporter
+Q96QE2	114134	Transporter	Transporter
+Q96RN1	116369	Transporter	Transporter
+Q96S37	116085	Transporter	Transporter
+Q96SL1	84925	Transporter	Transporter
+Q96T83	84679	Transporter	Transporter
+Q99437	533	Transporter	Transporter
+Q99624	10991	Transporter	Transporter
+Q99726	7781	Transporter	Transporter
+Q99758	21	Transporter	Transporter
+Q99808	2030	Transporter	Transporter
+Q99884	6534	Transporter	Transporter
+Q9BQT8	89874	Transporter	Transporter
+Q9BRI3	7780	Transporter	Transporter
+Q9BRV3	55974	Transporter	Transporter
+Q9BRY0	29985	Transporter	Transporter
+Q9BS91	55032	Transporter	Transporter
+Q9BSK2	84275	Transporter	Transporter
+Q9BV35	79085	Transporter	Transporter
+Q9BWM7	81855	Transporter	Transporter
+Q9BXI2	83884	Transporter	Transporter
+Q9BXP2	56996	Transporter	Transporter
+Q9BXS9	65010	Transporter	Transporter
+Q9BY07	57835	Transporter	Transporter
+Q9BY10	57864	Transporter	Transporter
+Q9BYT1	63910	Transporter	Transporter
+Q9BYW1	66035	Transporter	Transporter
+Q9BZC7	20	Transporter	Transporter
+Q9BZD2	55315	Transporter	Transporter
+Q9BZJ4	51629	Transporter	Transporter
+Q9BZV2	80704	Transporter	Transporter
+Q9BZW2	6561	Transporter	Transporter
+Q9C0K1	64116	Transporter	Transporter
+Q9GZN6	28968	Transporter	Transporter
+Q9GZV3	60482	Transporter	Transporter
+Q9H015	6583	Transporter	Transporter
+Q9H0C2	83447	Transporter	Transporter
+Q9H0U3	84061	Transporter	Transporter
+Q9H172	64137	Transporter	Transporter
+Q9H1K4	83733	Transporter	Transporter
+Q9H1N7	51000	Transporter	Transporter
+Q9H1U9	92014	Transporter	Transporter
+Q9H1V8	388662	Transporter	Transporter
+Q9H221	64241	Transporter	Transporter
+Q9H222	64240	Transporter	Transporter
+Q9H2B4	10861	Transporter	Transporter
+Q9H2D1	81034	Transporter	Transporter
+Q9H2H9	81539	Transporter	Transporter
+Q9H2J7	55117	Transporter	Transporter
+Q9H2V7	83985	Transporter	Transporter
+Q9H2X9	57468	Transporter	Transporter
+Q9H2Y9	81796	Transporter	Transporter
+Q9H310	57127	Transporter	Transporter
+Q9H598	140679	Transporter	Transporter
+Q9H841	79815	Transporter	Transporter
+Q9H936	79751	Transporter	Transporter
+Q9H9B4	94081	Transporter	Transporter
+Q9HAB3	79581	Transporter	Transporter
+Q9HAS3	64078	Transporter	Transporter
+Q9HBG4	50617	Transporter	Transporter
+Q9HBR0	124565	Transporter	Transporter
+Q9HC07	55858	Transporter	Transporter
+Q9HC21	60386	Transporter	Transporter
+Q9HC58	57419	Transporter	Transporter
+Q9HCJ1	56172	Transporter	Transporter
+Q9NP58	10058	Transporter	Transporter
+Q9NP59	30061	Transporter	Transporter
+Q9NP78	23457	Transporter	Transporter
+Q9NP91	54716	Transporter	Transporter
+Q9NP94	29986	Transporter	Transporter
+Q9NPD5	28234	Transporter	Transporter
+Q9NQ40	113278	Transporter	Transporter
+Q9NQQ7	51006	Transporter	Transporter
+Q9NRA2	26503	Transporter	Transporter
+Q9NRK6	23456	Transporter	Transporter
+Q9NRM0	56606	Transporter	Transporter
+Q9NS82	56301	Transporter	Transporter
+Q9NSA0	55867	Transporter	Transporter
+Q9NSD5	6540	Transporter	Transporter
+Q9NTI2	51761	Transporter	Transporter
+Q9NTN3	23169	Transporter	Transporter
+Q9NUM3	55334	Transporter	Transporter
+Q9NUT2	11194	Transporter	Transporter
+Q9NVC3	55238	Transporter	Transporter
+Q9NWF4	55065	Transporter	Transporter
+Q9NY26	27173	Transporter	Transporter
+Q9NY64	29988	Transporter	Transporter
+Q9NY91	6527	Transporter	Transporter
+Q9NYB5	53919	Transporter	Transporter
+Q9NYZ2	51312	Transporter	Transporter
+Q9NZJ7	23787	Transporter	Transporter
+Q9P241	57205	Transporter	Transporter
+Q9P2U7	57030	Transporter	Transporter
+Q9P2U8	57084	Transporter	Transporter
+Q9UBD6	51458	Transporter	Transporter
+Q9UBH6	9213	Transporter	Transporter
+Q9UBJ2	225	Transporter	Transporter
+Q9UBX3	1468	Transporter	Transporter
+Q9UBY0	6549	Transporter	Transporter
+Q9UGH3	9962	Transporter	Transporter
+Q9UGQ3	11182	Transporter	Transporter
+Q9UHC9	29881	Transporter	Transporter
+Q9UHI5	23428	Transporter	Transporter
+Q9UHI7	9963	Transporter	Transporter
+Q9UHW9	9990	Transporter	Transporter
+Q9UI12	51606	Transporter	Transporter
+Q9UI40	25769	Transporter	Transporter
+Q9UIG8	28232	Transporter	Transporter
+Q9UJS0	10165	Transporter	Transporter
+Q9UKG4	26266	Transporter	Transporter
+Q9ULF5	57181	Transporter	Transporter
+Q9UM01	9056	Transporter	Transporter
+Q9UMX9	51151	Transporter	Transporter
+Q9UN76	11254	Transporter	Transporter
+Q9UNQ0	9429	Transporter	Transporter
+Q9UP95	6560	Transporter	Transporter
+Q9UPI3	55640	Transporter	Transporter
+Q9UPR5	6543	Transporter	Transporter
+Q9UPY5	23657	Transporter	Transporter
+Q9Y226	9390	Transporter	Transporter
+Q9Y267	9389	Transporter	Transporter
+Q9Y289	8884	Transporter	Transporter
+Q9Y2C5	10050	Transporter	Transporter
+Q9Y2D2	23443	Transporter	Transporter
+Q9Y2E8	23315	Transporter	Transporter
+Q9Y2G3	23200	Transporter	Transporter
+Q9Y2P4	28965	Transporter	Transporter
+Q9Y2P5	10998	Transporter	Transporter
+Q9Y2Q0	10396	Transporter	Transporter
+Q9Y2W3	50651	Transporter	Transporter
+Q9Y345	9152	Transporter	Transporter
+Q9Y487	23545	Transporter	Transporter
+Q9Y5K8	51382	Transporter	Transporter
+Q9Y5U8	51660	Transporter	Transporter
+Q9Y5Y0	28982	Transporter	Transporter
+Q9Y619	10166	Transporter	Transporter
+Q9Y666	10723	Transporter	Transporter
+Q9Y694	10864	Transporter	Transporter
+Q9Y6C9	23788	Transporter	Transporter
+Q9Y6L6	10599	Transporter	Transporter
+Q9Y6M5	7779	Transporter	Transporter
+Q9Y6M7	9497	Transporter	Transporter
+Q9Y6R1	8671	Transporter	Transporter
