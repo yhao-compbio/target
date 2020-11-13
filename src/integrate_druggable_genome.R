@@ -1,4 +1,4 @@
-## !/usr/bin/env python
+## !/usr/bin/env Rscript
 ## created by Yun Hao @MooreLab 2019
 ## This script integrates three different resources to build human druggable genome 
 
@@ -89,7 +89,7 @@ other_target_df <- other_target_df[, colnames(dgene_gtop_df)];
 ## 5. Combine mapping results from all three sources
 druggable_df <- rbind(dgene_gtop_df, other_target_df);
 # group subclasses into general functional classes 
-cate_name <- c("G protein-coupled receptor", "Nuclear hormone receptor", "Ion channel", "Ion channel", "Ion channel", "Transporter", "Catalytic receptor", "Catalytic receptor", "Catalytic receptor", "Enzyme", "Enzyme", "Enzyme", "Enzyme", "Enzyme", "Enzyme", "Enzyme", "Other protein");
+cate_name <- c("G protein coupled receptor", "Nuclear hormone receptor", "Ion channel", "Ion channel", "Ion channel", "Transporter", "Catalytic receptor", "Catalytic receptor", "Catalytic receptor", "Enzyme", "Enzyme", "Enzyme", "Enzyme", "Enzyme", "Enzyme", "Enzyme", "Other protein");
 names(cate_name) <- c("GPCR", "NHR", "VGIC", "LGIC", "OIC", "Transporter", "STK", "RTK", "OCR", "PI3K", "Protease", "PI", "PTEN", "PTP", "MTMR", "OE", "OP");
 druggable_df$cate <- cate_name[druggable_df$class];
 colnames(druggable_df) <- c("entrez_id", "subclass", "uniprot_id", "class");
