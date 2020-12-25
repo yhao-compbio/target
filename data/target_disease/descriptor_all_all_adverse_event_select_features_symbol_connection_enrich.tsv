@@ -1,0 +1,13 @@
+group	adverse_event_term	n_selected_targets_w_direct_evidence	n_selected_targets_wo_direct_evidence	n_other_targets_w_direct_evidence	n_other_targets_wo_direct_evidence	odds_ratio	p_value	fdr
+colon	pseudomembranous_colitis	2	12	242	8423	5.798	0.057	0.098
+heart	arrhythmia	8	17	1031	7623	3.479	0.007	0.027
+heart	cardiac_arrest	7	21	1032	7619	2.461	0.043	0.092
+kidney	nephropathy	2	29	517	8131	1.085	0.561	0.748
+kidney	renal_injury	4	25	515	8135	2.527	0.092	0.138
+kidney	renal_tubular_disorder	4	15	515	8145	4.216	0.024	0.072
+lung	respiratory_acidosis	8	33	856	7782	2.204	0.046	0.092
+muscle	muscle_rigidity	0	23	203	8453	0	1	1
+muscle	myoclonus	1	52	202	8424	0.802	0.716	0.859
+prostate	prostate_cancer	0	9	691	7979	0	1	1
+skin	rash_erythematous	5	21	340	8313	5.819	0.003	0.019
+skin	rash_macular	6	26	339	8308	5.653	0.001	0.017

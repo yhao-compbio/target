@@ -1,0 +1,13 @@
+adverse_event	tissue_name
+arrhythmia	Heart_Atrial_Appendage
+cardiac_arrest	Heart_Atrial_Appendage
+muscle_rigidity	Muscle_Skeletal
+myoclonus	Muscle_Skeletal
+pseudomembranous_colitis	Colon_Sigmoid
+renal_injury	Kidney_Cortex
+nephropathy	Kidney_Cortex
+renal_tubular_disorder	Kidney_Cortex
+rash_erythematous	Skin_Sun_Exposed_Lower_leg
+rash_macular	Skin_Sun_Exposed_Lower_leg
+coagulopathy	Whole_Blood
+respiratory_acidosis	Lung

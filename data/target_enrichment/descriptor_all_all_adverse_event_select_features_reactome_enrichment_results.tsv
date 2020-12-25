@@ -1,0 +1,7 @@
+adverse_event	pathway	size	p_value	adjusted_p_value
+cardiac arrest	Amine ligand-binding receptors	43	3.15045451280672e-06	0.00381520041500894
+myoclonus	Reversible hydration of carbon dioxide	12	2.98994706961336e-05	0.0362082590130178
+myoclonus	Amine ligand-binding receptors	43	7.47053832621596e-05	0.0452341095652376
+rash macular	VEGFR2 mediated cell proliferation	20	2.88779959344686e-05	0.0349712530766415
+coagulopathy	MECP2 regulates neuronal receptors and channels	20	1.22463284929908e-06	0.00148303038050119
+coagulopathy	Amine ligand-binding receptors	43	4.5315600602533e-05	0.0274385961648337

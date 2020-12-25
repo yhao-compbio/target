@@ -1,0 +1,13 @@
+adverse_event	disease_group	disease_term
+arrhythmia	heart	cardi,heart,atrial,ventricular,coronary
+cardiac_arrest	heart	cardi,heart,atrial,ventricular,coronary
+muscle_rigidity	muscle	musc,myoclo
+myoclonus	muscle	musc,myoclo
+pseudomembranous_colitis	colon	colon,colitis
+renal_injury	kidney	kidney,renal,nephro
+nephropathy	kidney	kidney,renal,nephro
+renal_tubular_disorder	kidney	kidney,renal,nephro
+rash_erythematous	skin	skin,dermatitis
+rash_macular	skin	skin,dermatitis
+respiratory_acidosis	lung	lung,pulmonary,respiratory
+prostate_cancer	prostate	prostat

@@ -1,0 +1,13 @@
+arrhythmia
+cardiac_arrest
+muscle_rigidity
+myoclonus
+pseudomembranous_colitis
+renal_injury
+nephropathy
+renal_tubular_disorder
+rash_erythematous
+rash_macular
+coagulopathy
+respiratory_acidosis
+prostate_cancer

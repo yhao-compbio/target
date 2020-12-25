@@ -1,0 +1,107 @@
+adverse_event	pathway	size	p_value	adjusted_p_value
+arrhythmia	inhibitory postsynaptic potential	12	4.4194089901697e-07	0.00131565805637352
+arrhythmia	positive regulation of vasoconstriction	33	1.18102440270005e-05	0.0175795482341903
+arrhythmia	regulation of synaptic vesicle exocytosis	57	5.05655639594758e-05	0.0423521345082275
+arrhythmia	nervous system process	57	5.69057904040678e-05	0.0423521345082275
+cardiac arrest	inhibitory postsynaptic potential	12	6.20473780897373e-07	0.00184715044573148
+myoclonus	response to cocaine	35	1.15183850586275e-07	0.000342902323195341
+myoclonus	adenylate cyclase-activating adrenergic receptor signaling pathway	20	2.78070242515587e-07	0.000413907555984451
+myoclonus	positive regulation of phosphatidylinositol 3-kinase signaling	100	4.56129489857246e-07	0.000452632497101674
+myoclonus	response to morphine	26	1.70719433932121e-06	0.00115048454911663
+myoclonus	negative regulation of blood pressure	27	1.99901131428555e-06	0.00115048454911663
+myoclonus	excitatory postsynaptic potential	65	2.31874615206577e-06	0.00115048454911663
+myoclonus	negative regulation of synaptic transmission, glutamatergic	12	4.40793590974336e-06	0.00187463217190086
+myoclonus	synaptic transmission, dopaminergic	12	6.04623107827835e-06	0.00224995374000433
+myoclonus	positive regulation of cell growth	86	8.06593815115165e-06	0.00266803309733094
+myoclonus	positive regulation of phospholipase C activity	13	1.0429434197114e-05	0.00310484256048083
+myoclonus	positive regulation of renal sodium excretion	14	1.32416847885918e-05	0.00358368141960345
+myoclonus	prepulse inhibition	15	1.65120323346304e-05	0.0040963600216829
+myoclonus	regulation of synaptic vesicle exocytosis	57	2.47438545528036e-05	0.00566634269259203
+myoclonus	cellular defense response	53	3.12230868613089e-05	0.00663936639900833
+myoclonus	phosphatidylinositol-mediated signaling	58	3.61816724061734e-05	0.00715751291830154
+myoclonus	negative regulation of adenylate cyclase activity	21	4.08725964431059e-05	0.00715751291830154
+myoclonus	positive regulation of cardiac muscle hypertrophy	25	4.08725964431059e-05	0.00715751291830154
+myoclonus	positive regulation of MAP kinase activity	75	5.45262152929129e-05	0.0090180301626112
+myoclonus	positive regulation of long-term synaptic potentiation	25	6.30362534769168e-05	0.00980690014017801
+myoclonus	vascular endothelial growth factor receptor signaling pathway	93	6.5884448372039e-05	0.00980690014017801
+myoclonus	arachidonic acid secretion	25	7.18672033136702e-05	0.0100617362134971
+myoclonus	circadian regulation of gene expression	85	7.43561292230218e-05	0.0100617362134971
+myoclonus	positive regulation of reactive oxygen species metabolic process	28	0.000103107932896379	0.0133457528796748
+myoclonus	adenylate cyclase-inhibiting dopamine receptor signaling pathway	13	0.000112892040742066	0.0137182224255723
+myoclonus	positive regulation of mitotic nuclear division	36	0.000115201733503294	0.0137182224255723
+myoclonus	ERBB2 signaling pathway	32	0.000156925063692227	0.01796791979276
+myoclonus	regulation of circadian sleep/wake cycle, sleep	10	0.000168967151418958	0.0186301929546014
+myoclonus	response to amphetamine	35	0.000189555306507437	0.0195241363591705
+myoclonus	calcium-mediated signaling	97	0.000190191452608648	0.0195241363591705
+myoclonus	positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway	41	0.000207397179163718	0.0199998909417889
+myoclonus	locomotory behavior	88	0.000208262216726724	0.0199998909417889
+myoclonus	one-carbon metabolic process	41	0.00024626869323685	0.0229106843676907
+myoclonus	phosphatidylinositol 3-kinase signaling	44	0.000267351159393983	0.0241183151974511
+myoclonus	phospholipase C-activating dopamine receptor signaling pathway	10	0.000314025649061153	0.0267101244930015
+myoclonus	regulation of establishment of endothelial barrier	10	0.000314025649061153	0.0267101244930015
+myoclonus	bicarbonate transport	74	0.000390261006281165	0.0299831185975275
+myoclonus	cAMP catabolic process	10	0.000402863535069231	0.0299831185975275
+myoclonus	G protein-coupled adenosine receptor signaling pathway	10	0.000402863535069231	0.0299831185975275
+myoclonus	positive regulation of T-helper 1 type immune response	15	0.000402863535069231	0.0299831185975275
+myoclonus	regulation of feeding behavior	10	0.000402863535069231	0.0299831185975275
+myoclonus	collagen catabolic process	65	0.000418518301294166	0.0303885117793349
+myoclonus	negative regulation of voltage-gated calcium channel activity	12	0.000502477434859102	0.0353833961711027
+myoclonus	negative regulation of protein kinase B signaling	57	0.000511080294040112	0.0353833961711027
+myoclonus	inhibitory postsynaptic potential	12	0.000612795480143729	0.0414611850997246
+myoclonus	adenylate cyclase-modulating G protein-coupled receptor signaling pathway	53	0.000653551170611324	0.0432360407757758
+myoclonus	behavioral response to cocaine	13	0.000733746152819275	0.0445788223865915
+myoclonus	diet induced thermogenesis	12	0.000733746152819275	0.0445788223865915
+myoclonus	embryonic morphogenesis	12	0.000733746152819275	0.0445788223865915
+myoclonus	negative regulation of systemic arterial blood pressure	12	0.000733746152819275	0.0445788223865915
+myoclonus	sensory perception of pain	57	0.000775492581751046	0.0461728283174573
+myoclonus	G protein-coupled receptor internalization	18	0.000865258283477851	0.048601394526671
+myoclonus	negative regulation of cytosolic calcium ion concentration	14	0.000865258283477851	0.048601394526671
+myoclonus	positive regulation of synaptic transmission, GABAergic	13	0.000865258283477851	0.048601394526671
+pseudomembranous colitis	response to amyloid-beta	17	1.70987449194802e-07	0.000509029636252925
+pseudomembranous colitis	learning or memory	75	1.57078485118341e-05	0.0233811325098651
+nephropathy	intracellular steroid hormone receptor signaling pathway	13	1.0144247096207e-06	0.00301994236054081
+nephropathy	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	66	6.69651068064832e-06	0.00996775614814502
+rash erythematous	amyloid-beta clearance	26	1.67681893386977e-06	0.00499188996613029
+rash erythematous	peptidyl-tyrosine autophosphorylation	44	3.20555279707875e-05	0.0477146533845172
+rash macular	positive regulation of phosphatidylinositol 3-kinase signaling	100	2.09332870792978e-08	6.23183956350696e-05
+rash macular	peptidyl-tyrosine autophosphorylation	44	8.58861719342084e-07	0.00127841566924069
+rash macular	cellular response to fluid shear stress	12	1.75200199765811e-06	0.00173856998234273
+rash macular	amyloid-beta clearance	26	2.89053793851424e-06	0.00215128286073922
+rash macular	extracellular matrix disassembly	72	1.00546711434078e-05	0.00598655119878498
+rash macular	response to tumor necrosis factor	31	3.15159828296795e-05	0.015637180147326
+rash macular	positive regulation of nitric oxide biosynthetic process	44	7.00412375618177e-05	0.029787537745933
+rash macular	hormone-mediated signaling pathway	52	0.000122868686074224	0.0422149499157879
+rash macular	cellular response to cytokine stimulus	56	0.000176005242311667	0.0422149499157879
+rash macular	dendritic spine maintenance	12	0.000184178355945085	0.0422149499157879
+rash macular	positive regulation of programmed cell death	11	0.000184178355945085	0.0422149499157879
+rash macular	glucose metabolic process	63	0.000196551574636107	0.0422149499157879
+rash macular	endothelial cell differentiation	11	0.000224814463774878	0.0422149499157879
+rash macular	regulation of neuroinflammatory response	12	0.000224814463774878	0.0422149499157879
+rash macular	cellular response to growth factor stimulus	59	0.000242178424461971	0.0422149499157879
+rash macular	response to glucocorticoid	60	0.000254563434019985	0.0422149499157879
+rash macular	positive regulation of ceramide biosynthetic process	12	0.000269426956130322	0.0422149499157879
+rash macular	positive regulation of podosome assembly	12	0.000269426956130322	0.0422149499157879
+rash macular	transcytosis	13	0.000269426956130322	0.0422149499157879
+rash macular	replicative senescence	13	0.000318000154082267	0.0473343229351454
+coagulopathy	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	66	4.72927009025817e-13	1.40790370586986e-09
+coagulopathy	phospholipase C-activating G protein-coupled receptor signaling pathway	65	3.79957467001407e-08	5.65566689631595e-05
+coagulopathy	sensory perception of pain	57	6.89969838097802e-07	0.000684680069339053
+coagulopathy	positive regulation of vasoconstriction	33	2.69837458852059e-06	0.00200826528750645
+coagulopathy	replicative senescence	13	8.49337161736168e-06	0.00505695346097715
+coagulopathy	adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	69	3.90515689820255e-05	0.019376086809915
+coagulopathy	extracellular matrix disassembly	72	5.69069067099181e-05	0.0211764826594283
+coagulopathy	regulation of blood pressure	73	5.69069067099181e-05	0.0211764826594283
+coagulopathy	G protein-coupled serotonin receptor signaling pathway	25	6.64791798797993e-05	0.0219898353891292
+coagulopathy	regulation of sensory perception of pain	32	0.000104667295523018	0.0311594538772026
+coagulopathy	positive regulation of cell growth	86	0.000126803147334286	0.0323164928896718
+coagulopathy	DNA damage checkpoint	40	0.000141120056286776	0.0323164928896718
+coagulopathy	regulation of postsynaptic membrane potential	32	0.000141120056286776	0.0323164928896718
+coagulopathy	activation of phospholipase C activity	36	0.000169489288123378	0.036040686481664
+respiratory acidosis	positive regulation of blood coagulation	16	4.91109213079065e-06	0.0146203212733638
+respiratory acidosis	protein processing	79	1.05162057124977e-05	0.0156533722030529
+respiratory acidosis	extracellular matrix disassembly	72	2.0271090282718e-05	0.0201156785905505
+respiratory acidosis	adipose tissue development	31	5.32966987448967e-05	0.025051937320273
+respiratory acidosis	positive regulation of phosphatidylinositol 3-kinase signaling	100	5.76371286204227e-05	0.025051937320273
+respiratory acidosis	ERBB2 signaling pathway	32	5.89061341088044e-05	0.025051937320273
+respiratory acidosis	positive regulation of vasoconstriction	33	5.89061341088044e-05	0.025051937320273
+prostate cancer	adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway	69	4.1923805200939e-06	0.0124807168083195
