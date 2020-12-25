@@ -30,8 +30,6 @@ Last, we studied the connections between target genes and associated diseases. F
 
 ![select_targets_disease](data/target_disease/descriptor_all_all_adverse_event_select_features_symbol_connection_enrich.png)
 
-Detailed documentation about the source dataset can be found [here](downloads/README.md). Detailed documentation about the code can be found [here](src/README.md). Detailed documentation about the generated dataset can be found [here](data/README.md).
-
 Detailed documentation about our results and figures can be found at [`data/`](data/) and [`plot/`](plot/), respectively.
 
 ## Conclusion
