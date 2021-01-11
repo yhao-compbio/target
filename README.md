@@ -45,4 +45,4 @@ Through these analyses, we demonstrated that not only can our feature selection 
 
 + GTEx Consortium. The GTEx Consortium atlas of genetic regulatory effects across human tissues. Science. 2020 Sep 11;369(6509):1318-30.
 
-+ Rodchenkov I, Babur O, Luna A, Aksoy BA, Wong JV, Fong D, Franz M, Siper MC, Cheung M, Wrana M, Mistry H. Pathway Commons 2019 Update: integration, analysis and exploration of pathway data. Nucleic acids research. 2020 Jan 8;48(D1):D489-97.
++ Davis AP, Grondin CJ, Johnson RJ, Sciaky D, Wiegers J, Wiegers TC, Mattingly CJ. Comparative Toxicogenomics Database (CTD): update 2021. Nucleic Acids Research. 2021 Jan 8;49(D1):D1138-43.
