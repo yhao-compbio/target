@@ -11,8 +11,8 @@ import seaborn as sns
 
 
 ## 0. Input arguments
-sim_file	<- 'data/target_similarity/descriptor_all_select_features_mc_0.85_function_similarity_group.tsv'
-plot_file	<- 'plot/target_similarity/descriptor_all_select_features_mc_0.85_function_similarity_group_boxplot.pdf'
+sim_file	= 'data/target_similarity/descriptor_all_select_features_mc_0.85_function_similarity_group.tsv'
+plot_file	= 'plot/target_similarity/descriptor_all_select_features_mc_0.85_function_similarity_group_boxplot.pdf'
 
 ## 1. Obtain computed feature similarity and function groups of target pairs 
 # read in data frame of model feature similarity between target pairs  

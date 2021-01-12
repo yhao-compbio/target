@@ -13,9 +13,9 @@ import seaborn as sns
 
 
 ## 0. Input arguments 
-exp_file	<- 'data/target_expression/GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_uniprot_median_tpm_adjust_all_adverse_event_select_targets_compare_de.tsv'
-pv_file		<- 'data/target_expression/GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_uniprot_median_tpm_adjust_all_adverse_event_select_targets_compare_pv.tsv'
-plot_file	<- 'plot/target_expression/descriptor_all_all_adverse_event_select_targets_de_compare.pdf'
+exp_file	= 'data/target_expression/GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_uniprot_median_tpm_adjust_all_adverse_event_select_targets_compare_de.tsv'
+pv_file		= 'data/target_expression/GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_uniprot_median_tpm_adjust_all_adverse_event_select_targets_compare_pv.tsv'
+plot_file	= 'plot/target_expression/descriptor_all_all_adverse_event_select_targets_de_compare.pdf'
 
 ## 1. Obtain differential expression data to be plotted
 # read in data frame of differential expression values of selected target genes & all measured genes 
@@ -83,7 +83,7 @@ for i in range(0, len(all_tissues)):
 plt.plot(sig_x, sig_y, marker = '*', color = 'r', linestyle = 'None', markersize = 15)
 # add axis labels
 ax.set(xlabel = None)
-ax.set(ylabel = 'Differential expression')
+ax.set(ylabel = 'Expression')
 # add legends showing the color patches of all tissues 
 plt.legend(handles = patchList, loc = 'upper left', frameon = False, ncol = 4)
 plt.plot(-0.3, 2.15, marker = '*', color = 'r', linestyle = 'None', markersize = 15)
