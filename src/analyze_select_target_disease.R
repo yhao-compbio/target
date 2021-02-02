@@ -11,8 +11,8 @@ source("src/functions.R");
 id_map_file	<- "downloads/id_map/hgnc_gene_names.tsv";
 bg_file		<- "data/target_disease/CTD_genes_diseases_direct_evidence_genes.txt";
 connection_file	<- "data/target_disease/CTD_genes_diseases_direct_evidence_diseases_filtered_connection_map.tsv"
-select_file	<- "https://raw.githubusercontent.com/yhao-compbio/TTox/master/data/compound_target_all_adverse_event_feature_select_implementation/descriptor_all_all_adverse_event_select_features.tsv"
-map_file	<- "data/target_disease/adverse_event_disease_term_map.tsv"
+select_file	<- "https://raw.githubusercontent.com/yhao-compbio/TTox/master/data/compound_target_all_adverse_event_feature_select_implementation/descriptor_all_all_adverse_event_select_features.tsv";
+map_file	<- "data/target_disease/adverse_event_disease_term_map.tsv";
 output_file	<- "data/target_disease/descriptor_all_all_adverse_event_select_features";
 
 ## 1. Obtain full map bewteen Uniprot IDs and symbol IDs 
@@ -34,15 +34,9 @@ colnames(id_full_map_df) <- c("Approved.symbol", "UniProt.ID.supplied.by.UniProt
 ## 2. Map selected target genes to their symbol IDs
 # read in data frame of selected features 
 ae_select_features_df <- read.delim(file = select_file, sep = "\t", header = T);
-# read in adverse event ~ disease group map 
-ae_map_df <- read.delim(file = map_file, sep = "\t", header = T);
-# map selected targets of adverse events to their associated disease groups
-ae_select_features_map_df <- merge(ae_select_features_df, ae_map_df, by = "adverse_event");
-asfmd_od <- order(ae_select_features_map_df$disease_group);
-ae_select_features_map_df <- ae_select_features_map_df[asfmd_od, ];
 # obtain the selected features of each adverse event of interest  
-ae_select_features <- lapply(ae_select_features_map_df$select_features, function(asfdsf) strsplit(asfdsf, ",")[[1]]);
-names(ae_select_features) <- ae_select_features_map_df$adverse_event;
+ae_select_features <- lapply(ae_select_features_df$select_features, function(asfdsf) strsplit(asfdsf, ",")[[1]]);
+names(ae_select_features) <- ae_select_features_df$adverse_event;
 # map Uniprot IDs of selected features to their symbol IDs
 ae_select_targets <- mapply(function(asf, nasf, asfmddg){
 	# iterate by adverse event
@@ -52,13 +46,23 @@ ae_select_targets <- mapply(function(asf, nasf, asfmddg){
 		else	return(id_full_map_df$Approved.symbol[[a_id]])
 	});
 	# combine mapped symbol IDs along with other info (adverse event, disease group, Uniprot ID) 
-	asf_df <- data.frame(rep(nasf, length(asf)), rep(asfmddg, length(asf)), asf, asf_sym);
-	colnames(asf_df) <- c("adverse_event", "disease_group", "select_target_uniprot", "select_target_symbol");	
+	asf_df <- data.frame(rep(nasf, length(asf)), asf, asf_sym);
+	colnames(asf_df) <- c("adverse_event", "select_target_uniprot", "select_target_symbol");	
 	return(asf_df);
-}, ae_select_features, names(ae_select_features), ae_select_features_map_df$disease_group, SIMPLIFY= F);
-# Combine mapped results from all adverse events, output in data frame 
-ae_select_targets_df <- do.call(rbind, ae_select_targets);
-write.table(ae_select_targets_df, file = paste(output_file, "_symbol.tsv", sep = ""), sep = "\t", col.names = T, row.names = F, quote = F);
+}, ae_select_features, names(ae_select_features), SIMPLIFY= F);
+# combine mapped results from all adverse events, output in data frame 
+all_ae_select_targets_df <- do.call(rbind, ae_select_targets);
+write.table(all_ae_select_targets_df, file = paste(output_file, "_symbol_all.tsv", sep = ""), sep = "\t", col.names = T, row.names = F, quote = F);
+
+## 3. 
+# read in adverse event ~ disease group map 
+ae_map_df <- read.delim(file = map_file, sep = "\t", header = T);
+# map selected targets of adverse events to their associated disease groups 
+ae_select_targets_df <- merge(all_ae_select_targets_df, ae_map_df, by = "adverse_event");
+ae_select_targets_df <- ae_select_targets_df[,c("adverse_event", "disease_group", "select_target_uniprot", "select_target_symbol")];
+ae_select_targets_od <- order(ae_select_targets_df$disease_group, ae_select_targets_df$adverse_event, ae_select_targets_df$select_target_uniprot);
+ae_select_targets_df <- ae_select_targets_df[ae_select_targets_od, ];
+write.table(all_ae_select_targets_df, file = paste(output_file, "_symbol.tsv", sep = ""), sep = "\t", col.names = T, row.names = F, quote = F);
 
 ## 3. Connect selected targets to associated diseases with direct evidence supporting  
 # read in CTD gene-disease connection data    
@@ -108,7 +112,7 @@ target_disease_enrich <- mapply(function(asfmdae, asfmddg){
 	ct22_test <- fisher.test(matrix(ct22, 2, 2, byrow = T), alternative = "greater")
 	result_vec <- c(ct22, ct22_test$estimate, ct22_test$p.value);
 	return(result_vec);
-}, ae_select_features_map_df$adverse_event, ae_select_features_map_df$disease_group);
+}, ae_map_df$adverse_event, ae_map_df$disease_group);
 # combine enrichment analysis results from all adverse events of interest 
 target_disease_enrich <- data.frame(t(target_disease_enrich));
 colnames(target_disease_enrich) <- c("n_selected_targets_w_direct_evidence", "n_selected_targets_wo_direct_evidence", "n_other_targets_w_direct_evidence", "n_other_targets_wo_direct_evidence", "odds_ratio", "p_value");
@@ -116,7 +120,9 @@ colnames(target_disease_enrich) <- c("n_selected_targets_w_direct_evidence", "n_
 target_disease_enrich$fdr <- p.adjust(target_disease_enrich$p_value, method = "fdr");
 target_disease_enrich <- round(target_disease_enrich, 3);
 # output enrichment analysis result in data frame 
-target_disease_enrich1 <- data.frame(ae_select_features_map_df$disease_group, ae_select_features_map_df$adverse_event, target_disease_enrich);
-colnames(target_disease_enrich1) <- c("group", "adverse_event_term", colnames(target_disease_enrich));
+target_disease_enrich1 <- data.frame(ae_map_df$disease_group, ae_map_df$adverse_event, target_disease_enrich);
+colnames(target_disease_enrich1) <- c("organ", "adverse_event_term", colnames(target_disease_enrich));
+tde_od <- order(target_disease_enrich1$fdr);
+target_disease_enrich1 <- target_disease_enrich1[tde_od,];
 write.table(target_disease_enrich1, file = paste(output_file, "_symbol_connection_enrich.tsv", sep = ""), sep = "\t", col.names = T, row.names = F, quote = F);
 

@@ -1,363 +1,387 @@
 adverse_event	disease_group	select_target_uniprot	select_target_symbol	select_target_disease
-pseudomembranous_colitis	colon	P00533	EGFR	colonic neoplasms
-pseudomembranous_colitis	colon	P00740	F9	NA
-pseudomembranous_colitis	colon	P08253	MMP2	NA
-pseudomembranous_colitis	colon	P08254	MMP3	NA
-pseudomembranous_colitis	colon	P14324	FDPS	NA
-pseudomembranous_colitis	colon	P20648	ATP4A	NA
-pseudomembranous_colitis	colon	P25090	FPR2	NA
-pseudomembranous_colitis	colon	P35346	SSTR5	NA
-pseudomembranous_colitis	colon	P36544	CHRNA7	NA
-pseudomembranous_colitis	colon	P42574	CASP3	colitis, ulcerative
-pseudomembranous_colitis	colon	P42892	ECE1	NA
-pseudomembranous_colitis	colon	P43116	PTGER2	NA
-pseudomembranous_colitis	colon	Q04759	PRKCQ	NA
-pseudomembranous_colitis	colon	Q14432	PDE3A	NA
-pseudomembranous_colitis	colon	Q8TCT1	PHOSPHO1	NA
-arrhythmia	heart	O14746	TERT	coronary artery disease
-arrhythmia	heart	P00374	DHFR	NA
-arrhythmia	heart	P00533	EGFR	cardiomyopathy, dilated
-arrhythmia	heart	P07949	RET	NA
-arrhythmia	heart	P14867	GABRA1	NA
-arrhythmia	heart	P14920	DAO	NA
-arrhythmia	heart	P19634	SLC9A1	cardiomyopathy, hypertrophic;heart failure;ventricular remodeling
-arrhythmia	heart	P23458	JAK1	NA
-arrhythmia	heart	P25116	F2R	NA
-arrhythmia	heart	P29274	ADORA2A	cardiomyopathies;ventricular dysfunction
-arrhythmia	heart	P30556	AGTR1	heart failure
-arrhythmia	heart	P31644	GABRA5	NA
-arrhythmia	heart	P35348	ADRA1A	ventricular remodeling
-arrhythmia	heart	P37058	HSD17B3	NA
-arrhythmia	heart	P39900	MMP12	NA
-arrhythmia	heart	P42892	ECE1	heart defects, congenital;hirschsprung disease, cardiac defects, and autonomic dysfunction
-arrhythmia	heart	P43681	CHRNA4	NA
-arrhythmia	heart	P47712	PLA2G4A	NA
-arrhythmia	heart	P48147	PREP	NA
-arrhythmia	heart	P49286	MTNR1B	NA
-arrhythmia	heart	P55210	CASP7	myocardial reperfusion injury
-arrhythmia	heart	Q13002	GRIK2	NA
-arrhythmia	heart	Q16602	CALCRL	NA
-arrhythmia	heart	Q16769	QPCT	NA
-arrhythmia	heart	Q99500	S1PR3	NA
-arrhythmia	heart	Q9UBN7	HDAC6	NA
-cardiac_arrest	heart	O43570	CA12	NA
-cardiac_arrest	heart	O94925	GLS	NA
-cardiac_arrest	heart	P00748	F12	NA
-cardiac_arrest	heart	P00749	PLAU	coronary disease;heart rupture, post-infarction;myocardial infarction;ventricular fibrillation
-cardiac_arrest	heart	P04035	HMGCR	NA
-cardiac_arrest	heart	P04150	NR3C1	atrial fibrillation
-cardiac_arrest	heart	P07384	CAPN1	NA
-cardiac_arrest	heart	P07477	PRSS1	NA
-cardiac_arrest	heart	P08246	ELANE	NA
-cardiac_arrest	heart	P09467	FBP1	NA
-cardiac_arrest	heart	P14920	DAO	NA
-cardiac_arrest	heart	P24530	EDNRB	heart failure
-cardiac_arrest	heart	P25100	ADRA1D	heart failure, diastolic
-cardiac_arrest	heart	P29274	ADORA2A	cardiomyopathies;ventricular dysfunction
-cardiac_arrest	heart	P32245	MC4R	NA
-cardiac_arrest	heart	P35348	ADRA1A	ventricular remodeling
-cardiac_arrest	heart	P37058	HSD17B3	NA
-cardiac_arrest	heart	P37268	FDFT1	NA
-cardiac_arrest	heart	P42785	PRCP	NA
-cardiac_arrest	heart	P43681	CHRNA4	NA
-cardiac_arrest	heart	P48147	PREP	NA
-cardiac_arrest	heart	P48736	PIK3CG	cardiomegaly;heart failure
-cardiac_arrest	heart	P50406	HTR6	NA
-cardiac_arrest	heart	P55072	VCP	NA
-cardiac_arrest	heart	P62942	FKBP1A	NA
-cardiac_arrest	heart	Q04759	PRKCQ	NA
-cardiac_arrest	heart	Q13002	GRIK2	NA
-cardiac_arrest	heart	Q9Y5N1	HRH3	NA
-cardiac_arrest	heart	Q9Y5Y4	PTGDR2	NA
-nephropathy	kidney	P00519	ABL1	NA
-nephropathy	kidney	P00742	F10	NA
-nephropathy	kidney	P00749	PLAU	NA
-nephropathy	kidney	P03956	MMP1	NA
-nephropathy	kidney	P04150	NR3C1	NA
-nephropathy	kidney	P05067	APP	NA
-nephropathy	kidney	P06401	PGR	NA
-nephropathy	kidney	P07550	ADRB2	NA
-nephropathy	kidney	P07900	HSP90AA1	NA
-nephropathy	kidney	P08473	MME	renal insufficiency
-nephropathy	kidney	P11229	CHRM1	NA
-nephropathy	kidney	P11309	PIM1	NA
-nephropathy	kidney	P18031	PTPN1	NA
-nephropathy	kidney	P21452	TACR2	NA
-nephropathy	kidney	P25101	EDNRA	NA
-nephropathy	kidney	P32745	SSTR3	NA
-nephropathy	kidney	P42892	ECE1	NA
-nephropathy	kidney	P43119	PTGIR	NA
-nephropathy	kidney	P43166	CA7	NA
-nephropathy	kidney	P48736	PIK3CG	NA
-nephropathy	kidney	P49286	MTNR1B	NA
-nephropathy	kidney	P49768	PSEN1	NA
-nephropathy	kidney	P51946	CCNH	NA
-nephropathy	kidney	P53350	PLK1	NA
-nephropathy	kidney	P62937	PPIA	NA
-nephropathy	kidney	Q04759	PRKCQ	NA
-nephropathy	kidney	Q13547	HDAC1	NA
-nephropathy	kidney	Q7Z601	GPR142	NA
-nephropathy	kidney	Q86X55	CARM1	NA
-nephropathy	kidney	Q92731	ESR2	NA
-nephropathy	kidney	Q9GZT9	EGLN1	NA
-nephropathy	kidney	Q9ULX7	CA14	NA
-nephropathy	kidney	Q9UM73	ALK	carcinoma, renal cell
-nephropathy	kidney	Q9Y6L6	SLCO1B1	NA
-renal_injury	kidney	O14757	CHEK1	NA
-renal_injury	kidney	P00374	DHFR	NA
-renal_injury	kidney	P04035	HMGCR	kidney failure, chronic
+colitis	colon	O14965	AURKA	NA
+colitis	colon	O60341	KDM1A	colonic neoplasms
+colitis	colon	O75173	ADAMTS4	NA
+colitis	colon	O95822	MLYCD	NA
+colitis	colon	O96017	CHEK2	NA
+colitis	colon	P06213	INSR	NA
+colitis	colon	P07550	ADRB2	NA
+colitis	colon	P09874	PARP1	NA
+colitis	colon	P15538	CYP11B1	NA
+colitis	colon	P19634	SLC9A1	NA
+colitis	colon	P29274	ADORA2A	NA
+colitis	colon	P34972	CNR2	NA
+colitis	colon	P41145	OPRK1	NA
+colitis	colon	P42574	CASP3	colitis, ulcerative
+colitis	colon	P43004	SLC1A2	NA
+colitis	colon	P43116	PTGER2	NA
+colitis	colon	P47900	P2RY1	NA
+colitis	colon	P48147	PREP	NA
+colitis	colon	P49146	NPY2R	NA
+colitis	colon	P51946	CCNH	colonic neoplasms
+colitis	colon	P55263	ADK	NA
+colitis	colon	Q05586	GRIN1	NA
+colitis	colon	Q6V1X1	DPP8	NA
+colitis	colon	Q86TI2	DPP9	NA
+atrial_fibrillation	heart	O95822	MLYCD	NA
+atrial_fibrillation	heart	P00374	DHFR	NA
+atrial_fibrillation	heart	P04035	HMGCR	NA
+atrial_fibrillation	heart	P05412	JUN	NA
+atrial_fibrillation	heart	P06213	INSR	NA
+atrial_fibrillation	heart	P07900	HSP90AA1	NA
+atrial_fibrillation	heart	P14324	FDPS	NA
+atrial_fibrillation	heart	P15056	BRAF	cardiofaciocutaneous syndrome
+atrial_fibrillation	heart	P16455	MGMT	NA
+atrial_fibrillation	heart	P17612	PRKACA	NA
+atrial_fibrillation	heart	P22303	ACHE	NA
+atrial_fibrillation	heart	P23458	JAK1	NA
+atrial_fibrillation	heart	P27338	MAOB	NA
+atrial_fibrillation	heart	P35498	SCN1A	NA
+atrial_fibrillation	heart	P37268	FDFT1	NA
+atrial_fibrillation	heart	P48147	PREP	NA
+atrial_fibrillation	heart	P49286	MTNR1B	NA
+atrial_fibrillation	heart	P51681	CCR5	NA
+atrial_fibrillation	heart	Q04759	PRKCQ	NA
+atrial_fibrillation	heart	Q13002	GRIK2	NA
+atrial_fibrillation	heart	Q16769	QPCT	NA
+atrial_fibrillation	heart	Q6V1X1	DPP8	NA
+atrial_fibrillation	heart	Q86TI2	DPP9	NA
+atrial_fibrillation	heart	Q86X55	CARM1	NA
+atrial_fibrillation	heart	Q92731	ESR2	arrhythmias, cardiac;atrial fibrillation;coronary artery disease;coronary disease
+atrial_fibrillation	heart	Q96EB6	SIRT1	atrial fibrillation;heart diseases;heart failure;myocardial reperfusion injury
+atrial_fibrillation	heart	Q9BUB5	MKNK1	NA
+ventricular_dysfunction	heart	O14672	ADAM10	NA
+ventricular_dysfunction	heart	P07858	CTSB	NA
+ventricular_dysfunction	heart	P17612	PRKACA	NA
+ventricular_dysfunction	heart	P19634	SLC9A1	cardiomyopathy, hypertrophic;heart failure;ventricular remodeling
+ventricular_dysfunction	heart	P31645	SLC6A4	NA
+ventricular_dysfunction	heart	P35346	SSTR5	NA
+ventricular_dysfunction	heart	P42574	CASP3	heart valve diseases;myocardial infarction;myocardial reperfusion injury
+ventricular_dysfunction	heart	P43004	SLC1A2	NA
+ventricular_dysfunction	heart	P43116	PTGER2	NA
+ventricular_dysfunction	heart	P49768	PSEN1	cardiomyopathies;cardiomyopathy, dilated;cardiomyopathy, dilated, 1u
+ventricular_dysfunction	heart	P62937	PPIA	NA
+ventricular_dysfunction	heart	Q03181	PPARD	cardiomegaly;cardiomyopathies
+ventricular_dysfunction	heart	Q9Y2D0	CA5B	NA
+renal_injury	kidney	O14672	ADAM10	NA
+renal_injury	kidney	O43570	CA12	NA
+renal_injury	kidney	O96017	CHEK2	NA
+renal_injury	kidney	P00519	ABL1	NA
+renal_injury	kidney	P03952	KLKB1	NA
 renal_injury	kidney	P04150	NR3C1	NA
-renal_injury	kidney	P04626	ERBB2	carcinoma, renal cell
-renal_injury	kidney	P12821	ACE	diabetic nephropathies;kidney diseases;kidney failure, chronic;renal insufficiency;renal tubular dysgenesis
+renal_injury	kidney	P06401	PGR	NA
+renal_injury	kidney	P07711	CTSL	NA
+renal_injury	kidney	P08254	MMP3	NA
+renal_injury	kidney	P08588	ADRB1	NA
+renal_injury	kidney	P10275	AR	NA
+renal_injury	kidney	P11086	PNMT	NA
+renal_injury	kidney	P14324	FDPS	NA
 renal_injury	kidney	P15056	BRAF	kidney neoplasms
+renal_injury	kidney	P18405	SRD5A1	NA
 renal_injury	kidney	P19634	SLC9A1	NA
-renal_injury	kidney	P25101	EDNRA	NA
+renal_injury	kidney	P20701	ITGAL	NA
+renal_injury	kidney	P20839	IMPDH1	NA
+renal_injury	kidney	P21918	DRD5	NA
+renal_injury	kidney	P22303	ACHE	carcinoma, renal cell
+renal_injury	kidney	P22748	CA4	NA
+renal_injury	kidney	P23921	RRM1	NA
 renal_injury	kidney	P25116	F2R	NA
-renal_injury	kidney	P35367	HRH1	NA
+renal_injury	kidney	P26010	ITGB7	NA
+renal_injury	kidney	P27487	DPP4	NA
+renal_injury	kidney	P28845	HSD11B1	NA
+renal_injury	kidney	P29275	ADORA2B	NA
+renal_injury	kidney	P29371	TACR3	NA
+renal_injury	kidney	P31391	SSTR4	NA
+renal_injury	kidney	P35346	SSTR5	NA
 renal_injury	kidney	P35498	SCN1A	NA
 renal_injury	kidney	P42892	ECE1	NA
-renal_injury	kidney	P43490	NAMPT	NA
-renal_injury	kidney	P43681	CHRNA4	NA
-renal_injury	kidney	P45452	MMP13	NA
-renal_injury	kidney	P47989	XDH	NA
+renal_injury	kidney	P43004	SLC1A2	NA
 renal_injury	kidney	P48147	PREP	NA
-renal_injury	kidney	P48736	PIK3CG	NA
-renal_injury	kidney	P49286	MTNR1B	NA
-renal_injury	kidney	P78536	ADAM17	NA
+renal_injury	kidney	P49146	NPY2R	NA
+renal_injury	kidney	P49682	CXCR3	NA
+renal_injury	kidney	P50406	HTR6	NA
+renal_injury	kidney	P98170	XIAP	NA
 renal_injury	kidney	Q00975	CACNA1B	NA
-renal_injury	kidney	Q04759	PRKCQ	NA
 renal_injury	kidney	Q13547	HDAC1	NA
 renal_injury	kidney	Q13946	PDE7A	NA
-renal_injury	kidney	Q15722	LTB4R	NA
-renal_injury	kidney	Q8TEK3	DOT1L	NA
+renal_injury	kidney	Q14432	PDE3A	NA
+renal_injury	kidney	Q15059	BRD3	NA
+renal_injury	kidney	Q16581	C3AR1	NA
 renal_injury	kidney	Q92731	ESR2	NA
-renal_injury	kidney	Q9UBN7	HDAC6	NA
+renal_injury	kidney	Q9Y2D0	CA5B	NA
 renal_injury	kidney	Q9Y5N1	HRH3	NA
-renal_tubular_disorder	kidney	O60674	JAK2	NA
-renal_tubular_disorder	kidney	O60911	CTSV	NA
-renal_tubular_disorder	kidney	O95822	MLYCD	NA
-renal_tubular_disorder	kidney	P07384	CAPN1	NA
-renal_tubular_disorder	kidney	P08172	CHRM2	NA
-renal_tubular_disorder	kidney	P08473	MME	renal insufficiency
-renal_tubular_disorder	kidney	P25024	CXCR1	NA
-renal_tubular_disorder	kidney	P25090	FPR2	NA
-renal_tubular_disorder	kidney	P25103	TACR1	NA
-renal_tubular_disorder	kidney	P27487	DPP4	NA
-renal_tubular_disorder	kidney	P28482	MAPK1	kidney neoplasms
-renal_tubular_disorder	kidney	P31645	SLC6A4	NA
-renal_tubular_disorder	kidney	P35498	SCN1A	NA
-renal_tubular_disorder	kidney	P42892	ECE1	NA
-renal_tubular_disorder	kidney	P43004	SLC1A2	NA
-renal_tubular_disorder	kidney	P43116	PTGER2	NA
-renal_tubular_disorder	kidney	P53667	LIMK1	NA
-renal_tubular_disorder	kidney	Q07869	PPARA	kidney diseases;kidney failure, chronic;kidney tubular necrosis, acute
-renal_tubular_disorder	kidney	Q14432	PDE3A	NA
-renal_tubular_disorder	kidney	Q6V1X1	DPP8	NA
-renal_tubular_disorder	kidney	Q9NYA1	SPHK1	NA
-renal_tubular_disorder	kidney	Q9UM73	ALK	carcinoma, renal cell
-respiratory_acidosis	lung	O14746	TERT	carcinoma, non-small-cell lung;idiopathic pulmonary fibrosis;lung neoplasms;pulmonary fibrosis and/or bone marrow failure, telomere-related, 1
-respiratory_acidosis	lung	O94925	GLS	NA
-respiratory_acidosis	lung	O95136	S1PR2	NA
-respiratory_acidosis	lung	P00748	F12	NA
-respiratory_acidosis	lung	P00749	PLAU	idiopathic pulmonary fibrosis;pulmonary embolism
-respiratory_acidosis	lung	P06493	CDK1	NA
-respiratory_acidosis	lung	P07339	CTSD	NA
-respiratory_acidosis	lung	P07384	CAPN1	NA
-respiratory_acidosis	lung	P08246	ELANE	NA
-respiratory_acidosis	lung	P08912	CHRM5	NA
-respiratory_acidosis	lung	P11473	VDR	NA
-respiratory_acidosis	lung	P13612	ITGA4	NA
-respiratory_acidosis	lung	P14920	DAO	NA
-respiratory_acidosis	lung	P16109	SELP	NA
-respiratory_acidosis	lung	P17252	PRKCA	NA
-respiratory_acidosis	lung	P22001	KCNA3	NA
-respiratory_acidosis	lung	P23141	CES1	lung neoplasms
-respiratory_acidosis	lung	P23921	RRM1	adenocarcinoma of lung;carcinoma, non-small-cell lung
-respiratory_acidosis	lung	P23975	SLC6A2	NA
-respiratory_acidosis	lung	P25105	PTAFR	NA
-respiratory_acidosis	lung	P25116	F2R	NA
-respiratory_acidosis	lung	P27815	PDE4A	NA
-respiratory_acidosis	lung	P29275	ADORA2B	NA
-respiratory_acidosis	lung	P32246	CCR1	NA
-respiratory_acidosis	lung	P34913	EPHX2	NA
-respiratory_acidosis	lung	P35348	ADRA1A	NA
-respiratory_acidosis	lung	P37058	HSD17B3	NA
-respiratory_acidosis	lung	P39900	MMP12	pulmonary emphysema
-respiratory_acidosis	lung	P42336	PIK3CA	adenocarcinoma of lung;lung neoplasms
-respiratory_acidosis	lung	P43490	NAMPT	NA
-respiratory_acidosis	lung	P49768	PSEN1	NA
-respiratory_acidosis	lung	P50281	MMP14	pulmonary disease, chronic obstructive
-respiratory_acidosis	lung	P50579	METAP2	NA
-respiratory_acidosis	lung	P62942	FKBP1A	NA
-respiratory_acidosis	lung	P62993	GRB2	NA
-respiratory_acidosis	lung	Q03181	PPARD	NA
-respiratory_acidosis	lung	Q07343	PDE4B	NA
-respiratory_acidosis	lung	Q12908	SLC10A2	NA
-respiratory_acidosis	lung	Q13002	GRIK2	carcinoma, non-small-cell lung
-respiratory_acidosis	lung	Q99720	SIGMAR1	NA
-respiratory_acidosis	lung	Q9UBN7	HDAC6	NA
-respiratory_acidosis	lung	Q9Y251	HPSE	NA
-respiratory_acidosis	lung	Q9Y5Y4	PTGDR2	NA
-respiratory_acidosis	lung	Q9Y6L6	SLCO1B1	NA
+renal_injury	kidney	Q9Y5Z0	BACE2	NA
+acute_hepatic_failure	liver	O14672	ADAM10	NA
+acute_hepatic_failure	liver	P07858	CTSB	NA
+acute_hepatic_failure	liver	P07949	RET	NA
+acute_hepatic_failure	liver	P08183	ABCB1	carcinoma, hepatocellular;chemical and drug induced liver injury;liver cirrhosis, experimental
+acute_hepatic_failure	liver	P08908	HTR1A	NA
+acute_hepatic_failure	liver	P09237	MMP7	NA
+acute_hepatic_failure	liver	P10828	THRB	NA
+acute_hepatic_failure	liver	P11229	CHRM1	NA
+acute_hepatic_failure	liver	P13631	RARG	NA
+acute_hepatic_failure	liver	P13726	F3	chemical and drug induced liver injury;liver cirrhosis
+acute_hepatic_failure	liver	P13866	SLC5A1	NA
+acute_hepatic_failure	liver	P14324	FDPS	NA
+acute_hepatic_failure	liver	P14416	DRD2	NA
+acute_hepatic_failure	liver	P17612	PRKACA	non-alcoholic fatty liver disease
+acute_hepatic_failure	liver	P20648	ATP4A	NA
+acute_hepatic_failure	liver	P25100	ADRA1D	NA
+acute_hepatic_failure	liver	P28845	HSD11B1	NA
+acute_hepatic_failure	liver	P30556	AGTR1	NA
+acute_hepatic_failure	liver	P31639	SLC5A2	NA
+acute_hepatic_failure	liver	P31645	SLC6A4	NA
+acute_hepatic_failure	liver	P32238	CCKAR	NA
+acute_hepatic_failure	liver	P32245	MC4R	NA
+acute_hepatic_failure	liver	P35968	KDR	liver neoplasms, experimental
+acute_hepatic_failure	liver	P41145	OPRK1	NA
+acute_hepatic_failure	liver	P47869	GABRA2	NA
+acute_hepatic_failure	liver	P49768	PSEN1	NA
+acute_hepatic_failure	liver	P50579	METAP2	NA
+acute_hepatic_failure	liver	P61073	CXCR4	NA
+acute_hepatic_failure	liver	P98170	XIAP	NA
+acute_hepatic_failure	liver	Q00975	CACNA1B	NA
+acute_hepatic_failure	liver	Q01726	MC1R	NA
+acute_hepatic_failure	liver	Q04759	PRKCQ	NA
+acute_hepatic_failure	liver	Q86X55	CARM1	NA
+acute_hepatic_failure	liver	Q8TEK3	DOT1L	NA
+acute_hepatic_failure	liver	Q99720	SIGMAR1	NA
+acute_hepatic_failure	liver	Q9Y5N1	HRH3	NA
+acute_hepatic_failure	liver	Q9Y5Z0	BACE2	NA
+hepatosplenomegaly	liver	O14965	AURKA	carcinoma, hepatocellular
+hepatosplenomegaly	liver	P03952	KLKB1	NA
+hepatosplenomegaly	liver	P07099	EPHX1	carcinoma, hepatocellular;chemical and drug induced liver injury
+hepatosplenomegaly	liver	P08912	CHRM5	NA
+hepatosplenomegaly	liver	P09874	PARP1	carcinoma, hepatocellular;hepatitis
+hepatosplenomegaly	liver	P15538	CYP11B1	NA
+hepatosplenomegaly	liver	P19634	SLC9A1	NA
+hepatosplenomegaly	liver	P27815	PDE4A	NA
+hepatosplenomegaly	liver	P29274	ADORA2A	liver cirrhosis, experimental
+hepatosplenomegaly	liver	P35348	ADRA1A	carcinoma, hepatocellular;liver cirrhosis
+hepatosplenomegaly	liver	P35354	PTGS2	carcinoma, hepatocellular;chemical and drug induced liver injury;liver cirrhosis, experimental
+hepatosplenomegaly	liver	P42574	CASP3	hepatitis, chronic
+hepatosplenomegaly	liver	P43116	PTGER2	liver cirrhosis, experimental
+hepatosplenomegaly	liver	P51946	CCNH	liver neoplasms
+hepatosplenomegaly	liver	P53667	LIMK1	NA
+hepatosplenomegaly	liver	P56817	BACE1	NA
+hepatosplenomegaly	liver	Q12908	SLC10A2	NA
+hepatosplenomegaly	liver	Q9BY41	HDAC8	NA
+emphysema	lung	O14672	ADAM10	NA
+emphysema	lung	O60674	JAK2	NA
+emphysema	lung	O94925	GLS	NA
+emphysema	lung	P13945	ADRB3	NA
+emphysema	lung	P14324	FDPS	NA
+emphysema	lung	P14867	GABRA1	NA
+emphysema	lung	P23280	CA6	NA
+emphysema	lung	P25103	TACR1	NA
+emphysema	lung	P43490	NAMPT	NA
+emphysema	lung	P49286	MTNR1B	NA
+pulmonary_alveolar_haemorrhage	lung	O43353	RIPK2	NA
+pulmonary_alveolar_haemorrhage	lung	O75173	ADAMTS4	NA
+pulmonary_alveolar_haemorrhage	lung	P06401	PGR	NA
+pulmonary_alveolar_haemorrhage	lung	P07099	EPHX1	acute lung injury;lung neoplasms;pulmonary disease, chronic obstructive;pulmonary emphysema
+pulmonary_alveolar_haemorrhage	lung	P13866	SLC5A1	NA
+pulmonary_alveolar_haemorrhage	lung	P14324	FDPS	NA
+pulmonary_alveolar_haemorrhage	lung	P21452	TACR2	NA
+pulmonary_alveolar_haemorrhage	lung	P25103	TACR1	NA
+pulmonary_alveolar_haemorrhage	lung	P27338	MAOB	NA
+pulmonary_alveolar_haemorrhage	lung	P30542	ADORA1	NA
+pulmonary_alveolar_haemorrhage	lung	P31645	SLC6A4	hypertension, pulmonary
+pulmonary_alveolar_haemorrhage	lung	P35968	KDR	NA
+pulmonary_alveolar_haemorrhage	lung	P42574	CASP3	NA
+pulmonary_alveolar_haemorrhage	lung	P48039	MTNR1A	NA
+pulmonary_alveolar_haemorrhage	lung	Q13639	HTR4	NA
+pulmonary_alveolar_haemorrhage	lung	Q6V1X1	DPP8	NA
+pulmonary_alveolar_haemorrhage	lung	Q9Y5N1	HRH3	NA
+muscle_rigidity	muscle	O14757	CHEK1	NA
 muscle_rigidity	muscle	O43570	CA12	NA
-muscle_rigidity	muscle	O94925	GLS	NA
+muscle_rigidity	muscle	O60218	AKR1B10	NA
+muscle_rigidity	muscle	P00533	EGFR	NA
 muscle_rigidity	muscle	P00748	F12	NA
+muscle_rigidity	muscle	P04626	ERBB2	NA
+muscle_rigidity	muscle	P07384	CAPN1	NA
+muscle_rigidity	muscle	P08246	ELANE	NA
+muscle_rigidity	muscle	P08709	F7	NA
 muscle_rigidity	muscle	P08908	HTR1A	NA
-muscle_rigidity	muscle	P10275	AR	NA
-muscle_rigidity	muscle	P11387	TOP1	NA
-muscle_rigidity	muscle	P11473	VDR	NA
-muscle_rigidity	muscle	P14780	MMP9	NA
+muscle_rigidity	muscle	P08912	CHRM5	NA
+muscle_rigidity	muscle	P10721	KIT	NA
+muscle_rigidity	muscle	P13497	BMP1	NA
+muscle_rigidity	muscle	P21728	DRD1	NA
+muscle_rigidity	muscle	P23280	CA6	NA
+muscle_rigidity	muscle	P23975	SLC6A2	NA
 muscle_rigidity	muscle	P25105	PTAFR	NA
-muscle_rigidity	muscle	P29274	ADORA2A	NA
+muscle_rigidity	muscle	P27815	PDE4A	NA
+muscle_rigidity	muscle	P29371	TACR3	NA
 muscle_rigidity	muscle	P30968	GNRHR	NA
-muscle_rigidity	muscle	P32297	CHRNA3	NA
 muscle_rigidity	muscle	P35348	ADRA1A	NA
 muscle_rigidity	muscle	P37058	HSD17B3	NA
-muscle_rigidity	muscle	P39900	MMP12	NA
 muscle_rigidity	muscle	P42345	MTOR	NA
-muscle_rigidity	muscle	P42892	ECE1	NA
+muscle_rigidity	muscle	P43235	CTSK	NA
 muscle_rigidity	muscle	P43490	NAMPT	NA
-muscle_rigidity	muscle	P48147	PREP	NA
-muscle_rigidity	muscle	P48736	PIK3CG	NA
+muscle_rigidity	muscle	P46098	HTR3A	NA
+muscle_rigidity	muscle	P48039	MTNR1A	NA
+muscle_rigidity	muscle	Q05655	PRKCD	NA
 muscle_rigidity	muscle	Q07343	PDE4B	NA
-muscle_rigidity	muscle	Q16445	GABRA6	NA
+muscle_rigidity	muscle	Q13946	PDE7A	NA
+muscle_rigidity	muscle	Q15078	CDK5R1	NA
+muscle_rigidity	muscle	Q15858	SCN9A	NA
 muscle_rigidity	muscle	Q16769	QPCT	NA
-myoclonus	muscle	O14842	FFAR1	NA
-myoclonus	muscle	O14920	IKBKB	NA
-myoclonus	muscle	O75116	ROCK2	NA
-myoclonus	muscle	O94925	GLS	NA
+muscle_rigidity	muscle	Q16790	CA9	NA
+muscle_rigidity	muscle	Q92847	GHSR	NA
+muscle_rigidity	muscle	Q9HAZ1	CLK4	NA
+muscle_rigidity	muscle	Q9Y5Y4	PTGDR2	NA
+musculoskeletal_chest_pain	muscle	O14757	CHEK1	NA
+musculoskeletal_chest_pain	muscle	O43613	HCRTR1	NA
+musculoskeletal_chest_pain	muscle	O95822	MLYCD	NA
+musculoskeletal_chest_pain	muscle	P04035	HMGCR	muscular diseases
+musculoskeletal_chest_pain	muscle	P08514	ITGA2B	NA
+musculoskeletal_chest_pain	muscle	P08684	CYP3A4	NA
+musculoskeletal_chest_pain	muscle	P11473	VDR	NA
+musculoskeletal_chest_pain	muscle	P12931	SRC	NA
+musculoskeletal_chest_pain	muscle	P19634	SLC9A1	NA
+musculoskeletal_chest_pain	muscle	P32247	BRS3	NA
+musculoskeletal_chest_pain	muscle	P35462	DRD3	NA
+musculoskeletal_chest_pain	muscle	P43116	PTGER2	NA
+musculoskeletal_chest_pain	muscle	P48147	PREP	NA
+musculoskeletal_chest_pain	muscle	P49137	MAPKAPK2	NA
+musculoskeletal_chest_pain	muscle	P49286	MTNR1B	NA
+musculoskeletal_chest_pain	muscle	Q02750	MAP2K1	NA
+musculoskeletal_chest_pain	muscle	Q13946	PDE7A	NA
+musculoskeletal_chest_pain	muscle	Q6V1X1	DPP8	NA
+musculoskeletal_chest_pain	muscle	Q86X55	CARM1	NA
+musculoskeletal_chest_pain	muscle	Q96GD4	AURKB	NA
+musculoskeletal_chest_pain	muscle	Q9Y251	HPSE	NA
+musculoskeletal_chest_pain	muscle	Q9Y5Z0	BACE2	NA
+myoclonus	muscle	O14939	PLD2	NA
+myoclonus	muscle	O60218	AKR1B10	NA
+myoclonus	muscle	P00519	ABL1	musculoskeletal abnormalities
 myoclonus	muscle	P00734	F2	NA
 myoclonus	muscle	P03956	MMP1	NA
 myoclonus	muscle	P04150	NR3C1	NA
 myoclonus	muscle	P04626	ERBB2	NA
-myoclonus	muscle	P07339	CTSD	NA
-myoclonus	muscle	P08238	HSP90AB1	NA
-myoclonus	muscle	P08246	ELANE	NA
+myoclonus	muscle	P06401	PGR	NA
+myoclonus	muscle	P07384	CAPN1	NA
+myoclonus	muscle	P08254	MMP3	NA
 myoclonus	muscle	P08473	MME	NA
-myoclonus	muscle	P08588	ADRB1	NA
+myoclonus	muscle	P08912	CHRM5	NA
 myoclonus	muscle	P09619	PDGFRB	NA
-myoclonus	muscle	P11387	TOP1	NA
-myoclonus	muscle	P13726	F3	NA
-myoclonus	muscle	P14416	DRD2	NA
-myoclonus	muscle	P14920	DAO	NA
+myoclonus	muscle	P14324	FDPS	NA
+myoclonus	muscle	P15121	AKR1B1	NA
+myoclonus	muscle	P16455	MGMT	NA
 myoclonus	muscle	P17252	PRKCA	NA
-myoclonus	muscle	P17948	FLT1	NA
 myoclonus	muscle	P18084	ITGB5	NA
-myoclonus	muscle	P20701	ITGAL	NA
-myoclonus	muscle	P21554	CNR1	muscle spasticity
-myoclonus	muscle	P23280	CA6	NA
-myoclonus	muscle	P25105	PTAFR	NA
+myoclonus	muscle	P21453	S1PR1	NA
+myoclonus	muscle	P22460	KCNA5	NA
+myoclonus	muscle	P25021	HRH2	NA
 myoclonus	muscle	P27815	PDE4A	NA
+myoclonus	muscle	P28845	HSD11B1	NA
 myoclonus	muscle	P29274	ADORA2A	NA
 myoclonus	muscle	P29275	ADORA2B	NA
 myoclonus	muscle	P29371	TACR3	NA
-myoclonus	muscle	P30291	WEE1	NA
+myoclonus	muscle	P30305	CDC25B	NA
 myoclonus	muscle	P30968	GNRHR	NA
-myoclonus	muscle	P32297	CHRNA3	NA
-myoclonus	muscle	P34913	EPHX2	NA
-myoclonus	muscle	P35218	CA5A	NA
+myoclonus	muscle	P31749	AKT1	muscular atrophy
+myoclonus	muscle	P34998	CRHR1	NA
 myoclonus	muscle	P35348	ADRA1A	NA
+myoclonus	muscle	P35367	HRH1	NA
 myoclonus	muscle	P35462	DRD3	NA
-myoclonus	muscle	P41597	CCR2	NA
-myoclonus	muscle	P42336	PIK3CA	NA
-myoclonus	muscle	P42338	PIK3CB	NA
+myoclonus	muscle	P40238	MPL	NA
+myoclonus	muscle	P41143	OPRD1	NA
 myoclonus	muscle	P42785	PRCP	NA
-myoclonus	muscle	P42892	ECE1	NA
-myoclonus	muscle	P47712	PLA2G4A	NA
+myoclonus	muscle	P43235	CTSK	NA
+myoclonus	muscle	P43490	NAMPT	NA
+myoclonus	muscle	P47871	GCGR	NA
 myoclonus	muscle	P47989	XDH	NA
-myoclonus	muscle	P50281	MMP14	NA
-myoclonus	muscle	P51677	CCR3	NA
 myoclonus	muscle	P53779	MAPK10	NA
 myoclonus	muscle	P55210	CASP7	NA
+myoclonus	muscle	P56817	BACE1	NA
 myoclonus	muscle	P68400	CSNK2A1	NA
-myoclonus	muscle	Q03181	PPARD	NA
-myoclonus	muscle	Q07343	PDE4B	NA
 myoclonus	muscle	Q13002	GRIK2	NA
 myoclonus	muscle	Q13547	HDAC1	NA
-myoclonus	muscle	Q16769	QPCT	NA
-myoclonus	muscle	Q6V1X1	DPP8	NA
-myoclonus	muscle	Q8NER1	TRPV1	NA
-myoclonus	muscle	Q9HAZ1	CLK4	NA
-myoclonus	muscle	Q9NYA1	SPHK1	NA
-myoclonus	muscle	Q9UBY5	LPAR3	NA
+myoclonus	muscle	Q16790	CA9	NA
+myoclonus	muscle	Q92847	GHSR	NA
 myoclonus	muscle	Q9Y2D0	CA5B	NA
 myoclonus	muscle	Q9Y5Y4	PTGDR2	NA
-myoclonus	muscle	Q9Y5Y6	ST14	NA
-prostate_cancer	prostate	P04035	HMGCR	NA
-prostate_cancer	prostate	P05067	APP	NA
-prostate_cancer	prostate	P10826	RARB	NA
-prostate_cancer	prostate	P25090	FPR2	NA
-prostate_cancer	prostate	P30968	GNRHR	NA
-prostate_cancer	prostate	P32745	SSTR3	NA
-prostate_cancer	prostate	P47869	GABRA2	NA
-prostate_cancer	prostate	P49146	NPY2R	NA
-prostate_cancer	prostate	P80365	HSD11B2	NA
-prostate_cancer	prostate	Q99500	S1PR3	NA
-rash_erythematous	skin	O14746	TERT	NA
-rash_erythematous	skin	O14939	PLD2	NA
+rash_erythematous	skin	O14920	IKBKB	NA
+rash_erythematous	skin	O14965	AURKA	NA
 rash_erythematous	skin	O43353	RIPK2	NA
-rash_erythematous	skin	O60725	ICMT	NA
 rash_erythematous	skin	O75173	ADAMTS4	NA
+rash_erythematous	skin	O75908	SOAT2	NA
 rash_erythematous	skin	P00374	DHFR	NA
-rash_erythematous	skin	P00488	F13A1	dermatitis, allergic contact
-rash_erythematous	skin	P00519	ABL1	NA
-rash_erythematous	skin	P00748	F12	NA
+rash_erythematous	skin	P01375	TNF	dermatitis, allergic contact;skin diseases
 rash_erythematous	skin	P03952	KLKB1	NA
-rash_erythematous	skin	P06213	INSR	NA
-rash_erythematous	skin	P08069	IGF1R	skin neoplasms
-rash_erythematous	skin	P08473	MME	NA
+rash_erythematous	skin	P03956	MMP1	NA
+rash_erythematous	skin	P06401	PGR	NA
+rash_erythematous	skin	P07099	EPHX1	skin neoplasms
+rash_erythematous	skin	P09874	PARP1	dermatitis
+rash_erythematous	skin	P09917	ALOX5	NA
+rash_erythematous	skin	P10275	AR	NA
+rash_erythematous	skin	P10827	THRA	NA
 rash_erythematous	skin	P11309	PIM1	dermatitis, allergic contact
+rash_erythematous	skin	P11597	CETP	NA
+rash_erythematous	skin	P13612	ITGA4	NA
+rash_erythematous	skin	P14867	GABRA1	NA
 rash_erythematous	skin	P16455	MGMT	NA
-rash_erythematous	skin	P21918	DRD5	NA
-rash_erythematous	skin	P22001	KCNA3	NA
-rash_erythematous	skin	P23443	RPS6KB1	NA
+rash_erythematous	skin	P20648	ATP4A	NA
+rash_erythematous	skin	P23458	JAK1	NA
+rash_erythematous	skin	P24530	EDNRB	NA
+rash_erythematous	skin	P28221	HTR1D	NA
+rash_erythematous	skin	P29274	ADORA2A	NA
+rash_erythematous	skin	P29275	ADORA2B	NA
+rash_erythematous	skin	P30291	WEE1	NA
+rash_erythematous	skin	P30556	AGTR1	NA
 rash_erythematous	skin	P32247	BRS3	NA
+rash_erythematous	skin	P33527	ABCC1	NA
+rash_erythematous	skin	P35348	ADRA1A	NA
 rash_erythematous	skin	P35367	HRH1	NA
 rash_erythematous	skin	P36888	FLT3	NA
-rash_erythematous	skin	P37268	FDFT1	NA
+rash_erythematous	skin	P40238	MPL	NA
+rash_erythematous	skin	P41143	OPRD1	NA
 rash_erythematous	skin	P43116	PTGER2	NA
+rash_erythematous	skin	P43166	CA7	NA
+rash_erythematous	skin	P43681	CHRNA4	NA
+rash_erythematous	skin	P47989	XDH	NA
 rash_erythematous	skin	P49768	PSEN1	NA
+rash_erythematous	skin	P50579	METAP2	NA
 rash_erythematous	skin	P51677	CCR3	dermatitis, atopic
 rash_erythematous	skin	P51946	CCNH	NA
-rash_erythematous	skin	P68400	CSNK2A1	skin neoplasms
-rash_erythematous	skin	Q86TI2	DPP9	NA
-rash_erythematous	skin	Q9UBN7	HDAC6	NA
-rash_erythematous	skin	Q9ULX7	CA14	NA
-rash_erythematous	skin	Q9Y6L6	SLCO1B1	NA
-rash_macular	skin	O14746	TERT	NA
-rash_macular	skin	O75173	ADAMTS4	NA
-rash_macular	skin	O75908	SOAT2	NA
+rash_erythematous	skin	P55072	VCP	NA
+rash_erythematous	skin	Q03181	PPARD	skin neoplasms
+rash_erythematous	skin	Q05586	GRIN1	NA
+rash_erythematous	skin	Q05655	PRKCD	NA
+rash_erythematous	skin	Q07869	PPARA	dermatitis, atopic
+rash_erythematous	skin	Q07912	TNK2	NA
+rash_erythematous	skin	Q16581	C3AR1	NA
+rash_erythematous	skin	Q16769	QPCT	dermatitis, allergic contact
+rash_erythematous	skin	Q9BUB5	MKNK1	NA
+rash_erythematous	skin	Q9BY41	HDAC8	NA
+rash_erythematous	skin	Q9NYA1	SPHK1	NA
+rash_erythematous	skin	Q9UHL4	DPP7	NA
+rash_erythematous	skin	Q9Y243	AKT3	NA
+rash_erythematous	skin	Q9Y251	HPSE	NA
+rash_macular	skin	O94925	GLS	NA
 rash_macular	skin	P00918	CA2	NA
-rash_macular	skin	P01375	TNF	dermatitis, allergic contact;skin diseases
-rash_macular	skin	P03952	KLKB1	NA
-rash_macular	skin	P06213	INSR	NA
-rash_macular	skin	P08069	IGF1R	skin neoplasms
-rash_macular	skin	P08473	MME	NA
-rash_macular	skin	P10828	THRB	NA
+rash_macular	skin	P03956	MMP1	NA
+rash_macular	skin	P07099	EPHX1	skin neoplasms
+rash_macular	skin	P08912	CHRM5	NA
+rash_macular	skin	P09874	PARP1	dermatitis
+rash_macular	skin	P10827	THRA	NA
 rash_macular	skin	P11309	PIM1	dermatitis, allergic contact
-rash_macular	skin	P12931	SRC	NA
 rash_macular	skin	P13612	ITGA4	NA
 rash_macular	skin	P13631	RARG	NA
-rash_macular	skin	P13866	SLC5A1	NA
-rash_macular	skin	P21397	MAOA	NA
-rash_macular	skin	P22001	KCNA3	NA
-rash_macular	skin	P23443	RPS6KB1	NA
-rash_macular	skin	P32247	BRS3	NA
-rash_macular	skin	P35354	PTGS2	skin diseases;skin neoplasms
-rash_macular	skin	P35968	KDR	NA
-rash_macular	skin	P42574	CASP3	NA
-rash_macular	skin	P43235	CTSK	NA
+rash_macular	skin	P29274	ADORA2A	NA
+rash_macular	skin	P35367	HRH1	NA
+rash_macular	skin	P43166	CA7	NA
 rash_macular	skin	P45452	MMP13	NA
-rash_macular	skin	P47712	PLA2G4A	dermatitis
 rash_macular	skin	P47989	XDH	NA
 rash_macular	skin	P49356	FNTB	NA
+rash_macular	skin	P50281	MMP14	NA
 rash_macular	skin	P51946	CCNH	NA
 rash_macular	skin	P61073	CXCR4	NA
-rash_macular	skin	Q02750	MAP2K1	NA
-rash_macular	skin	Q03181	PPARD	skin neoplasms
-rash_macular	skin	Q05655	PRKCD	NA
-rash_macular	skin	Q86TI2	DPP9	NA
-rash_macular	skin	Q8TCT1	PHOSPHO1	NA
-rash_macular	skin	Q96GD4	AURKB	NA
+rash_macular	skin	Q13133	NR1H3	NA
+rash_macular	skin	Q13639	HTR4	NA
+rash_macular	skin	Q16445	GABRA6	NA
+rash_macular	skin	Q6V1X1	DPP8	NA
+rash_macular	skin	Q9BY41	HDAC8	NA
 rash_macular	skin	Q9NYA1	SPHK1	NA
 rash_macular	skin	Q9ULX7	CA14	NA

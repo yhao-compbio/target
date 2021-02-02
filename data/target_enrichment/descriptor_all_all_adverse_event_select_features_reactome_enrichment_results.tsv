@@ -1,7 +1,22 @@
 adverse_event	pathway	size	p_value	adjusted_p_value
-cardiac arrest	Amine ligand-binding receptors	43	3.15045451280672e-06	0.00381520041500894
-myoclonus	Reversible hydration of carbon dioxide	12	2.98994706961336e-05	0.0362082590130178
-myoclonus	Amine ligand-binding receptors	43	7.47053832621596e-05	0.0452341095652376
-rash macular	VEGFR2 mediated cell proliferation	20	2.88779959344686e-05	0.0349712530766415
-coagulopathy	MECP2 regulates neuronal receptors and channels	20	1.22463284929908e-06	0.00148303038050119
-coagulopathy	Amine ligand-binding receptors	43	4.5315600602533e-05	0.0274385961648337
+acute hepatic failure	Amine ligand-binding receptors	43	1.9961716461473e-07	0.000241736386348438
+renal injury	Reversible hydration of carbon dioxide	12	1.31622283728291e-05	0.0153995192987186
+renal injury	Amine ligand-binding receptors	43	2.54327321200967e-05	0.0153995192987186
+muscle rigidity	Reversible hydration of carbon dioxide	12	6.65908713091498e-06	0.00416228210100121
+muscle rigidity	TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	13	8.63761252390264e-06	0.00416228210100121
+muscle rigidity	Amine ligand-binding receptors	43	1.03111860470715e-05	0.00416228210100121
+muscle rigidity	SHC1 events in ERBB2 signaling	44	8.56368805140367e-05	0.0259265655756246
+musculoskeletal chest pain	Signaling by high-kinase activity BRAF mutants	36	2.03554178580836e-05	0.0121440909713669
+musculoskeletal chest pain	MAP2K and MAPK activation	40	2.80609096205603e-05	0.0121440909713669
+musculoskeletal chest pain	Paradoxical activation of RAF signaling by kinase inactive BRAF	45	4.01126043645479e-05	0.0121440909713669
+musculoskeletal chest pain	Signaling by moderate kinase activity BRAF mutants	45	4.01126043645479e-05	0.0121440909713669
+musculoskeletal chest pain	Signaling by RAS mutants	58	8.61622922513689e-05	0.0208685071832815
+musculoskeletal chest pain	Signaling by BRAF and RAF fusions	65	0.000121169958792222	0.0244561366828968
+musculoskeletal chest pain	GRB2:SOS provides linkage to MAPK signaling for Integrins 	15	0.000226919776253045	0.0313700372251473
+musculoskeletal chest pain	p130Cas linkage to MAPK signaling for integrins	15	0.000226919776253045	0.0313700372251473
+musculoskeletal chest pain	Oncogenic MAPK signaling	81	0.00023313817921249	0.0313700372251473
+myoclonus	Amine ligand-binding receptors	43	1.24842646831102e-06	0.00151184445312465
+rash macular	Reversible hydration of carbon dioxide	12	2.15943148264974e-06	0.00261507152548884
+rash macular	Activation of Matrix Metalloproteinases	33	5.19150396022043e-05	0.0314345564791347
+rash macular	Amine ligand-binding receptors	43	0.00011570295380377	0.0467054256854553
+pancytopenia	Reversible hydration of carbon dioxide	12	1.31622283728291e-05	0.0159394585594961

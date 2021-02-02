@@ -1,19 +1,36 @@
 adverse_event	pathway	size	p_value	adjusted_p_value
-arrhythmia	transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential	39	1.64759172423066e-05	0.0160804952284913
-arrhythmia	benzodiazepine receptor activity	11	0.00010727065735016	0.0348987205245855
-arrhythmia	inhibitory extracellular ligand-gated ion channel activity	11	0.00010727065735016	0.0348987205245855
-arrhythmia	GABA-gated chloride ion channel activity	21	0.000151861844210518	0.0370542899873665
-arrhythmia	neurotransmitter receptor activity	84	0.000221003723464087	0.0431399268201899
-myoclonus	carbonate dehydratase activity	18	1.94988735939295e-05	0.0179819987318976
-myoclonus	hydro-lyase activity	22	3.93162450718798e-05	0.0179819987318976
-myoclonus	peptide binding	63	5.52725370857508e-05	0.0179819987318976
-myoclonus	growth factor binding	41	0.000151001985484565	0.0368444844582338
-nephropathy	ephrin receptor binding	35	1.6941070821863e-05	0.0153030665612312
-nephropathy	steroid binding	35	3.13587429533425e-05	0.0153030665612312
-nephropathy	growth factor receptor binding	11	0.000151277029961876	0.0492154604142637
-rash macular	insulin receptor substrate binding	14	9.21490084455549e-07	0.000899374322428615
-rash macular	protein serine/threonine/tyrosine kinase activity	29	2.73215752576026e-05	0.0133329287257101
-coagulopathy	peptide binding	63	3.88564923860966e-08	3.79239365688302e-05
-coagulopathy	neuropeptide binding	26	8.79637249278922e-07	0.000429262977648114
-coagulopathy	neurotransmitter receptor activity	84	6.09571920475092e-06	0.00198314064794563
-coagulopathy	G protein-coupled serotonin receptor activity	50	0.000163096389773776	0.0397955191048014
+adrenal insufficiency	Hsp90 protein binding	54	1.48036297716164e-05	0.0144483426570976
+adrenal insufficiency	NAD-dependent histone deacetylase activity (H3-K14 specific)	10	5.68441720316701e-05	0.027739955951455
+acute hepatic failure	neurotransmitter receptor activity	84	2.37609863994894e-05	0.0216822889409175
+acute hepatic failure	G protein-coupled serotonin receptor activity	50	4.44309199608965e-05	0.0216822889409175
+acute hepatic failure	glucose:sodium symporter activity	14	8.40583266212562e-05	0.0273469755941154
+colitis	serine-type peptidase activity	58	4.53158803263788e-05	0.0442282991985457
+renal injury	steroid binding	35	2.32234849647471e-08	2.26661213255932e-05
+renal injury	carbonate dehydratase activity	18	9.43632992438293e-06	0.00460492900309887
+renal injury	hydro-lyase activity	22	1.90675956868066e-05	0.00620332446344109
+muscle rigidity	3',5'-cyclic-AMP phosphodiesterase activity	25	1.68466460308706e-06	0.00164423265261297
+muscle rigidity	carbonate dehydratase activity	18	4.26424219081551e-06	0.00208095018911797
+muscle rigidity	hydro-lyase activity	22	8.63221488390619e-06	0.00245386024386493
+muscle rigidity	3',5'-cyclic-nucleotide phosphodiesterase activity	28	1.0056804278135e-05	0.00245386024386493
+muscle rigidity	transmembrane receptor protein tyrosine kinase activity	74	0.000179080943505788	0.0349566001723298
+muscle rigidity	serotonin binding	25	0.000262493910305727	0.0426990094097317
+myoclonus	peptide binding	63	2.50854935109394e-05	0.0244834416666768
+myoclonus	steroid binding	35	0.000100700452955313	0.0358621696655445
+myoclonus	G protein-coupled serotonin receptor activity	50	0.000110232078889993	0.0358621696655445
+myoclonus	peptide hormone binding	64	0.000179899941662438	0.0400738328976511
+myoclonus	retinal dehydrogenase activity	11	0.000205296275090426	0.0400738328976511
+rash erythematous	non-membrane spanning protein tyrosine kinase activity	83	3.1431846493004e-07	0.000306774821771719
+rash erythematous	steroid hormone receptor activity	22	4.31087472785226e-05	0.021037068671919
+rash erythematous	neurotransmitter receptor activity	84	0.000132591853888976	0.0431365497985469
+rash macular	carbonate dehydratase activity	18	1.43534853844706e-06	0.00140090017352433
+rash macular	hydro-lyase activity	22	2.91088908501536e-06	0.0014205138734875
+rash macular	neurotransmitter receptor activity	84	5.58799964972191e-06	0.00181796255270953
+rash macular	G protein-coupled serotonin receptor activity	50	1.50779929295652e-05	0.0036790302748139
+pancytopenia	carbonate dehydratase activity	18	9.43632992438293e-06	0.00722379560432552
+pancytopenia	hydro-lyase activity	22	1.90675956868066e-05	0.00722379560432552
+pancytopenia	aspartic-type endopeptidase activity	23	2.2204289767394e-05	0.00722379560432552
+pancytopenia	NAD-dependent histone deacetylase activity	12	4.08008552513237e-05	0.00995540868132299
+pancytopenia	neurotransmitter receptor activity	84	6.73831230169955e-05	0.0131531856129175
+pancytopenia	NAD-dependent protein deacetylase activity	21	0.000142082002976941	0.0231120058175823
+pancytopenia	dipeptidyl-peptidase activity	17	0.000302925040798889	0.0422364056885307
+pancytopenia	protein deacetylase activity	23	0.00036961809945631	0.0450934081336698

@@ -1,4 +1,68 @@
 group	disease_term
+lung	lung diseases
+lung	lung neoplasms
+lung	carcinoma, non-small-cell lung
+lung	adenocarcinoma of lung
+lung	lung injury
+lung	acute lung injury
+lung	small cell lung carcinoma
+lung	lung diseases, obstructive
+lung	autoimmune interstitial lung, joint, and kidney disease
+lung	lung diseases, interstitial
+lung	lung agenesis
+lung	rajab interstitial lung disease with brain calcifications 1
+lung	interstitial lung disease, nephrotic syndrome, and epidermolysis bullosa, congenital
+lung	carcinoma, lewis lung
+lung	interstitial lung and liver disease
+lung	lung disease, immunodeficiency, and chromosome breakage syndrome
+lung	paraquat lung
+lung	46,xx sex reversal with dysgenesis of kidneys, adrenals, and lungs
+lung	hypertension, pulmonary
+lung	pulmonary fibrosis
+lung	surfactant metabolism dysfunction, pulmonary, 3
+lung	pulmonary edema
+lung	pulmonary emphysema
+lung	plasma cell granuloma, pulmonary
+lung	tuberculosis, pulmonary
+lung	idiopathic pulmonary fibrosis
+lung	familial primary pulmonary hypertension
+lung	pulmonary arterial hypertension
+lung	pulmonary veno-occlusive disease
+lung	pulmonary embolism
+lung	pulmonary disease, chronic obstructive
+lung	pulmonary hypertension, neonatal, susceptibility to
+lung	pulmonary alveolar proteinosis
+lung	surfactant metabolism dysfunction, pulmonary, 4
+lung	surfactant metabolism dysfunction, pulmonary, 5
+lung	pleuropulmonary blastoma
+lung	pulmonary edema of mountaineers
+lung	bronchopulmonary dysplasia
+lung	cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities
+lung	pulmonary eosinophilia
+lung	pulmonary fibrosis and/or bone marrow failure, telomere-related, 4
+lung	pulmonary fibrosis and/or bone marrow failure, telomere-related, 3
+lung	hyperuricemia, pulmonary hypertension, renal failure, and alkalosis syndrome
+lung	surfactant metabolism dysfunction, pulmonary, 1
+lung	surfactant metabolism dysfunction, pulmonary, 2
+lung	pulmonary alveolar microlithiasis
+lung	anophthalmia with pulmonary hypoplasia
+lung	pulmonary fibrosis and/or bone marrow failure, telomere-related, 2
+lung	pulmonary fibrosis and/or bone marrow failure, telomere-related, 1
+lung	respiratory insufficiency
+lung	respiratory distress syndrome, adult
+lung	respiratory tract diseases
+lung	severe acute respiratory syndrome
+lung	respiratory hypersensitivity
+lung	respiratory syncytial virus infections
+lung	respiratory tract infections
+lung	respiratory sounds
+lung	spinal muscular atrophy with respiratory distress 1
+lung	respiratory distress syndrome, newborn
+lung	choreoathetosis, hypothyroidism, and neonatal respiratory distress
+lung	respiratory system abnormalities
+lung	retinitis pigmentosa, x-linked, and sinorespiratory infections, with or without deafness
+lung	granuloma, respiratory tract
+lung	hereditary myopathy with early respiratory failure
 heart	cardiomyopathy, dilated, 1o
 heart	cardiomyopathy, dilated
 heart	arrhythmias, cardiac
@@ -208,114 +272,73 @@ heart	coronary stenosis
 heart	coronary thrombosis
 heart	coronary artery disease, autosomal dominant 2
 heart	coronary artery disease, autosomal dominant, 1
-muscle	muscle hypotonia
-muscle	musculoskeletal abnormalities
-muscle	muscular dystrophy, facioscapulohumeral
-muscle	muscular dystrophies
-muscle	muscular atrophy
-muscle	muscular diseases
-muscle	muscle weakness
-muscle	miyoshi muscular dystrophy 3
-muscle	muscular dystrophy, limb-girdle, type 2l
-muscle	spinal muscular atrophy with progressive myoclonic epilepsy
-muscle	spinal muscular atrophy with congenital bone fractures 2
-muscle	spinal muscular atrophy, distal, x-linked 3
-muscle	muscular dystrophy, limb-girdle, autosomal recessive 25
-muscle	limb-girdle muscular dystrophy type 2a
-muscle	muscular dystrophies, limb-girdle
-muscle	muscular dystrophy, limb-girdle, type 1c
-muscle	rippling muscle disease, 1
-muscle	muscular dystrophy, duchenne
-muscle	spinal muscular atrophy, jokela type
-muscle	muscular dystrophy, congenital, megaconial type
-muscle	muscle spasticity
-muscle	scleroatonic muscular dystrophy
-muscle	fibrosis of extraocular muscles, congenital, 5
-muscle	angiopathy, hereditary, with nephropathy, aneurysms, and muscle cramps
-muscle	musculoskeletal pain
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 7
-muscle	muscle rigidity
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 9
-muscle	muscular dystrophy, animal
-muscle	spinal muscular atrophy, distal, autosomal recessive, 5
-muscle	muscular dystrophy, limb-girdle, type 1e
-muscle	spinal muscular atrophies of childhood
-muscle	limb-girdle muscular dystrophy, type 2b
-muscle	muscular dystrophy, emery-dreifuss
-muscle	myopathy, x-linked, with postural muscle atrophy
-muscle	muscular dystrophy-dystroglycanopathy (congenital with or without impaired intellectual development), type b, 5
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 5
-muscle	muscular dystrophy-dystroglycanopathy (congenital without impaired intellectual development), type b, 4
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 4
-muscle	facioscapulohumeral muscular dystrophy 1a
-muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type b, 14
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 14
-muscle	glycogen storage disease 0, muscle
-muscle	limb-girdle muscular dystrophy, type 1g
-muscle	dystonia musculorum deformans type 2
-muscle	spinal muscular atrophy with respiratory distress 1
-muscle	muscular dystrophy, congenital, with cataracts and intellectual disability
-muscle	muscular dystrophy, congenital, due to integrin alpha-7 deficiency
-muscle	fibrosis of extraocular muscles, congenital, 3b
-muscle	muscular dystrophy congenital, merosin negative
-muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type b, 6
-muscle	muscular dystrophy, autosomal recessive, with cardiomyopathy and triangular tongue
-muscle	muscular dystrophy, congenital, lmna-related
-muscle	muscular dystrophy, oculopharyngeal
-muscle	muscle hypertrophy
-muscle	myostatin-related muscle hypertrophy
-muscle	smooth muscle tumor
-muscle	muscle hypertonia
-muscle	fibrosis of extraocular muscles, congenital, 2
-muscle	epidermolysa bullosa simplex and limb girdle muscular dystrophy
-muscle	muscular dystrophy, limb-girdle, autosomal recessive 17
-muscle	spinal muscular atrophy, distal, autosomal recessive, 4
-muscle	muscular dystrophy, limb-girdle, autosomal recessive 21
-muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type b, 3
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 3
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 12
-muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual impairment), type b, 1
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 1
-muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type b, 2
-muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 2
-muscle	limb-girdle muscular dystrophy, type 2e
-muscle	limb-girdle muscular dystrophy type 2f
-muscle	limb-girdle muscular dystrophy, type 2c
-muscle	spinal muscular atrophy, jerash type
-muscle	neuromuscular manifestations
-muscle	facioscapulohumeral muscular dystrophy 1b
-muscle	muscular atrophy, spinal
-muscle	spinal muscular atrophy 4
-muscle	muscular dystrophy, limb-girdle, type 2g
-muscle	muscular dystrophy, limb-girdle, type 1f
-muscle	dystonia musculorum deformans type 1
-muscle	neuromuscular diseases
-muscle	muscular dystrophy, limb-girdle, autosomal recessive 18
-muscle	limb-girdle muscular dystrophy type 2h
-muscle	muscular dystrophy, congenital, davignon-chauveau type
-muscle	spinal muscular atrophy with congenital bone fractures 1
-muscle	scapuloperoneal spinal muscular atrophy
-muscle	spinal muscular atrophy, distal, congenital nonprogressive
-muscle	muscular dystrophy, limb-girdle, type 2j
-muscle	fibrosis of extraocular muscles, congenital, 3a, with or without extraocular involvement
-muscle	spinal muscular atrophy, proximal, adult, autosomal dominant
-muscle	myoclonic epilepsies, progressive
-muscle	myoclonic epilepsy, juvenile
-muscle	epilepsy, familial adult myoclonic, 5
-muscle	myoclonic dystonia
-muscle	epilepsy, progressive myoclonic, 3, with or without intracellular inclusions
-muscle	myoclonus, intractable, neonatal
-muscle	epilepsy, familial adult myoclonic, 3
-muscle	myoclonus
-muscle	myoclonus, familial, 1
-muscle	epilepsies, myoclonic
-muscle	opsoclonus-myoclonus syndrome
-muscle	prickle1-related progressive myoclonic epilepsy with ataxia
-muscle	epilepsy, myoclonic, benign adult familial, type 1
-muscle	epilepsy, progressive myoclonic, 4, with or without renal failure
-muscle	myoclonic-atonic epilepsy
-muscle	epilepsy, myoclonic, benign adult familial, type 2
-muscle	myoclonic epilepsy, familial infantile
+liver	liver neoplasms
+liver	adenoma, liver cell
+liver	liver cirrhosis
+liver	liver cirrhosis, experimental
+liver	chemical and drug induced liver injury
+liver	end stage liver disease
+liver	liver cirrhosis, biliary
+liver	liver diseases
+liver	non-alcoholic fatty liver disease
+liver	liver failure
+liver	liver neoplasms, experimental
+liver	liver failure, acute
+liver	fatty liver
+liver	liver cirrhosis, alcoholic
+liver	liver diseases, parasitic
+liver	fatty liver, alcoholic
+liver	glycogen storage disease 0, liver
+liver	infantile liver failure syndrome 1
+liver	interstitial lung and liver disease
+liver	infantile liver failure syndrome 2
+liver	liver diseases, alcoholic
+liver	polycystic liver disease
+liver	liver failure, infantile, transient
+liver	hepatomegaly
+liver	carcinoma, hepatocellular
+liver	hepatolenticular degeneration
+liver	cholestasis, benign recurrent intrahepatic, 2
+liver	cholestasis, intrahepatic
+liver	cholestasis, progressive familial intrahepatic 1
+liver	cholestasis, progressive familial intrahepatic 2
+liver	cholestasis, progressive familial intrahepatic 3
+liver	intrahepatic cholestasis of pregnancy
+liver	hepatitis, chronic
+liver	porphyria, acute hepatic
+liver	porphyrias, hepatic
+liver	hepatic insufficiency
+liver	hepatitis
+liver	hepatitis, autoimmune
+liver	hepatitis, alcoholic
+liver	hepatitis b, chronic
+liver	hepatitis c
+liver	hepatic veno-occlusive disease
+liver	hepatoblastoma
+liver	hepatitis b
+liver	hepatitis, animal
+liver	mitochondrial dna depletion syndrome 3 (hepatocerebral type)
+liver	hepatorenal syndrome
+liver	peliosis hepatis
+liver	infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations
+liver	hepatorenal form of glycogen storage disease
+liver	hepatic encephalopathy
+liver	hepatic adenomas, familial
+liver	hepatitis c, chronic
+liver	growth retardation, impaired intellectual development, hypotonia, and hepatopathy
+liver	hepatic fibrosis, congenital
+liver	hepatic lipase deficiency
+liver	navajo neurohepatopathy
+liver	renal-hepatic-pancreatic dysplasia 1
+liver	renal hepatic pancreatic dysplasia dandy walker cyst
+liver	cholestasis, progressive familial intrahepatic, 5
+liver	massive hepatic necrosis
+liver	trichohepatoenteric syndrome
+liver	cryohydrocytosis, stomatin-deficient, with mental retardation, seizures, cataracts, and massive hepatosplenomegaly
+liver	hepatic venoocclusive disease with immunodeficiency
+liver	mitochondrial dna depletion syndrome 15 (hepatocerebral type)
+liver	cholestasis, progressive familial intrahepatic, 4
+liver	mitochondrial dna depletion syndrome 7 (hepatocerebral type)
 colon	colonic neoplasms
 colon	megacystis microcolon intestinal hypoperistalsis syndrome
 colon	colonic polyps
@@ -436,6 +459,114 @@ kidney	nephrotic syndrome, type 4
 kidney	nephronophthisis-like nephropathy 1
 kidney	nephrolithiasis, uric acid, susceptibility to
 kidney	nephronophthisis 14
+muscle	muscle hypotonia
+muscle	musculoskeletal abnormalities
+muscle	muscular dystrophy, facioscapulohumeral
+muscle	muscular dystrophies
+muscle	muscular atrophy
+muscle	muscular diseases
+muscle	muscle weakness
+muscle	miyoshi muscular dystrophy 3
+muscle	muscular dystrophy, limb-girdle, type 2l
+muscle	spinal muscular atrophy with progressive myoclonic epilepsy
+muscle	spinal muscular atrophy with congenital bone fractures 2
+muscle	spinal muscular atrophy, distal, x-linked 3
+muscle	muscular dystrophy, limb-girdle, autosomal recessive 25
+muscle	limb-girdle muscular dystrophy type 2a
+muscle	muscular dystrophies, limb-girdle
+muscle	muscular dystrophy, limb-girdle, type 1c
+muscle	rippling muscle disease, 1
+muscle	muscular dystrophy, duchenne
+muscle	spinal muscular atrophy, jokela type
+muscle	muscular dystrophy, congenital, megaconial type
+muscle	muscle spasticity
+muscle	scleroatonic muscular dystrophy
+muscle	fibrosis of extraocular muscles, congenital, 5
+muscle	angiopathy, hereditary, with nephropathy, aneurysms, and muscle cramps
+muscle	musculoskeletal pain
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 7
+muscle	muscle rigidity
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 9
+muscle	muscular dystrophy, animal
+muscle	spinal muscular atrophy, distal, autosomal recessive, 5
+muscle	muscular dystrophy, limb-girdle, type 1e
+muscle	spinal muscular atrophies of childhood
+muscle	limb-girdle muscular dystrophy, type 2b
+muscle	muscular dystrophy, emery-dreifuss
+muscle	myopathy, x-linked, with postural muscle atrophy
+muscle	muscular dystrophy-dystroglycanopathy (congenital with or without impaired intellectual development), type b, 5
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 5
+muscle	muscular dystrophy-dystroglycanopathy (congenital without impaired intellectual development), type b, 4
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 4
+muscle	facioscapulohumeral muscular dystrophy 1a
+muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type b, 14
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 14
+muscle	glycogen storage disease 0, muscle
+muscle	limb-girdle muscular dystrophy, type 1g
+muscle	dystonia musculorum deformans type 2
+muscle	spinal muscular atrophy with respiratory distress 1
+muscle	muscular dystrophy, congenital, with cataracts and intellectual disability
+muscle	muscular dystrophy, congenital, due to integrin alpha-7 deficiency
+muscle	fibrosis of extraocular muscles, congenital, 3b
+muscle	muscular dystrophy congenital, merosin negative
+muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type b, 6
+muscle	muscular dystrophy, autosomal recessive, with cardiomyopathy and triangular tongue
+muscle	muscular dystrophy, congenital, lmna-related
+muscle	muscular dystrophy, oculopharyngeal
+muscle	muscle hypertrophy
+muscle	myostatin-related muscle hypertrophy
+muscle	smooth muscle tumor
+muscle	muscle hypertonia
+muscle	fibrosis of extraocular muscles, congenital, 2
+muscle	epidermolysa bullosa simplex and limb girdle muscular dystrophy
+muscle	muscular dystrophy, limb-girdle, autosomal recessive 17
+muscle	spinal muscular atrophy, distal, autosomal recessive, 4
+muscle	muscular dystrophy, limb-girdle, autosomal recessive 21
+muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type b, 3
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 3
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 12
+muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual impairment), type b, 1
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 1
+muscle	muscular dystrophy-dystroglycanopathy (congenital with impaired intellectual development), type b, 2
+muscle	muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 2
+muscle	limb-girdle muscular dystrophy, type 2e
+muscle	limb-girdle muscular dystrophy type 2f
+muscle	limb-girdle muscular dystrophy, type 2c
+muscle	spinal muscular atrophy, jerash type
+muscle	neuromuscular manifestations
+muscle	facioscapulohumeral muscular dystrophy 1b
+muscle	muscular atrophy, spinal
+muscle	spinal muscular atrophy 4
+muscle	muscular dystrophy, limb-girdle, type 2g
+muscle	muscular dystrophy, limb-girdle, type 1f
+muscle	dystonia musculorum deformans type 1
+muscle	neuromuscular diseases
+muscle	muscular dystrophy, limb-girdle, autosomal recessive 18
+muscle	limb-girdle muscular dystrophy type 2h
+muscle	muscular dystrophy, congenital, davignon-chauveau type
+muscle	spinal muscular atrophy with congenital bone fractures 1
+muscle	scapuloperoneal spinal muscular atrophy
+muscle	spinal muscular atrophy, distal, congenital nonprogressive
+muscle	muscular dystrophy, limb-girdle, type 2j
+muscle	fibrosis of extraocular muscles, congenital, 3a, with or without extraocular involvement
+muscle	spinal muscular atrophy, proximal, adult, autosomal dominant
+muscle	myoclonic epilepsies, progressive
+muscle	myoclonic epilepsy, juvenile
+muscle	epilepsy, familial adult myoclonic, 5
+muscle	myoclonic dystonia
+muscle	epilepsy, progressive myoclonic, 3, with or without intracellular inclusions
+muscle	myoclonus, intractable, neonatal
+muscle	epilepsy, familial adult myoclonic, 3
+muscle	myoclonus
+muscle	myoclonus, familial, 1
+muscle	epilepsies, myoclonic
+muscle	opsoclonus-myoclonus syndrome
+muscle	prickle1-related progressive myoclonic epilepsy with ataxia
+muscle	epilepsy, myoclonic, benign adult familial, type 1
+muscle	epilepsy, progressive myoclonic, 4, with or without renal failure
+muscle	myoclonic-atonic epilepsy
+muscle	epilepsy, myoclonic, benign adult familial, type 2
+muscle	myoclonic epilepsy, familial infantile
 skin	inflammatory skin and bowel disease, neonatal, 1
 skin	skin neoplasms
 skin	skin diseases
@@ -470,79 +601,3 @@ skin	acrodermatitis
 skin	microcephaly, congenital cataract, and psoriasiform dermatitis
 skin	acrodermatitis enteropathica
 skin	seborrhea-like dermatitis with psoriasiform elements
-lung	lung diseases
-lung	lung neoplasms
-lung	carcinoma, non-small-cell lung
-lung	adenocarcinoma of lung
-lung	lung injury
-lung	acute lung injury
-lung	small cell lung carcinoma
-lung	lung diseases, obstructive
-lung	autoimmune interstitial lung, joint, and kidney disease
-lung	lung diseases, interstitial
-lung	lung agenesis
-lung	rajab interstitial lung disease with brain calcifications 1
-lung	interstitial lung disease, nephrotic syndrome, and epidermolysis bullosa, congenital
-lung	carcinoma, lewis lung
-lung	interstitial lung and liver disease
-lung	lung disease, immunodeficiency, and chromosome breakage syndrome
-lung	paraquat lung
-lung	46,xx sex reversal with dysgenesis of kidneys, adrenals, and lungs
-lung	hypertension, pulmonary
-lung	pulmonary fibrosis
-lung	surfactant metabolism dysfunction, pulmonary, 3
-lung	pulmonary edema
-lung	pulmonary emphysema
-lung	plasma cell granuloma, pulmonary
-lung	tuberculosis, pulmonary
-lung	idiopathic pulmonary fibrosis
-lung	familial primary pulmonary hypertension
-lung	pulmonary arterial hypertension
-lung	pulmonary veno-occlusive disease
-lung	pulmonary embolism
-lung	pulmonary disease, chronic obstructive
-lung	pulmonary hypertension, neonatal, susceptibility to
-lung	pulmonary alveolar proteinosis
-lung	surfactant metabolism dysfunction, pulmonary, 4
-lung	surfactant metabolism dysfunction, pulmonary, 5
-lung	pleuropulmonary blastoma
-lung	pulmonary edema of mountaineers
-lung	bronchopulmonary dysplasia
-lung	cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities
-lung	pulmonary eosinophilia
-lung	pulmonary fibrosis and/or bone marrow failure, telomere-related, 4
-lung	pulmonary fibrosis and/or bone marrow failure, telomere-related, 3
-lung	hyperuricemia, pulmonary hypertension, renal failure, and alkalosis syndrome
-lung	surfactant metabolism dysfunction, pulmonary, 1
-lung	surfactant metabolism dysfunction, pulmonary, 2
-lung	pulmonary alveolar microlithiasis
-lung	anophthalmia with pulmonary hypoplasia
-lung	pulmonary fibrosis and/or bone marrow failure, telomere-related, 2
-lung	pulmonary fibrosis and/or bone marrow failure, telomere-related, 1
-lung	respiratory insufficiency
-lung	respiratory distress syndrome, adult
-lung	respiratory tract diseases
-lung	severe acute respiratory syndrome
-lung	respiratory hypersensitivity
-lung	respiratory syncytial virus infections
-lung	respiratory tract infections
-lung	respiratory sounds
-lung	spinal muscular atrophy with respiratory distress 1
-lung	respiratory distress syndrome, newborn
-lung	choreoathetosis, hypothyroidism, and neonatal respiratory distress
-lung	respiratory system abnormalities
-lung	retinitis pigmentosa, x-linked, and sinorespiratory infections, with or without deafness
-lung	granuloma, respiratory tract
-lung	hereditary myopathy with early respiratory failure
-prostate	prostatic neoplasms
-prostate	prostate cancer, familial
-prostate	prostatic neoplasms, castration-resistant
-prostate	prostatic intraepithelial neoplasia
-prostate	prostate cancer, hereditary, 12
-prostate	prostate cancer/brain cancer susceptibility
-prostate	prostatic hyperplasia
-prostate	prostate cancer, hereditary, 9
-prostate	prostatitis
-prostate	phyllodes tumor of the prostate
-prostate	prostate cancer, hereditary, 13
-prostate	prostatic diseases

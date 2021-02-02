@@ -1,13 +1,5 @@
 adverse_event	pathway	size	p_value	adjusted_p_value
-arrhythmia	integral component of presynaptic membrane	62	1.20989123013566e-06	0.00068237865379651
-arrhythmia	GABA-ergic synapse	88	0.000118540996911515	0.0263680069009419
-arrhythmia	dopaminergic synapse	15	0.000140255355856074	0.0263680069009419
-arrhythmia	GABA-A receptor complex	32	0.000305927661683421	0.0431358002973623
-cardiac arrest	integral component of presynaptic membrane	62	9.92720266803756e-05	0.0493521795133378
-cardiac arrest	dopaminergic synapse	15	0.000175007728770702	0.0493521795133378
-myoclonus	dopaminergic synapse	15	8.90573570125199e-06	0.00502283493550612
-myoclonus	integral component of presynaptic membrane	62	3.89351087963988e-05	0.0109797006805845
-myoclonus	GABA-ergic synapse	88	7.63911241103583e-05	0.0143615313327474
-renal tubular disorder	integral component of presynaptic membrane	62	4.24931048484683e-05	0.0239661111345361
-rash erythematous	cell leading edge	48	6.14546187104222e-05	0.0346604049526781
-prostate cancer	9+0 non-motile cilium	23	5.77240972614936e-05	0.0325563908554824
+ventricular dysfunction	integral component of presynaptic membrane	62	8.05074772067449e-06	0.00454062171446041
+acute hepatic failure	integral component of presynaptic membrane	62	5.21001653197544e-06	0.00293844932403415
+myoclonus	intrinsic component of plasma membrane	39	2.66965283983827e-06	0.00150568420166878
+rash erythematous	integral component of presynaptic membrane	62	9.16062352787805e-07	0.000516659166972322

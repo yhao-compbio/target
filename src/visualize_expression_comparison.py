@@ -36,7 +36,18 @@ dict_i = 0
 col_set = plt.rcParams['axes.prop_cycle'].by_key()['color']
 for i in range(0, len(all_aes)):
 	# iterate by adverse event, obtain name of addverse event to be shown on x axis  
-	ae_name.append('\n'.join(all_aes[i].split('_')))
+	if all_aes[i] in ['atrial_fibrillation', 'renal_injury', 'muscle_rigidity' , 'acute_hepatic_failure', 'rash_macular']:
+		ae_name.append(' '.join(all_aes[i].split('_')))
+	elif all_aes[i] == 'musculoskeletal_chest_pain':
+		ae_name.append('musculoskeletal\nchest pain')
+	else:
+		aas = all_aes[i].split('_')
+		aas_len = len(aas)
+		if aas_len == 1:
+			ae_name.append(aas[0])
+		else:
+			aas_c = ' '.join(aas[0:(aas_len-1)]) + '\n' + aas[aas_len-1]
+			ae_name.append(aas_c)
 	# set box color for the adverse event (grouped by the matched tissue)  
 	if (all_tissues[i] in col_dict.keys()) == False:
 		col_dict[all_tissues[i]] = col_set[dict_i]
@@ -52,6 +63,10 @@ for cd_key in col_dict:
 	# iterate by tissue, obtain name of tissue to be shown along with color patch
 	if cd_key == 'Whole_Blood':
 		key_name = 'Blood'
+	elif cd_key == 'Heart_Atrial_Appendage':
+		key_name = 'Atrium'
+	elif cd_key == 'Heart_Left_Ventricle':
+		key_name = 'Ventricle'
 	else:
 		key_name = cd_key.split('_')[0]
 	# obtain color patch of each tissue  
@@ -59,7 +74,7 @@ for cd_key in col_dict:
 	patchList.append(col_patch)
 
 ## 3. Specify figure and font size of boxplot 
-plt.figure(figsize = (18, 9))
+plt.figure(figsize = (21, 9))
 plt.rc('font', size = 25)
 plt.rc('axes', titlesize = 30)
 plt.rc('axes', labelsize = 30)
@@ -85,9 +100,9 @@ plt.plot(sig_x, sig_y, marker = '*', color = 'r', linestyle = 'None', markersize
 ax.set(xlabel = None)
 ax.set(ylabel = 'Expression')
 # add legends showing the color patches of all tissues 
-plt.legend(handles = patchList, loc = 'upper left', frameon = False, ncol = 4)
-plt.plot(-0.3, 2.15, marker = '*', color = 'r', linestyle = 'None', markersize = 15)
-plt.text(-0.1, 2.1, 'Selected genes (left) > All genes (right), FDR<0.05')
+plt.legend(handles = patchList, loc = 'upper left', frameon = False, ncol = 5)
+plt.plot(-0.3, 2.2, marker = '*', color = 'r', linestyle = 'None', markersize = 15)
+plt.text(-0.1, 2.15, 'Selected genes (left) > All genes (right), FDR<0.05')
 
 ## 5. Save boxplot
 plt.tight_layout()
