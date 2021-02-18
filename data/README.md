@@ -38,3 +38,5 @@ Target pairs were then grouped into ones with common function (functionn similar
 ## Predictive target map of adverse events 
  
 + [Mapping between 36 adverse events and 101 targets](target_map/descriptor_all_all_adverse_event_select_features_data.tsv) were generated. Adverse events with AUROC > 0.65 were included in the map. Targets that are mapped to more than 5 adverse events are included in the map. 
+
++ [Significant clusters of adverse events](target_map/descriptor_all_all_adverse_event_select_features_data_cluster_ae.tsv) were genereated from dendrogram of hierarchical clustering. 

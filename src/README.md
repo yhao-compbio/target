@@ -24,5 +24,7 @@
 
 + [`visualize_target_map.py`](visualize_target_map.py) visualizes relationship map between adverse events and predictive target features. 
 
++ [`cluster_target_map.R`](cluster_target_map.R) implements pvclust package to identify significant clusters of adverse events from adverse event-predictive targets map.
+
 + [`functions.R`](functions.R) contains R functions required for other scripts in the repository.
 

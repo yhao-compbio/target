@@ -1,0 +1,15 @@
+adverse_events_cluster	N_adverse_events	N_reproducibility
+atrial fibrillation,cholelithiasis,death,febrile neutropenia,haematemesis,infection,jaundice cholestatic,musculoskeletal chest pain,neoplasm malignant,neoplasm progression,pancytopenia	11	5
+febrile neutropenia,infection,neoplasm progression,pancytopenia	4	4
+acute hepatic failure,adrenal insufficiency,atrial fibrillation,cholelithiasis,colitis,death,emphysema,febrile neutropenia,haematemesis,haemolytic anaemia,haemorrhage intracranial,hepatosplenomegaly,infection,jaundice cholestatic,musculoskeletal chest pain,neoplasm malignant,neoplasm progression,pancytopenia,pharyngeal oedema,pulmonary alveolar haemorrhage,rash erythematous,rash macular,renal injury,treatment failure,ventricular dysfunction	25	3
+agitation,delusion,drug dependence,muscle rigidity,sedation,suicide attempt	6	3
+adrenal insufficiency,atrial fibrillation,cholelithiasis,colitis,death,febrile neutropenia,haematemesis,haemolytic anaemia,haemorrhage intracranial,hepatosplenomegaly,infection,jaundice cholestatic,musculoskeletal chest pain,neoplasm malignant,neoplasm progression,pancytopenia,pharyngeal oedema,pulmonary alveolar haemorrhage,rash erythematous,rash macular	20	2
+adrenal insufficiency,atrial fibrillation,cholelithiasis,colitis,death,febrile neutropenia,haematemesis,hepatosplenomegaly,infection,jaundice cholestatic,musculoskeletal chest pain,neoplasm malignant,neoplasm progression,pancytopenia,rash erythematous,rash macular	16	2
+adrenal insufficiency,colitis,hepatosplenomegaly,rash erythematous,rash macular	5	2
+agitation,delusion,drug dependence,inappropriate schedule of drug administration,muscle rigidity,myoclonus,nervousness,sedation,suicide attempt,wrong drug administered	10	2
+	0	1
+acute hepatic failure,emphysema,renal injury,treatment failure,ventricular dysfunction	5	1
+atrial fibrillation,cholelithiasis,death,febrile neutropenia,haematemesis,infection,jaundice cholestatic,neoplasm malignant,neoplasm progression,pancytopenia	10	1
+haemolytic anaemia,haemorrhage intracranial,pharyngeal oedema	3	1
+neoplasm progression,pancytopenia	2	1
+rash erythematous,rash macular	2	1

@@ -18,13 +18,19 @@ We also mapped the targets to their Gene Ontology and Reactome pathway annotatio
 
 ![function_similarity_group](plot/function_similarity/descriptor_all_select_features_mc_0.85_function_similarity_group_boxplot.png)
 
+### Similar adverse events are clustered together by predictive targets 
+
+We performed hierarchical clustering on 36 adverse events (AUROC > 0.65) using a subset of predictive targets (mapped to more than 5/36 adverse events). WE used pvclust andidentified  three consistently significant clusters (size < 10). The first cluster (top) expands across six behavioral events including sedation, suicide attempt, drug dependence, delusion, agitation, and muscle rigidity. The second cluster (middle) expands across five events, including two dermal events: rash erythematous and rash macular, as well as two digestive events: colitis and hepatosplenomegaly. The third cluster (bottom) expands across four events, including three hematologic events: pancytopenia, febrile neutropenia, and infection. 
+
+![adverse_event_cluster](plot/target_map/descriptor_all_all_adverse_event_select_features_data_cluster.png)
+
 ### Identified target genes are differentially expressed in the tissue of toxicity 
 
 Next, we analyzed the differential expression of target genes in the tissue of toxicity. For this analysis, we used GTEx tissue-specific TPM data. We normalized the expression values of each gene by the median expression across all tissues, then took the absolute value of logarithms as a measure of differential expression. We mapped 15 adverse events of interest (with model AUROC > 0.65) to a GTEx tissue, compared the differential expression of identified target genes to the null distribution consisting of all genes. The boxplot below shows the comparison. The identified target genes of seven adverse events are differentially expressed in their tissues of toxicity. They are: colitis (colon), renal injury (kidney), muscle rigidity (muscle), myoclonus (muscle), rash erythematous (skin), rash macular (skin), and pancytopenia (blood). 
 
 ![select_targets_de_compare](plot/target_expression/descriptor_all_all_adverse_event_select_targets_de_compare.png)
 
-## Identified target genes are enriched for disease markers/therapeutics
+### Identified target genes are enriched for disease markers/therapeutics
 
 Last, we analyzed the connections between target genes and associated diseases. For this analysis, we used disease-gene connections from CTD. We only kept the connections with direct supporting evidence (e.g. the gene is a disease marker/therapeutic). We mapped 13 adverse events of interest (with model AUROC > 0.65) to a list of associated diseases through key words matching. We then tested whether the identified target genes are enriched for disease-related genes. The table below shows the results of Fisher's exact test. In six of the 12 adverse events, the identified target genes are twice or more likely to be disease-related genes (OR > 2). In two of the 12 adverse events, the identified target genes are significantly enriched for disease-related genes (FDR < 0.05). They are: rash erythematous-skin disease, and hepatosplenomegaly-liver disease. 
 
