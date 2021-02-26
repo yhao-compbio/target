@@ -102,7 +102,7 @@ ax.set(ylabel = 'Expression')
 # add legends showing the color patches of all tissues 
 plt.legend(handles = patchList, loc = 'upper left', frameon = False, ncol = 5)
 plt.plot(-0.3, 2.2, marker = '*', color = 'r', linestyle = 'None', markersize = 15)
-plt.text(-0.1, 2.15, 'Selected genes (left) > All genes (right), FDR<0.05')
+plt.text(-0.1, 2.15, 'Predictive targets (left) > background genes (right), FDR<0.05')
 
 ## 5. Save boxplot
 plt.tight_layout()
